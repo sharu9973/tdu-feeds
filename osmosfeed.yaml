@@ -3,9 +3,9 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://s21rd.github.io/tdu-feeds/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/
+  - href: https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/
+  - href: https://www.mrcl.dendai.ac.jp/mrcl/feed/
+  - href: https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk
