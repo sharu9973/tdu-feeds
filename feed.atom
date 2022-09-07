@@ -1,489 +1,372 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T11:38:40.989Z</id>
+    <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T11:38:40.989Z</updated>
+    <updated>2022-09-07T11:45:40.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
+    <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How Responsive Web Design Can Help Your Business – A Beginner's Guide to RWD]]></title>
-        <id>https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/</id>
-        <link href="https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/"/>
-        <updated>2022-09-06T20:18:06.000Z</updated>
-        <summary type="html"><![CDATA[As the world of technology continues to advance, so does the way people interact with businesses and organizations.  With the growing popularity of mobile devices, responsive website design has become a must-have. It helps you provide the best user experience to customers regardless of which device they are using]]></summary>
+        <title type="html"><![CDATA[インターネット接続回線（SINET）緊急メンテナンスに伴う通信断発生のお知らせ（9/5）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12176</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/08/30/sinet-maintenance-0905/"/>
+        <updated>2022-08-30T03:59:31.000Z</updated>
+        <summary type="html"><![CDATA[インターネット接続回線（学術情報ネットワークSINET）の緊急メンテナンス作業が以下の日時に行われます。本作業は国立情報学研究所（NII）が主体となって実施されるものです。作業中、インターネットの利用ができなくなるなどの […]
+インターネット接続回線（SINET）緊急メンテナンスに伴う通信断発生のお知らせ（9/5） first appeared on 総合メディアセンター.]]></summary>
         <author>
-            <name>Valentine Gatwiri</name>
+            <name>k-iwamoto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Reverse List – Reversing an Array in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/"/>
-        <updated>2022-09-06T19:36:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to reverse a list in Python. Firstly, I'll introduce you to lists in Python and you'll learn how to write them. After that, you will see three different ways you can reverse the list items inside any list you create. Here is what]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking CSS Animation State and Playback Time]]></title>
-        <id>https://css-tricks.com/?p=372850</id>
-        <link href="https://css-tricks.com/hacking-css-animation-state-and-playback-time/"/>
-        <updated>2022-09-06T18:00:28.000Z</updated>
-        <summary type="html"><![CDATA[CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.
-Inspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …
-Hacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Framework? Software Frameworks Definition]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/"/>
-        <updated>2022-09-06T17:52:18.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning to code, you'll frequently hear the term "framework". And it can be difficult for new developers to grasp. You'll commonly come across frameworks in roadmap resources, when speaking with other developers, when learning about a new coding tool, and many other places. In this article, you will]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Machine Learning? ML Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/"/>
-        <updated>2022-09-06T17:25:08.000Z</updated>
-        <summary type="html"><![CDATA[The term “Machine Learning” was coined by a computer gamer named Arthur Samuel in 1959. He defined it like this: > "[Machine learning is a] Field of study that gives computers the ability to learn and make predictions without being explicitly programmed." ML is a sub-field of Artificial Intelligence. It's]]></summary>
-        <author>
-            <name>Oluwafunmilola Obisesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OOP Meaning – What is Object-Oriented Programming?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-object-oriented-programming/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-object-oriented-programming/"/>
-        <updated>2022-09-06T17:15:18.000Z</updated>
-        <summary type="html"><![CDATA[In today's technology driven society, computer programming knowledge is in high demand. And as a developer, you'll need to know various programming languages. Over the past few decades, many programming languages have risen in popularity. You can see how popular languages are ranked in this real time ranking chart]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Eleventy Static Site Generator by Building and Deploying a Portfolio Website]]></title>
-        <id>https://www.freecodecamp.org/news/learn-eleventy/</id>
-        <link href="https://www.freecodecamp.org/news/learn-eleventy/"/>
-        <updated>2022-09-06T16:26:13.000Z</updated>
-        <summary type="html"><![CDATA[What is Eleventy? Eleventy (also called 11ty) is a simple yet powerful static site generator. It uses JavaScript to transform data and templates into HTML pages. It’s beginner-friendly, has fast build times, and generates fast sites by default. It also has a very active and friendly community. Eleventy excels at]]></summary>
-        <author>
-            <name>Gerard Hynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Translation Month is Back – How to Help Translate freeCodeCamp into Your Native Language]]></title>
-        <id>https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/</id>
-        <link href="https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/"/>
-        <updated>2022-09-06T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter For Front-End Web Developers]]></title>
-        <id>https://css-tricks.com/?p=372853</id>
-        <link href="https://css-tricks.com/flutter-for-front-end-web-developers/"/>
-        <updated>2022-09-05T20:10:24.000Z</updated>
-        <summary type="html"><![CDATA[I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.
-In this article, I want to …
-Flutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source for Developers – A Beginner's Handbook to Help You Start Contributing]]></title>
-        <id>https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/</id>
-        <link href="https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/"/>
-        <updated>2022-09-02T16:34:40.000Z</updated>
-        <summary type="html"><![CDATA[What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript DOM Tutorial – How to Build a Calculator App in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/"/>
-        <updated>2022-09-02T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Monitor Python APIs using Pyctuator and SpringBootAdmin]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/"/>
-        <updated>2022-09-02T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Accessibility And Usability Journey Of Drupal’s Primary Navigation]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/"/>
-        <updated>2022-09-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, September 2022]]></title>
-        <id>https://css-tricks.com/?p=373126</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-sept2022/"/>
-        <updated>2022-09-01T20:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …
-Behind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing JAWS, NVDA, and VoiceOver]]></title>
-        <id>https://css-tricks.com/?p=372855</id>
-        <link href="https://css-tricks.com/comparing-jaws-nvda-and-voiceover/"/>
-        <updated>2022-09-01T17:47:16.000Z</updated>
-        <summary type="html"><![CDATA[A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …
-Comparing JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iShadeed’s Container Queries Lab]]></title>
-        <id>https://css-tricks.com/?p=373087</id>
-        <link href="https://css-tricks.com/ishadeeds-container-queries-lab/"/>
-        <updated>2022-09-01T14:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.
-And, if you missed it, his latest post on container queries does a wonderful job covering how they work since …
-iShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
-        <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
-        <updated>2022-09-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful JavaScript Data Grid Libraries]]></title>
-        <id>https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/</id>
-        <link href="https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/"/>
-        <updated>2022-09-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
-        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
-        <updated>2022-08-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpolating Numeric CSS Variables]]></title>
-        <id>https://css-tricks.com/?p=372839</id>
-        <link href="https://css-tricks.com/interpolating-numeric-css-variables/"/>
-        <updated>2022-08-30T13:17:25.000Z</updated>
-        <summary type="html"><![CDATA[We can make variables in CSS pretty easily:
-:root {
-  --scale: 1;
-}
-And we can declare them on any element:
-.thing {
-  transform: scale(var(--scale));
-}
-Even better for an example like this is applying the variable on a user …
-Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
-        <updated>2022-08-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
-        <id>https://css-tricks.com/?p=372634</id>
-        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
-        <updated>2022-08-26T13:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
-Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi Selvam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/error-messages-ux-design/"/>
+        <title type="html"><![CDATA[物理科学計測のための統計入門 : 分光スペクトルと化学分析への応用]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20081864&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20081864&amp;hidden_return_link=true"/>
         <updated>2022-08-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.]]></summary>
+        <summary type="html"><![CDATA[河合潤 [ほか] 著 = Data Analysis for Physical Sciences. -- アグネ技術センター, 2019.12.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Not Sure How to WordPress Anymore?]]></title>
-        <id>https://css-tricks.com/?p=372616</id>
-        <link href="https://css-tricks.com/not-sure-how-to-wordpress-anymore/"/>
-        <updated>2022-08-25T14:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …
-Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Pythonで動かして学ぶ!あたらしい機械学習の教科書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085104&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085104&amp;hidden_return_link=true"/>
+        <updated>2022-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伊藤真著. -- 第3版. -- 翔泳社, 2022.7. -- (AI & Technology).<図書>]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
-        <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
-        <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
-        <updated>2022-08-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
+        <title type="html"><![CDATA[Nonlinear solid mechanics : bifurcation theory and material instability]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085135&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085135&amp;hidden_return_link=true"/>
+        <updated>2022-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Davide Bigoni ; pbk.. -- Cambridge University Press, 2014. -- 巻号等：pbk.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Doug Sillars)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project]]></title>
-        <id>https://css-tricks.com/?p=372576</id>
-        <link href="https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/"/>
-        <updated>2022-08-24T13:11:47.000Z</updated>
-        <summary type="html"><![CDATA[If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …
-Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[学内サーバの緊急メンテナンスに伴うZoom、Box、UNIPAの一時認証不可について（8/25(木)22:00-)]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12154</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/08/25/server-maint-20220825/"/>
+        <updated>2022-08-25T02:51:11.000Z</updated>
+        <summary type="html"><![CDATA[学内サーバについて、以下の日時で緊急メンテナンス作業を実施するため、Zoom、Box、UNIPAで利用している認証システム（Swivel Secure）での認証が一時的に利用できなくなる時間が発生いたします。 　作業日時 […]
+学内サーバの緊急メンテナンスに伴うZoom、Box、UNIPAの一時認証不可について（8/25(木)22:00-) first appeared on 総合メディアセンター.]]></summary>
         <author>
-            <name>Ollie Williams</name>
+            <name>k-iwamoto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Removing jQuery from GOV.UK]]></title>
-        <id>https://css-tricks.com/?p=372485</id>
-        <link href="https://css-tricks.com/removing-jquery-from-gov-uk/"/>
-        <updated>2022-08-23T13:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …
-Removing jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Unityで制作してみる初級編：ワークショップ開催のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12138</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/08/23/20220906_unity_workshop/"/>
+        <updated>2022-08-23T09:34:38.000Z</updated>
+        <summary type="html"><![CDATA[オフラインのワークショップを開催いたします。 Unityを使って”ひよこ”で３Ｄのアニメーション・ゲームを制作します。 Unityを始めたばかりの初心者でも制作ができるようになります。ゲームに限ら […]
+Unityで制作してみる初級編：ワークショップ開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
-            <name>Bradley Kouchi</name>
+            <name>katsumi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
-        <updated>2022-08-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
+        <title type="html"><![CDATA[離散数学とその応用 : 工学基礎]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085089&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085089&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[徳山豪著. -- 第2版. -- 数理工学社. -- (新・工科系の数学 ; TKM-A2).<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 2]]></title>
-        <id>https://css-tricks.com/?p=372396</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
-        <updated>2022-08-22T14:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.
-Here’s just one of the fantastic grids we made together:
-CodePen…
-CSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[機械系大学院への四力・制御問題精選]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085090&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085090&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[青木隆平編著. -- 培風館, 2022.7.<図書>]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/</id>
-        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/"/>
-        <updated>2022-08-22T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.]]></summary>
+        <title type="html"><![CDATA[Tableau徹底入門 : 基礎から実務まで完全マスター]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085091&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085091&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[酒井悠亮, 渡部卓久著. -- 共立出版, 2022.7.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implementing A Reset Password Feature With Next.js Dynamic Routes]]></title>
-        <id>https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/</id>
-        <link href="https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/"/>
-        <updated>2022-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.]]></summary>
+        <title type="html"><![CDATA[M5StackではじめるIoT電子工作 : メイカーズ工作工房]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085092&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085092&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伊藤浩之著. -- 技術評論社, 2022.7.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Do You Use CSS Columns?]]></title>
-        <id>https://css-tricks.com/?p=372539</id>
-        <link href="https://css-tricks.com/when-do-you-use-css-columns/"/>
-        <updated>2022-08-18T13:24:48.000Z</updated>
-        <summary type="html"><![CDATA[That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.
-The answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …
-When Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[SOLIDWORKSによるCAE教室 : 機構解析/流体解析]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085093&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085093&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[篠原主勲著. -- コロナ社, 2022.7.<図書>]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction To Context Propagation In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2022/08/react-context-propagation-javascript/</id>
-        <link href="https://smashingmagazine.com/2022/08/react-context-propagation-javascript/"/>
-        <updated>2022-08-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.]]></summary>
+        <title type="html"><![CDATA[高校数学で学ぶディープラーニング : 画像認識への入門コース]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085094&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085094&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[竹内淳著. -- 東京図書, 2022.7.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Evyatar Alush)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why (and How) I Write Code With Pencil and Paper]]></title>
-        <id>https://css-tricks.com/?p=367045</id>
-        <link href="https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/"/>
-        <updated>2022-08-17T13:21:17.000Z</updated>
-        <summary type="html"><![CDATA[If the thought of handwriting code seems silly, it might surprise you to know that it’s inevitable. If you’re unsure, think about the last job interview you did, and remember how there was no computer around in the interview room …
-Why (and How) I Write Code With Pencil and Paper originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[TOEIC L&RテストTOEIC S&Wテストわかる・使える4000単語]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085095&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085095&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デイビッド・セイン著. -- 語研, 2022.7.<図書>]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing A Better Back Button UX]]></title>
-        <id>https://smashingmagazine.com/2022/08/back-button-ux-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/back-button-ux-design/"/>
-        <updated>2022-08-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.]]></summary>
+        <title type="html"><![CDATA[科研費獲得の方法とコツ : 実例とポイントでわかる申請書の書き方と応募戦略]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085101&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085101&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[児島将康著. -- 改訂第8版. -- 羊土社, 2022.7.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 1]]></title>
-        <id>https://css-tricks.com/?p=367324</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-1/"/>
-        <updated>2022-08-15T13:13:47.000Z</updated>
-        <summary type="html"><![CDATA[In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…
-CSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[自動車のしくみパーフェクト事典 : 知っておきたい基本構造から最新技術まで]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085102&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085102&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[古川修監修. -- 第2版. -- ナツメ社, 2022.8. -- (ダイナミック図解).<図書>]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything Developers Must Know About Figma]]></title>
-        <id>https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/</id>
-        <link href="https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/"/>
-        <updated>2022-08-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.]]></summary>
+        <title type="html"><![CDATA[パワーエレクトロニクス : カラー徹底図解]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085103&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085103&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[赤津観監修. -- ナツメ社, 2022.8.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Christine Vallaure)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Skeleton: Svelte + Tailwind For Reactive UIs]]></title>
-        <id>https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/</id>
-        <link href="https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/"/>
-        <updated>2022-08-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.]]></summary>
+        <title type="html"><![CDATA[一冊で突破!SPI3&テストセンター]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085106&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085106&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[成美堂出版編集部編著 ; 2024年入社用. -- 成美堂出版, 2022.8. -- (スマート就活). -- 巻号等：2024年入社用<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Chris Simmons)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Tip: Clear VS Code Cache for Open Files]]></title>
-        <id>https://css-tricks.com/?p=367403</id>
-        <link href="https://css-tricks.com/quick-tip-clear-vs-code-cache-for-open-files/"/>
-        <updated>2022-08-11T13:35:56.000Z</updated>
-        <summary type="html"><![CDATA[If you use VS Code, you might have enabled the setting for re-opening a previously open file next time the app launches. I do. I like that.
-Hey, thanks for remembering, buddy! 🤗
-But sometimes you really, really don’t want …
-Quick Tip: Clear VS Code Cache for Open Files originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[同時に対策!エントリーシート&面接]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085107&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085107&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[チームUKT監修 ; 2024年入社用. -- 成美堂出版, 2022.8. -- (スマート就活). -- 巻号等：2024年入社用<図書>]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/</id>
-        <link href="https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/"/>
-        <updated>2022-08-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.]]></summary>
+        <title type="html"><![CDATA[最もくわしい屋根・小屋組の図鑑]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085108&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085108&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[建築知識編. -- 改訂版. -- エクスナレッジ, 2022.7.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Core Web Vitals Tools To Boost Your Web Performance Scores]]></title>
-        <id>https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/</id>
-        <link href="https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/"/>
-        <updated>2022-08-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.]]></summary>
+        <title type="html"><![CDATA[本質を捉えたデータ分析のための分析モデル入門 : 統計モデル、深層学習、強化学習等用途・特徴から原理まで一気通貫!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085040&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085040&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[杉山聡著. -- ソシム, 2022.8.<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 50 With Marko Dugonjic: Can You Change A UX Dinosaur?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/"/>
-        <updated>2022-08-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we ask how you can affect change to UX design in large organizations stuck in their ways. Vitaly talks to Marko Dugonjić to find out.]]></summary>
+        <title type="html"><![CDATA[スラスラわかるC++ : はじめてでもつまずかない!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085111&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085111&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[矢沢久雄著. -- 第3版. -- 翔泳社, 2022.7. -- (Beginner's Best Guide to Programming).<図書>]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スラスラわかるHTML&CSSのきほん]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085112&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085112&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[狩野祐東著. -- 第3版. -- SBクリエイティブ, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新建築設備工学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085113&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085113&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[宇田川光弘 [ほか] 著. -- 改訂2版. -- 井上書院, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino (アルドゥイーノ) 電子工作実践講座 : 電子部品ごとの制御を学べる!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085114&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085114&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[福田和宏著. -- 改訂第3版. -- ソーテック社, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙と鉛筆で身につけるデータサイエンティストの仮説思考]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085115&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085115&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[孝忠大輔編著 ; 川地章夫 [ほか] 著. -- 翔泳社, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[色塗りチュートリアル : 立体感のあるキャラを描こう! : デジタル彩色の基本]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085121&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085121&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[パクリノ著 ; 金智恵訳. -- マール社, 2020.3.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50歳からの科学的「筋肉トレーニング」 : 若いときとは違う体をどう鍛えるか]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085136&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085136&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フィンク・ジュリウス著. -- 講談社, 2022.7. -- (ブルーバックス ; B-2209).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文部科学白書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085137&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085137&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省編 ; 令和3年度. -- 日経印刷. -- 巻号等：令和3年度<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソクラテス言行録]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085138&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085138&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クセノポン [著] ; 内山勝利訳 ; 2. -- 京都大学学術出版会, 2022.7. -- (西洋古典叢書). -- 巻号等：2<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哲人たちの人生談義 : ストア哲学をよむ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085140&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085140&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[國方栄二著. -- 岩波書店, 2022.7. -- (岩波新書 ; 新赤版 1935).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[応援消費 : 社会を動かす力]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085141&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085141&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[水越康介著. -- 岩波書店, 2022.7. -- (岩波新書 ; 新赤版 1934).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曾国藩 : 「英雄」と中国史]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085142&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085142&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岡本隆司著. -- 岩波書店, 2022.7. -- (岩波新書 ; 新赤版 1936).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[森鷗外 : 学芸の散歩者]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085143&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085143&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中島国彦著. -- 岩波書店, 2022.7. -- (岩波新書 ; 新赤版 1937).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グラフニューラルネットワーク : PyTorchによる実装]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085110&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085110&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[村田剛志著. -- オーム社, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[図解!Dockerのツボとコツがゼッタイにわかる本 : 最初からそう教えてくれればいいのに!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085076&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085076&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[角間実著. -- 秀和システム, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組合せ最適化から機械学習へ : 劣モジュラ最適化とグラフマイニング]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085079&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085079&amp;hidden_return_link=true"/>
+        <updated>2022-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[相馬輔, 藤井海斗, 宮内敦史共著. -- サイエンス社, 2022.6. -- (AI/データサイエンス ライブラリ "基礎から応用へ" ; 1).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
 </feed>
