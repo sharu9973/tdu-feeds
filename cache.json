@@ -1,0 +1,582 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=372850",
+          "author": "Lu Wang",
+          "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/hacking-css-animation-state-and-playback-time/",
+          "publishedOn": "2022-09-06T18:00:28.000Z",
+          "wordCount": 2365,
+          "title": "Hacking CSS Animation State and Playback Time",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372850"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372853",
+          "author": "Obumuneme Nwabude",
+          "description": "I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.\nIn this article, I want to …\nFlutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/flutter-for-front-end-web-developers/",
+          "publishedOn": "2022-09-05T20:10:24.000Z",
+          "wordCount": 2227,
+          "title": "Flutter For Front-End Web Developers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372853"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373126",
+          "author": "Haley Mills",
+          "description": "Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …\nBehind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-sept2022/",
+          "publishedOn": "2022-09-01T20:06:56.000Z",
+          "wordCount": 2421,
+          "title": "Behind the CSScenes, September 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373126"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372855",
+          "author": "Ilknur Eren",
+          "description": "A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …\nComparing JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/comparing-jaws-nvda-and-voiceover/",
+          "publishedOn": "2022-09-01T17:47:16.000Z",
+          "wordCount": 3799,
+          "title": "Comparing JAWS, NVDA, and VoiceOver",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372855"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373087",
+          "author": "Geoff Graham",
+          "description": "Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.\nAnd, if you missed it, his latest post on container queries does a wonderful job covering how they work since …\niShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/ishadeeds-container-queries-lab/",
+          "publishedOn": "2022-09-01T14:29:27.000Z",
+          "wordCount": 849,
+          "title": "iShadeed’s Container Queries Lab",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372839",
+          "author": "Geoff Graham",
+          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(var(--scale));\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
+          "publishedOn": "2022-08-30T13:17:25.000Z",
+          "wordCount": 1877,
+          "title": "Interpolating Numeric CSS Variables",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372634",
+          "author": "Preethi Selvam",
+          "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/",
+          "publishedOn": "2022-08-26T13:44:49.000Z",
+          "wordCount": 4232,
+          "title": "Using Grid Named Areas to Visualize (and Reference) Your Layout",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372634"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372616",
+          "author": "Geoff Graham",
+          "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/not-sure-how-to-wordpress-anymore/",
+          "publishedOn": "2022-08-25T14:34:06.000Z",
+          "wordCount": 3550,
+          "title": "Not Sure How to WordPress Anymore?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372576",
+          "author": "Ollie Williams",
+          "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
+          "publishedOn": "2022-08-24T13:11:47.000Z",
+          "wordCount": 1808,
+          "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372485",
+          "author": "Bradley Kouchi",
+          "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
+          "publishedOn": "2022-08-23T13:04:31.000Z",
+          "wordCount": 1286,
+          "title": "Removing jQuery from GOV.UK",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372396",
+          "author": "Temani Afif",
+          "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
+          "publishedOn": "2022-08-22T14:08:39.000Z",
+          "wordCount": 4751,
+          "title": "CSS Grid and Custom Shapes, Part 2",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372539",
+          "author": "Geoff Graham",
+          "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-do-you-use-css-columns/",
+          "publishedOn": "2022-08-18T13:24:48.000Z",
+          "wordCount": 1614,
+          "title": "When Do You Use CSS Columns?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
+        },
+        {
+          "id": "https://css-tricks.com/?p=367045",
+          "author": "Preethi",
+          "description": "If the thought of handwriting code seems silly, it might surprise you to know that it’s inevitable. If you’re unsure, think about the last job interview you did, and remember how there was no computer around in the interview room …\nWhy (and How) I Write Code With Pencil and Paper originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/",
+          "publishedOn": "2022-08-17T13:21:17.000Z",
+          "wordCount": 3984,
+          "title": "Why (and How) I Write Code With Pencil and Paper",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367045"
+        },
+        {
+          "id": "https://css-tricks.com/?p=367324",
+          "author": "Temani Afif",
+          "description": "In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…\nCSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-1/",
+          "publishedOn": "2022-08-15T13:13:47.000Z",
+          "wordCount": 3798,
+          "title": "CSS Grid and Custom Shapes, Part 1",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
+        },
+        {
+          "id": "https://css-tricks.com/?p=367403",
+          "author": "Geoff Graham",
+          "description": "If you use VS Code, you might have enabled the setting for re-opening a previously open file next time the app launches. I do. I like that.\nHey, thanks for remembering, buddy! 🤗\nBut sometimes you really, really don’t want …\nQuick Tip: Clear VS Code Cache for Open Files originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-tip-clear-vs-code-cache-for-open-files/",
+          "publishedOn": "2022-08-11T13:35:56.000Z",
+          "wordCount": 1260,
+          "title": "Quick Tip: Clear VS Code Cache for Open Files",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367403"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
+          "author": "hello@smashingmagazine.com (Andrew Somers)",
+          "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
+          "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
+          "publishedOn": "2022-09-06T19:00:00.000Z",
+          "wordCount": 7368,
+          "title": "The Realities And Myths Of Contrast And Color",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.",
+          "link": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
+          "publishedOn": "2022-09-05T14:00:00.000Z",
+          "wordCount": 3267,
+          "title": "Meet Understanding Privacy, A New Smashing Book By Heather Burns",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "author": "hello@smashingmagazine.com (Mike Herchel)",
+          "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "publishedOn": "2022-09-02T10:30:00.000Z",
+          "wordCount": 3983,
+          "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
+          "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "publishedOn": "2022-09-01T11:00:00.000Z",
+          "wordCount": 4135,
+          "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.",
+          "link": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "publishedOn": "2022-09-01T08:00:00.000Z",
+          "wordCount": 4291,
+          "title": "Useful JavaScript Data Grid Libraries",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "publishedOn": "2022-08-31T08:45:00.000Z",
+          "wordCount": 4578,
+          "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
+          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "publishedOn": "2022-08-30T09:00:00.000Z",
+          "wordCount": 4517,
+          "title": "How To Improve And Measure Your Progress Learning Web Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
+          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "publishedOn": "2022-08-29T14:00:00.000Z",
+          "wordCount": 6043,
+          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
+          "link": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
+          "publishedOn": "2022-08-25T15:00:00.000Z",
+          "wordCount": 5903,
+          "title": "Designing Better Error Messages UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/93af7c7e-6484-4f47-9e79-fcf6aa24b3ce/better-error-messages-ux.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
+          "author": "hello@smashingmagazine.com (Doug Sillars)",
+          "description": "If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.",
+          "link": "https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/",
+          "publishedOn": "2022-08-25T08:00:00.000Z",
+          "wordCount": 3484,
+          "title": "Better Video Streaming With imgix",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
+          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "publishedOn": "2022-08-23T12:00:00.000Z",
+          "wordCount": 10151,
+          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
+          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
+          "publishedOn": "2022-08-22T09:30:00.000Z",
+          "wordCount": 6000,
+          "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
+          "author": "hello@smashingmagazine.com (Caleb Olojo)",
+          "description": "Most users tend to forget their passwords, so create experiences that will always be valuable for people when they use your products. In this article, we’ll discuss how to implement a password-reset feature with Next.js dynamic routes while prioritizing the UX.",
+          "link": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
+          "publishedOn": "2022-08-19T10:00:00.000Z",
+          "wordCount": 5295,
+          "title": "Implementing A Reset Password Feature With Next.js Dynamic Routes",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
+          "author": "hello@smashingmagazine.com (Evyatar Alush)",
+          "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
+          "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
+          "publishedOn": "2022-08-18T09:00:00.000Z",
+          "wordCount": 4630,
+          "title": "An Introduction To Context Propagation In JavaScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
+          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "publishedOn": "2022-08-16T09:00:00.000Z",
+          "wordCount": 4322,
+          "title": "Designing A Better Back Button UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
+          "author": "hello@smashingmagazine.com (Christine Vallaure)",
+          "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
+          "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
+          "publishedOn": "2022-08-15T11:30:00.000Z",
+          "wordCount": 6196,
+          "title": "Everything Developers Must Know About Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "author": "hello@smashingmagazine.com (Chris Simmons)",
+          "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
+          "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "publishedOn": "2022-08-12T08:00:00.000Z",
+          "wordCount": 4590,
+          "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.",
+          "link": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
+          "publishedOn": "2022-08-11T08:00:00.000Z",
+          "wordCount": 3933,
+          "title": "Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37dc0212-cede-409c-9e35-612cb2a58332/databases-frontend-developers-rise-serverless-databases.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "Identify, compare, analyze and fix your Core Web Vitals scores to boost web performance of your sites. These tools will help you to do just that.",
+          "link": "https://smashingmagazine.com/2022/08/core-web-vitals-tools-boost-performance/",
+          "publishedOn": "2022-08-09T14:00:00.000Z",
+          "wordCount": 3874,
+          "title": "Core Web Vitals Tools To Boost Your Web Performance Scores",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we ask how you can affect change to UX design in large organizations stuck in their ways. Vitaly talks to Marko Dugonjić to find out.",
+          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
+          "publishedOn": "2022-08-09T08:00:00.000Z",
+          "wordCount": 8051,
+          "title": "Smashing Podcast Episode 50 With Marko Dugonjic: Can You Change A UX Dinosaur?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
+          "author": "Valentine Gatwiri",
+          "description": "As the world of technology continues to advance, so does the way people interact with businesses and organizations.  With the growing popularity of mobile devices, responsive website design has become a must-have. It helps you provide the best user experience to customers regardless of which device they are using",
+          "link": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
+          "publishedOn": "2022-09-06T20:18:06.000Z",
+          "wordCount": 1860,
+          "title": "How Responsive Web Design Can Help Your Business – A Beginner's Guide to RWD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screenshot-from-2022-09-02-20-26-21.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn how to reverse a list in Python. Firstly, I'll introduce you to lists in Python and you'll learn how to write them. After that, you will see three different ways you can reverse the list items inside any list you create. Here is what",
+          "link": "https://www.freecodecamp.org/news/python-reverse-list-reversing-an-array-in-python/",
+          "publishedOn": "2022-09-06T19:36:06.000Z",
+          "wordCount": 2322,
+          "title": "Python Reverse List – Reversing an Array in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-breakingpic-3243.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
+          "author": "Joel Olawanle",
+          "description": "When you're learning to code, you'll frequently hear the term \"framework\". And it can be difficult for new developers to grasp. You'll commonly come across frameworks in roadmap resources, when speaking with other developers, when learning about a new coding tool, and many other places. In this article, you will",
+          "link": "https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/",
+          "publishedOn": "2022-09-06T17:52:18.000Z",
+          "wordCount": 2396,
+          "title": "What is a Framework? Software Frameworks Definition",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
+          "author": "Oluwafunmilola Obisesan",
+          "description": "The term “Machine Learning” was coined by a computer gamer named Arthur Samuel in 1959. He defined it like this: > \"[Machine learning is a] Field of study that gives computers the ability to learn and make predictions without being explicitly programmed.\" ML is a sub-field of Artificial Intelligence. It's",
+          "link": "https://www.freecodecamp.org/news/what-is-machine-learning-for-beginners/",
+          "publishedOn": "2022-09-06T17:25:08.000Z",
+          "wordCount": 2028,
+          "title": "What is Machine Learning? ML Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
+          "author": "Hillary Nyakundi",
+          "description": "In today's technology driven society, computer programming knowledge is in high demand. And as a developer, you'll need to know various programming languages. Over the past few decades, many programming languages have risen in popularity. You can see how popular languages are ranked in this real time ranking chart",
+          "link": "https://www.freecodecamp.org/news/what-is-object-oriented-programming/",
+          "publishedOn": "2022-09-06T17:15:18.000Z",
+          "wordCount": 2587,
+          "title": "OOP Meaning – What is Object-Oriented Programming?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Creative-Business-Template-Presentation--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-eleventy/",
+          "author": "Gerard Hynes",
+          "description": "What is Eleventy? Eleventy (also called 11ty) is a simple yet powerful static site generator. It uses JavaScript to transform data and templates into HTML pages. It’s beginner-friendly, has fast build times, and generates fast sites by default. It also has a very active and friendly community. Eleventy excels at",
+          "link": "https://www.freecodecamp.org/news/learn-eleventy/",
+          "publishedOn": "2022-09-06T16:26:13.000Z",
+          "wordCount": 6675,
+          "title": "Learn the Eleventy Static Site Generator by Building and Deploying a Portfolio Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/learn-eleventy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
+          "author": "Daniel Rosa",
+          "description": "One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September",
+          "link": "https://www.freecodecamp.org/news/world-translation-month-is-back-how-can-you-contribute-to-translate-freecodecamp-into-your-language/",
+          "publishedOn": "2022-09-06T14:00:47.000Z",
+          "wordCount": 1644,
+          "title": "World Translation Month is Back – How to Help Translate freeCodeCamp into Your Native Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/World-Translation-Month-Article-Image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into",
+          "link": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "publishedOn": "2022-09-02T16:34:40.000Z",
+          "wordCount": 3623,
+          "title": "Open Source for Developers – A Beginner's Handbook to Help You Start Contributing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Book-PNG.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "author": "Spruce Emmanuel",
+          "description": "You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is",
+          "link": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "publishedOn": "2022-09-02T15:40:00.000Z",
+          "wordCount": 5529,
+          "title": "JavaScript DOM Tutorial – How to Build a Calculator App in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-capture_31-8-2022_83456_localhost.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "author": "Sameer Shukla",
+          "description": "Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,",
+          "link": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "publishedOn": "2022-09-02T15:02:51.000Z",
+          "wordCount": 1502,
+          "title": "How to Monitor Python APIs using Pyctuator and SpringBootAdmin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
