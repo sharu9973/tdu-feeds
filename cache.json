@@ -4,7 +4,18 @@
       "title": "注意喚起情報 | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=14149",
+          "author": "MatsumotoSaya",
+          "description": "2022年 7月11日（月）にばらまき型の脅迫メールが大量に学内のメールアドレスに送信されていることを確認しました。 このような詐欺メールは破棄するか無視してください。攻撃者の要求には応じず冷静に対応を行ってください。  […]\n仮想通貨を要求する日本語の脅迫メールについての注意喚起 first appeared on TDU-CSIRT.",
+          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%82%92%e8%a6%81%e6%b1%82%e3%81%99%e3%82%8b%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ae%e8%84%85%e8%bf%ab%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/",
+          "publishedOn": "2022-07-11T09:53:40.000Z",
+          "wordCount": 1876,
+          "title": "仮想通貨を要求する日本語の脅迫メールについての注意喚起",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "お知らせ | TDU-CSIRT",
@@ -45,6 +56,66 @@
           "publishedOn": "2022-08-23T09:34:38.000Z",
           "wordCount": 2106,
           "title": "Unityで制作してみる初級編：ワークショップ開催のお知らせ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12093",
+          "author": "katsumi",
+          "description": "以下の日時において、ソフトウェアライセンスサーバのメンテナンス作業を実施いたします。そのため、ライセンスサーバを利用するソフトウェアのご利用ができなくなることがあります。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い […]\nソフトウェアライセンスサーバ停止のお知らせ（8/17） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/08/04/20220804_license/",
+          "publishedOn": "2022-08-04T00:40:31.000Z",
+          "wordCount": 2054,
+          "title": "ソフトウェアライセンスサーバ停止のお知らせ（8/17）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12051",
+          "author": "katsumi",
+          "description": "総合メディアセンターでは、新型コロナウイルス感染症対策として8月1日から9月末日（予定）までの期間、予約図書をご自宅に郵送する「図書郵送貸出サービス」を実施しております。 図書を借りるために来校しなくてもご自宅で図書を受 […]\n図書郵送貸出サービスのご案内 first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/08/03/20220801_library/",
+          "publishedOn": "2022-08-03T04:15:55.000Z",
+          "wordCount": 1925,
+          "title": "図書郵送貸出サービスのご案内",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12076",
+          "author": "katsumi",
+          "description": "総合メディアセンターで契約しているソフトウェア等のセミナー・ワークショップの情報をピックアップして公開いたしました。ぜひともご活用ください。 セミナー・ワークショップ情報⇒ https://www.mrcl.dendai […]\nセミナー・ワークショップ情報ページの公開 first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/08/02/20220802_seminar_workshop/",
+          "publishedOn": "2022-08-02T08:09:36.000Z",
+          "wordCount": 2048,
+          "title": "セミナー・ワークショップ情報ページの公開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12061",
+          "author": "katsumi",
+          "description": "以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・大判プリンターのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。 日時 […]\nプリントシステム停止のお知らせ（8/5～17） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/08/02/20220802_printsystem/",
+          "publishedOn": "2022-08-02T03:49:40.000Z",
+          "wordCount": 2038,
+          "title": "プリントシステム停止のお知らせ（8/5～17）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=11989",
+          "author": "katsumi",
+          "description": "以下の日程において、プリントシステムをメンテナンスいたします。そのため、東京千住キャンパス内に設置されているプリントシステムの複合機・大判プリンターのご利用ができない時間帯が発生します。 日時2022年7月25日（月）1 […]\nプリントシステムメンテナンスのお知らせ（7/25） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/07/25/20220725_printsystem/",
+          "publishedOn": "2022-07-25T07:36:40.000Z",
+          "wordCount": 2035,
+          "title": "プリントシステムメンテナンスのお知らせ（7/25）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=10741",
+          "author": "katsumi",
+          "description": "申込期限を過ぎたためプレゼントを終了しました。（2022/8/20） 学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラ […]\npaizaラーニング「無料クーポン」プレゼントについて（終了） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/06/21/paiza-coupon-2022/",
+          "publishedOn": "2022-06-21T04:47:08.000Z",
+          "wordCount": 1951,
+          "title": "paizaラーニング「無料クーポン」プレゼントについて（終了）",
           "imageUrl": null
         }
       ]
