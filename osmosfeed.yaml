@@ -1,9 +1,6 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
 cacheUrl: https://s21rd.github.io/tdu-feeds/cache.json
+siteTitle: "TDU Feeds"
+cacheMaxDays: 90
 sources:
   - href: https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/
   - href: https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/
