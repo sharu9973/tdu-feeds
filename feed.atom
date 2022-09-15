@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-09-15T06:41:30.155Z</updated>
+    <updated>2022-09-15T07:25:15.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe主催ワークショップ「Unbox  Yourself –  自分の姿、クリエイティブに解き放て！」開催のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12317</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/09/15/20220930_adobe_workshop/"/>
+        <updated>2022-09-15T06:44:56.000Z</updated>
+        <summary type="html"><![CDATA[「IDENTITY – 自分が自分である理由」について考え、15秒のショートビデオをPremiere RushとAdobe Expressで作ってみよう！ 　こちらのイベントはTikTokクリエーターのMC  […]
+Adobe主催ワークショップ「Unbox  Yourself –  自分の姿、クリエイティブに解き放て！」開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカとは何か : 自画像と世界観をめぐる相剋]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085203&amp;hidden_return_link=true</id>
