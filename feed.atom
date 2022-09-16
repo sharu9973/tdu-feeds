@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-09-16T06:00:55.261Z</updated>
+    <updated>2022-09-16T07:22:51.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本学メールサービス（@ms.dendai.ac.jp）の基本認証廃止について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12247</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/09/16/20221001_exchange_basic_auth/"/>
+        <updated>2022-09-16T07:16:02.000Z</updated>
+        <summary type="html"><![CDATA[2022年10月1日に、本学学生等が利用しているMicrosoft 365の基本認証（Basic Authentication）が廃止されます。そのため、利用するメールのアプリケーションによってはメールの送受信ができなく […]
+本学メールサービス（@ms.dendai.ac.jp）の基本認証廃止について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京小金井キャンパス 図書貸出サービスについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12059</id>
