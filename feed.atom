@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-09-18T16:16:12.845Z</updated>
+    <updated>2022-09-18T17:17:58.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -778,17 +778,6 @@ Unityで制作してみる初級編：ワークショップ開催のお知らせ
 仮想通貨を要求する日本語の脅迫メールについての注意喚起 first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>MatsumotoSaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[paizaラーニング「無料クーポン」プレゼントについて（終了）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=10741</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/06/21/paiza-coupon-2022/"/>
-        <updated>2022-06-21T04:47:08.000Z</updated>
-        <summary type="html"><![CDATA[申込期限を過ぎたためプレゼントを終了しました。（2022/8/20） 学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラ […]
-paizaラーニング「無料クーポン」プレゼントについて（終了） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
