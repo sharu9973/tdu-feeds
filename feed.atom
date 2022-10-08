@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-10-08T21:11:29.172Z</updated>
+    <updated>2022-10-08T22:12:27.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1351,17 +1351,6 @@ Unityで制作してみる初級編：ワークショップ開催のお知らせ
 プリントシステムメンテナンスのお知らせ（7/25） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨を要求する日本語の脅迫メールについての注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14149</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%82%92%e8%a6%81%e6%b1%82%e3%81%99%e3%82%8b%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ae%e8%84%85%e8%bf%ab%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/"/>
-        <updated>2022-07-11T09:53:40.000Z</updated>
-        <summary type="html"><![CDATA[2022年 7月11日（月）にばらまき型の脅迫メールが大量に学内のメールアドレスに送信されていることを確認しました。 このような詐欺メールは破棄するか無視してください。攻撃者の要求には応じず冷静に対応を行ってください。  […]
-仮想通貨を要求する日本語の脅迫メールについての注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
