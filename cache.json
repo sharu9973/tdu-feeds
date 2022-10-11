@@ -6,6 +6,16 @@
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
       "articles": [
         {
+          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=14459",
+          "author": "MatsumotoSaya",
+          "description": "フィッシング詐欺が、今年は特に増えています。 フィッシング対策協議会によりますと不審なメールの報告は、今年７月末までに およそ５６万件と過去最多のペースで推移しています。 フィッシング詐欺とは、特定の組織や人の重要な情報 […]\n最近流行しているフィッシング詐欺について first appeared on TDU-CSIRT.",
+          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/%e6%9c%80%e8%bf%91%e6%b5%81%e8%a1%8c%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e8%a9%90%e6%ac%ba%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+          "publishedOn": "2022-10-11T02:46:10.000Z",
+          "wordCount": 1916,
+          "title": "最近流行しているフィッシング詐欺について",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.csirt.dendai.ac.jp/csirt/?p=14445",
           "author": "MatsumotoSaya",
           "description": "本学のメールシステム管理者からの通知を装い、「受信メールがブロックされました」という虚偽の内容を通知するフィッシングメールが学内で複数届いていることが確認されました。 該当メールの本文には、あたかもブロックされたメールを […]\n本学メールシステム管理者を装ったフィッシングメールに関する注意喚起 first appeared on TDU-CSIRT.",

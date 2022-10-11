@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-10-11T01:07:29.597Z</updated>
+    <updated>2022-10-11T04:05:51.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最近流行しているフィッシング詐欺について]]></title>
+        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14459</id>
+        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/%e6%9c%80%e8%bf%91%e6%b5%81%e8%a1%8c%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e8%a9%90%e6%ac%ba%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/"/>
+        <updated>2022-10-11T02:46:10.000Z</updated>
+        <summary type="html"><![CDATA[フィッシング詐欺が、今年は特に増えています。 フィッシング対策協議会によりますと不審なメールの報告は、今年７月末までに およそ５６万件と過去最多のペースで推移しています。 フィッシング詐欺とは、特定の組織や人の重要な情報 […]
+最近流行しているフィッシング詐欺について first appeared on TDU-CSIRT.]]></summary>
+        <author>
+            <name>MatsumotoSaya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MATLAB×機械学習 ディープラーニング入門セミナー開催のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12445</id>
