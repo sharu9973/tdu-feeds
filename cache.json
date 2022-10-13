@@ -206,6 +206,66 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085271&hidden_return_link=true",
+          "author": null,
+          "description": "CGエンジニア検定問題集編集委員会監修. -- 改訂第3版. -- 画像情報教育振興協会, 2018.2.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085271&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "CGエンジニア検定エキスパート・ベーシック公式問題集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085304&hidden_return_link=true",
+          "author": null,
+          "description": "三枝暁子著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1942).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085304&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "日本中世の民衆世界 : 西京神人の千年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085303&hidden_return_link=true",
+          "author": null,
+          "description": "川名壮志著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1941).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085303&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "記者がひもとく「少年」事件史 : 少年がナイフを握るたび大人たちは理由を探す",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085302&hidden_return_link=true",
+          "author": null,
+          "description": "橋場弦著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1943).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085302&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "古代ギリシアの民主政",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085212&hidden_return_link=true",
+          "author": null,
+          "description": "新井武二著. -- 産報出版, 2022.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085212&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "新レーザ加工読本 : 改めて学ぶレーザ加工技術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085272&hidden_return_link=true",
+          "author": null,
+          "description": "共立出版, 2022.9. -- (コンピュータビジョン最前線 / 井尻善久 [ほか] 編 ; Autumn 2022).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085272&hidden_return_link=true",
+          "publishedOn": "2022-10-06T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "3次元の世界を表現する技術",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085187&hidden_return_link=true",
           "author": null,
           "description": "土木学会地震工学委員会地震防災技術普及小委員会編集 ; 2022年改訂版. -- 土木学会. -- 巻号等：2022年改訂版<図書>",
