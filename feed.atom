@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-10-30T19:09:18.026Z</updated>
+    <updated>2022-10-30T20:12:21.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1717,17 +1717,6 @@ Unityで制作してみる初級編：ワークショップ開催のお知らせ
         <updated>2022-08-03T04:15:55.000Z</updated>
         <summary type="html"><![CDATA[総合メディアセンターでは、新型コロナウイルス感染症対策として8月1日から9月末日（予定）までの期間、予約図書をご自宅に郵送する「図書郵送貸出サービス」を実施しております。 図書を借りるために来校しなくてもご自宅で図書を受 […]
 図書郵送貸出サービスのご案内 first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セミナー・ワークショップ情報ページの公開]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12076</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/08/02/20220802_seminar_workshop/"/>
-        <updated>2022-08-02T08:09:36.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターで契約しているソフトウェア等のセミナー・ワークショップの情報をピックアップして公開いたしました。ぜひともご活用ください。 セミナー・ワークショップ情報⇒ https://www.mrcl.dendai […]
-セミナー・ワークショップ情報ページの公開 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
