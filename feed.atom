@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-11-07T13:38:49.218Z</updated>
+    <updated>2022-11-07T14:14:02.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UniRx/UniTask完全理解 : より高度なUnity C#プログラミング]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085278&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085278&amp;hidden_return_link=true"/>
+        <updated>2022-10-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[打田恭平著. -- ドワンゴ.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詳解 : 3次元点群処理 : Pythonによる基礎アルゴリズムの実装]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085282&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085282&amp;hidden_return_link=true"/>
+        <updated>2022-10-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金崎朝子, 秋月秀一, 千葉直也著. -- 講談社, 2022.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[身体諸部分の用途について]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085313&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085313&amp;hidden_return_link=true"/>
+        <updated>2022-10-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ガレノス [著] ; 坂井建雄 [ほか] 訳 ; 2. -- 京都大学学術出版会, 2022.10. -- (西洋古典叢書). -- 巻号等：2<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近流行しているフィッシング詐欺について]]></title>
         <id>https://www.csirt.dendai.ac.jp/csirt/?p=14459</id>
