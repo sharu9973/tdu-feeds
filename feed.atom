@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-11-09T05:24:00.319Z</updated>
+    <updated>2022-11-09T06:18:48.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「朝日新聞クロスサーチ」講習会開催のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12682</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/11/09/20221128_asahi_closssearch/"/>
+        <updated>2022-11-09T06:01:02.000Z</updated>
+        <summary type="html"><![CDATA[「朝日新聞クロスサーチ」の講習会を開催いたします。 　朝日新聞社の「朝日新聞クロスサーチ」は、過去の出来事を手軽に調べることができる日本国内最大級の新聞記事データベースで、日本国内外の多くの大学や図書館などで利用されてい […]
+「朝日新聞クロスサーチ」講習会開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UniRx/UniTask完全理解 : より高度なUnity C#プログラミング]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085278&amp;hidden_return_link=true</id>
