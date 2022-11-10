@@ -166,6 +166,86 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085322&hidden_return_link=true",
+          "author": null,
+          "description": "上野正道著. -- 岩波書店, 2022.10. -- (岩波新書 ; 新赤版 1945).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085322&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ジョン・デューイ : 民主主義と教育の哲学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085319&hidden_return_link=true",
+          "author": null,
+          "description": "三上章允著. -- 講談社, 2022.10. -- (ブルーバックス ; B-2216).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085319&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "カラー図解脳の教科書 : はじめての「脳科学」入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085320&hidden_return_link=true",
+          "author": null,
+          "description": "カムラン・バッファ著 ; 水谷淳訳. -- 講談社, 2022.10. -- (ブルーバックス ; B-2215).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085320&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "宇宙を解くパズル : 「真理」は直観に反している",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085321&hidden_return_link=true",
+          "author": null,
+          "description": "國分功一郎著. -- 岩波書店, 2022.10. -- (岩波新書 ; 新赤版 1944).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085321&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "スピノザ : 読む人の肖像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085260&hidden_return_link=true",
+          "author": null,
+          "description": "関正生著. -- 改訂版. -- KADOKAWA, 2022.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085260&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "世界一わかりやすいTOEICテストの英文法 : 関先生が教える : Mr. Seki's guide to English grammar for the TOEIC test : 全パート対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085261&hidden_return_link=true",
+          "author": null,
+          "description": "J.D.ケラハー, B.マクナミー, A.ダーシー著 ; 宮岡悦良, 下川朝有, 黒澤匠雅訳. -- 近代科学社, 2022.8. -- (世界標準MIT教科書).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085261&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "データアナリティクスのための機械学習入門 : アルゴリズム・実例・ケーススタディ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085263&hidden_return_link=true",
+          "author": null,
+          "description": "Brian Okken著. -- 第2版. -- 翔泳社, 2022.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085263&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "テスト駆動Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085305&hidden_return_link=true",
+          "author": null,
+          "description": "トム・スコット=フィリップス著 ; 畔上耕介 [ほか] 訳. -- 東京大学出版会, 2021.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085305&hidden_return_link=true",
+          "publishedOn": "2022-11-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "なぜヒトだけが言葉を話せるのか : コミュニケーションから探る言語の起源と進化",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085278&hidden_return_link=true",
           "author": null,
           "description": "打田恭平著. -- ドワンゴ.<図書>",
