@@ -1545,36 +1545,6 @@
           "wordCount": 3,
           "title": "歴史学者という病",
           "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20081864&hidden_return_link=true",
-          "author": null,
-          "description": "河合潤 [ほか] 著 = Data Analysis for Physical Sciences. -- アグネ技術センター, 2019.12.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20081864&hidden_return_link=true",
-          "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "物理科学計測のための統計入門 : 分光スペクトルと化学分析への応用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085104&hidden_return_link=true",
-          "author": null,
-          "description": "伊藤真著. -- 第3版. -- 翔泳社, 2022.7. -- (AI & Technology).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085104&hidden_return_link=true",
-          "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Pythonで動かして学ぶ!あたらしい機械学習の教科書",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085135&hidden_return_link=true",
-          "author": null,
-          "description": "Davide Bigoni ; pbk.. -- Cambridge University Press, 2014. -- 巻号等：pbk.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085135&hidden_return_link=true",
-          "publishedOn": "2022-08-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Nonlinear solid mechanics : bifurcation theory and material instability",
-          "imageUrl": null
         }
       ]
     }
