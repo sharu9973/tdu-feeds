@@ -167,6 +167,46 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085262&hidden_return_link=true",
+          "author": null,
+          "description": "山西健司 [ほか] 共著. -- サイエンス社, 2022.8. -- (AI/データサイエンス ライブラリ \"基礎から応用へ\" ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085262&hidden_return_link=true",
+          "publishedOn": "2022-11-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "異常検知からリスク管理へ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085454&hidden_return_link=true",
+          "author": null,
+          "description": "朝日新聞出版編 ; 2024. -- 朝日新聞出版, 2022.11. -- 巻号等：2024<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085454&hidden_return_link=true",
+          "publishedOn": "2022-11-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "朝日キーワード就職 : 最新時事用語&一般常識",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085453&hidden_return_link=true",
+          "author": null,
+          "description": "トランジスタ技術Special編集部編集. -- CQ出版社, 2022.10. -- (トランジスタ技術Special ; No.160).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085453&hidden_return_link=true",
+          "publishedOn": "2022-11-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "アナログ回路入門!サウンド&オーディオ回路集 : 電圧/電流/ひずみ/雑音/効率・・・テクニックあれこれ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085318&hidden_return_link=true",
+          "author": null,
+          "description": "ボーノ著. -- 工学社, 2022.10. -- (I/O books).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085318&hidden_return_link=true",
+          "publishedOn": "2022-11-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "エンジニアでなくてもわかる電子工作ガイドブック",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085312&hidden_return_link=true",
           "author": null,
           "description": "井上昂治, 河原達也共著. -- オーム社, 2022.10.<図書>",
