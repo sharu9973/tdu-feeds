@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-12-13T18:12:22.325Z</updated>
+    <updated>2022-12-13T19:08:16.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1981,17 +1981,6 @@ ANSYSソフトウェアライセンスサーバ停止のお知らせ（9/27） f
 インターネット接続回線（SINET）緊急メンテナンスに伴う通信断発生のお知らせ（9/18） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe主催ワークショップ「Unbox  Yourself –  自分の姿、クリエイティブに解き放て！」開催のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12317</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/09/15/20220930_adobe_workshop/"/>
-        <updated>2022-09-15T06:44:56.000Z</updated>
-        <summary type="html"><![CDATA[「IDENTITY – 自分が自分である理由」について考え、15秒のショートビデオをPremiere RushとAdobe Expressで作ってみよう！ 　こちらのイベントはTikTokクリエーターのMC  […]
-Adobe主催ワークショップ「Unbox  Yourself –  自分の姿、クリエイティブに解き放て！」開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
