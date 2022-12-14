@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2022-12-14T17:09:07.952Z</updated>
+    <updated>2022-12-14T18:12:18.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1706,17 +1706,6 @@ ANSYSソフトウェアライセンスサーバ停止のお知らせ（9/27） f
         <updated>2022-09-16T07:16:02.000Z</updated>
         <summary type="html"><![CDATA[2022年10月1日に、本学学生等が利用しているMicrosoft 365の基本認証（Basic Authentication）が廃止されます。そのため、利用するメールのアプリケーションによってはメールの送受信ができなく […]
 本学メールサービス（@ms.dendai.ac.jp）の基本認証廃止について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京小金井キャンパス 図書貸出サービスについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12059</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/09/16/20220803_koganei_service/"/>
-        <updated>2022-09-16T05:44:16.000Z</updated>
-        <summary type="html"><![CDATA[令和４年度から東京小金井キャンパスの中学生・高校生も大学で所蔵している本が借りられるようになりました。 大学で所蔵している専門的な図書や電子資料も読むことができます。 利用方法 図書館Webページ（https://tdu […]
-東京小金井キャンパス 図書貸出サービスについて first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
