@@ -50,6 +50,16 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12977",
+          "author": "katsumi",
+          "description": "MathWorks主催のMinidrone Competitionが開催されます。教科書や授業で学んだ制御の理論を実際に使うとどうなるのか、どんなアルゴリズムを使うとドローンをうまく制御できるのか、試しながら学び、自分 […]\nMathWorks主催 ミニドローン競技大会：Minidrone Competition – IFAC 2023 のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2022/12/23/minidrone-competition-ifac-2023/",
+          "publishedOn": "2022-12-23T05:18:00.000Z",
+          "wordCount": 1338,
+          "title": "MathWorks主催 ミニドローン競技大会：Minidrone Competition – IFAC 2023 のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=12991",
           "author": "katsumi",
           "description": "開催日時：2022年12月21日（水） 19：00～21：00 　MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており，世界中の企業や研究機関において利用されています。加えて、多くの […]\nMATLAB講習会 ～MATLABの基本とその活用方法を知ろう！～ 開催のお知らせ first appeared on 総合メディアセンター.",
