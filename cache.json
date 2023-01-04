@@ -14,16 +14,6 @@
           "wordCount": 1916,
           "title": "最近流行しているフィッシング詐欺について",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=14445",
-          "author": "MatsumotoSaya",
-          "description": "本学のメールシステム管理者からの通知を装い、「受信メールがブロックされました」という虚偽の内容を通知するフィッシングメールが学内で複数届いていることが確認されました。 該当メールの本文には、あたかもブロックされたメールを […]\n本学メールシステム管理者を装ったフィッシングメールに関する注意喚起 first appeared on TDU-CSIRT.",
-          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/phishing_mail_alert_20221006/",
-          "publishedOn": "2022-10-06T13:06:13.000Z",
-          "wordCount": 1887,
-          "title": "本学メールシステム管理者を装ったフィッシングメールに関する注意喚起",
-          "imageUrl": null
         }
       ]
     },

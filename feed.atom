@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-01-04T00:50:19.310Z</updated>
+    <updated>2023-01-04T02:11:44.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2535,17 +2535,6 @@ MATLAB×機械学習 ディープラーニング入門セミナー開催のお�
         <summary type="html"><![CDATA[共立出版, 2022.9. -- (コンピュータビジョン最前線 / 井尻善久 [ほか] 編 ; Autumn 2022).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本学メールシステム管理者を装ったフィッシングメールに関する注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14445</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/phishing_mail_alert_20221006/"/>
-        <updated>2022-10-06T13:06:13.000Z</updated>
-        <summary type="html"><![CDATA[本学のメールシステム管理者からの通知を装い、「受信メールがブロックされました」という虚偽の内容を通知するフィッシングメールが学内で複数届いていることが確認されました。 該当メールの本文には、あたかもブロックされたメールを […]
-本学メールシステム管理者を装ったフィッシングメールに関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
