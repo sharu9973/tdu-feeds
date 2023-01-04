@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-01-04T11:08:19.461Z</updated>
+    <updated>2023-01-04T12:17:56.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2464,17 +2464,6 @@ macOS 13(Ventura)へのバージョンアップに関する注意事項 first ap
 最近流行しているフィッシング詐欺について first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>MatsumotoSaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB×機械学習 ディープラーニング入門セミナー開催のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12445</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/10/07/20221026_matlab_machine_learning/"/>
-        <updated>2022-10-07T00:04:29.000Z</updated>
-        <summary type="html"><![CDATA[オフラインのセミナーを開催いたします。 MATLAB×機械学習 ディープラーニング入門セミナー～MATLABを用いた画像認識プログラムの作成と動作について～ 近年、ディープラーニングが多く注目されているのは人間よりも正確 […]
-MATLAB×機械学習 ディープラーニング入門セミナー開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
