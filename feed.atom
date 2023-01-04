@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-01-04T02:11:44.196Z</updated>
+    <updated>2023-01-04T03:10:30.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2475,66 +2475,6 @@ macOS 13(Ventura)へのバージョンアップに関する注意事項 first ap
 MATLAB×機械学習 ディープラーニング入門セミナー開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGエンジニア検定エキスパート・ベーシック公式問題集]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085271&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085271&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CGエンジニア検定問題集編集委員会監修. -- 改訂第3版. -- 画像情報教育振興協会, 2018.2.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本中世の民衆世界 : 西京神人の千年]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085304&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085304&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[三枝暁子著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1942).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記者がひもとく「少年」事件史 : 少年がナイフを握るたび大人たちは理由を探す]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085303&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085303&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[川名壮志著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1941).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代ギリシアの民主政]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085302&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085302&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[橋場弦著. -- 岩波書店, 2022.9. -- (岩波新書 ; 新赤版 1943).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新レーザ加工読本 : 改めて学ぶレーザ加工技術]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085212&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085212&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新井武二著. -- 産報出版, 2022.7.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3次元の世界を表現する技術]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085272&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085272&amp;hidden_return_link=true"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[共立出版, 2022.9. -- (コンピュータビジョン最前線 / 井尻善久 [ほか] 編 ; Autumn 2022).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>
