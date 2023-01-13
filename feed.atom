@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-01-13T10:11:49.429Z</updated>
+    <updated>2023-01-13T11:08:24.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[基幹ネットワークシステム更新に伴う教職員向けメールシステム（DEEPMail）の停止について（1/22）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13115</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/01/13/networkmaintenance-20230122/"/>
+        <updated>2023-01-13T10:40:37.000Z</updated>
+        <summary type="html"><![CDATA[総合メディアセンターでは現在、本学の基幹ネットワークシステムの更新作業を順次進めております。　今回、下記の日時で教職員向けメールシステム（DEEPMail）の更新作業を実施させていただきます。この作業により、下記に記載 […]
+基幹ネットワークシステム更新に伴う教職員向けメールシステム（DEEPMail）の停止について（1/22） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>k-iwamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MathWorks主催 ミニドローン競技大会：Minidrone Competition – IFAC 2023 のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12977</id>
