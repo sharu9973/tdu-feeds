@@ -126,6 +126,156 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085393&hidden_return_link=true",
+          "author": null,
+          "description": "横山明彦著. -- 数理工学社. -- (新・電気システム工学 ; TKE-18).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085393&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "先端電力システム工学 : 変革期にある電力システムの安定運用に向けて",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085396&hidden_return_link=true",
+          "author": null,
+          "description": "日経NETWORK編集. -- 日経BP. -- (日経BPムック).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085396&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "完全図解無線LAN技術 : これ1冊で丸わかり",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085397&hidden_return_link=true",
+          "author": null,
+          "description": "橋本修監修. -- 普及版. -- シーエムシー出版, 2022.10. -- (CMCテクニカルライブラリー ; 792 . エレクトロニクスシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085397&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電波吸収材およびシールド材の開発とその応用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085399&hidden_return_link=true",
+          "author": null,
+          "description": "北山洋幸著. -- カットシステム, 2022.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085399&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "C#非同期・並列プログラミング入門 : Task、async/await、Invokeの要諦を学ぶ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085411&hidden_return_link=true",
+          "author": null,
+          "description": "井上正之著. -- 東京化学同人, 2022.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085411&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "初歩からの有機化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085441&hidden_return_link=true",
+          "author": null,
+          "description": "小口達夫著 ; アイテックIT人材教育研究部編著 ; 2023. -- アイテック, 2022.11. -- (情報処理技術者試験対策書). -- 巻号等：2023<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085441&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "応用情報技術者午後問題の重点対策 : 読んで納得の分かりやすさ!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085442&hidden_return_link=true",
+          "author": null,
+          "description": "福江純, 和田桂一, 梅村雅之著. -- 改訂版. -- 日本評論社, 2022.10. -- (シリーズ「宇宙物理学の基礎」 ; ser. 1).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085442&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "宇宙流体力学の基礎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085443&hidden_return_link=true",
+          "author": null,
+          "description": "開道力原著 ; 森本雅之, 茂木尚編著. -- 電気学会.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085443&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "モータを支える電磁鋼板技術 : 電磁鋼板の入門から実機課題解決まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085447&hidden_return_link=true",
+          "author": null,
+          "description": "寺田学 [ほか] 著. -- 第2版. -- 翔泳社, 2022.10. -- (AI & Technology).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085447&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonによるあたらしいデータ分析の教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085468&hidden_return_link=true",
+          "author": null,
+          "description": "山本道子著. -- 翔泳社, 2020.7. -- (オラクル認定資格教科書)(Exam press . オラクル認定資格試験学習書).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085468&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "JavaプログラマBronze SE : 試験番号1Z0-818",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085524&hidden_return_link=true",
+          "author": null,
+          "description": "高橋秀依, 夏苅英昭著. -- じほう, 2019.12.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085524&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "くすりに携わるなら知っておきたい!医薬品の化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085534&hidden_return_link=true",
+          "author": null,
+          "description": "三宅晋司著. -- エヌ・ティー・エス, 2022.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085534&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Q&Aによるひとを対象とした実験ガイド : 人間工学における心理生理学的研究",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085565&hidden_return_link=true",
+          "author": null,
+          "description": "森本雅之監修. -- エヌ・ティー・エス, 2022.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085565&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "モータの熱対策 : 解析・評価、耐熱材料、放熱・冷却設計",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085566&hidden_return_link=true",
+          "author": null,
+          "description": "総務省統計局編 ; 第72回(令和5年). -- 日本統計協会, 2022.11. -- 巻号等：第72回(令和5年)<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085566&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "日本統計年鑑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085567&hidden_return_link=true",
+          "author": null,
+          "description": "Peter W. Hawkes ; [edited by Martin Hÿtch and Peter W. Hawkes]. -- Academic Press, c2022. -- (Advances in imaging and electron physics ; v. 224).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085567&hidden_return_link=true",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Quadrupoles in electron lens design",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085543&hidden_return_link=true",
           "author": null,
           "description": "Daniel T. Wise ; : hardback. -- Princeton University Press, 2021. -- (Annals of mathematics studies ; no. 209). -- 巻号等：: hardback<図書>",

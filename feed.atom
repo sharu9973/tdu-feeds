@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-01-16T13:18:39.095Z</updated>
+    <updated>2023-01-16T14:09:35.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -15,6 +15,156 @@
 基幹ネットワークシステム更新に伴う教職員向けメールシステム（DEEPMail）の停止について（1/22） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先端電力システム工学 : 変革期にある電力システムの安定運用に向けて]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085393&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085393&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[横山明彦著. -- 数理工学社. -- (新・電気システム工学 ; TKE-18).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完全図解無線LAN技術 : これ1冊で丸わかり]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085396&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085396&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日経NETWORK編集. -- 日経BP. -- (日経BPムック).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電波吸収材およびシールド材の開発とその応用]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085397&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085397&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[橋本修監修. -- 普及版. -- シーエムシー出版, 2022.10. -- (CMCテクニカルライブラリー ; 792 . エレクトロニクスシリーズ).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C#非同期・並列プログラミング入門 : Task、async/await、Invokeの要諦を学ぶ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085399&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085399&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[北山洋幸著. -- カットシステム, 2022.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初歩からの有機化学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085411&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085411&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[井上正之著. -- 東京化学同人, 2022.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[応用情報技術者午後問題の重点対策 : 読んで納得の分かりやすさ!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085441&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085441&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小口達夫著 ; アイテックIT人材教育研究部編著 ; 2023. -- アイテック, 2022.11. -- (情報処理技術者試験対策書). -- 巻号等：2023<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙流体力学の基礎]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085442&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085442&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[福江純, 和田桂一, 梅村雅之著. -- 改訂版. -- 日本評論社, 2022.10. -- (シリーズ「宇宙物理学の基礎」 ; ser. 1).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モータを支える電磁鋼板技術 : 電磁鋼板の入門から実機課題解決まで]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085443&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085443&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[開道力原著 ; 森本雅之, 茂木尚編著. -- 電気学会.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonによるあたらしいデータ分析の教科書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085447&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085447&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寺田学 [ほか] 著. -- 第2版. -- 翔泳社, 2022.10. -- (AI & Technology).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaプログラマBronze SE : 試験番号1Z0-818]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085468&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085468&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[山本道子著. -- 翔泳社, 2020.7. -- (オラクル認定資格教科書)(Exam press . オラクル認定資格試験学習書).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くすりに携わるなら知っておきたい!医薬品の化学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085524&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085524&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高橋秀依, 夏苅英昭著. -- じほう, 2019.12.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q&Aによるひとを対象とした実験ガイド : 人間工学における心理生理学的研究]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085534&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085534&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[三宅晋司著. -- エヌ・ティー・エス, 2022.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モータの熱対策 : 解析・評価、耐熱材料、放熱・冷却設計]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085565&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085565&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[森本雅之監修. -- エヌ・ティー・エス, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本統計年鑑]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085566&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085566&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省統計局編 ; 第72回(令和5年). -- 日本統計協会, 2022.11. -- 巻号等：第72回(令和5年)<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quadrupoles in electron lens design]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085567&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085567&amp;hidden_return_link=true"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter W. Hawkes ; [edited by Martin Hÿtch and Peter W. Hawkes]. -- Academic Press, c2022. -- (Advances in imaging and electron physics ; v. 224).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
