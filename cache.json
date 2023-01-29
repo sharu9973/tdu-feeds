@@ -2624,36 +2624,6 @@
           "wordCount": 3,
           "title": "なぜヒトだけが言葉を話せるのか : コミュニケーションから探る言語の起源と進化",
           "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085278&hidden_return_link=true",
-          "author": null,
-          "description": "打田恭平著. -- ドワンゴ.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085278&hidden_return_link=true",
-          "publishedOn": "2022-10-31T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "UniRx/UniTask完全理解 : より高度なUnity C#プログラミング",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085282&hidden_return_link=true",
-          "author": null,
-          "description": "金崎朝子, 秋月秀一, 千葉直也著. -- 講談社, 2022.10.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085282&hidden_return_link=true",
-          "publishedOn": "2022-10-31T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "詳解 : 3次元点群処理 : Pythonによる基礎アルゴリズムの実装",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085313&hidden_return_link=true",
-          "author": null,
-          "description": "ガレノス [著] ; 坂井建雄 [ほか] 訳 ; 2. -- 京都大学学術出版会, 2022.10. -- (西洋古典叢書). -- 巻号等：2<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085313&hidden_return_link=true",
-          "publishedOn": "2022-10-31T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "身体諸部分の用途について",
-          "imageUrl": null
         }
       ]
     }
