@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-02-06T17:07:57.186Z</updated>
+    <updated>2023-02-06T18:12:10.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2526,17 +2526,6 @@ macOS 13(Ventura)へのバージョンアップに関する注意事項 first ap
         <summary type="html"><![CDATA[石川雅之著. -- 大河出版, 2022.9.<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「朝日新聞クロスサーチ」講習会開催のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12682</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/11/09/20221128_asahi_closssearch/"/>
-        <updated>2022-11-09T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[「朝日新聞クロスサーチ」の講習会を開催いたします。 　朝日新聞社の「朝日新聞クロスサーチ」は、過去の出来事を手軽に調べることができる日本国内最大級の新聞記事データベースで、日本国内外の多くの大学や図書館などで利用されてい […]
-「朝日新聞クロスサーチ」講習会開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
