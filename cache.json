@@ -2484,56 +2484,6 @@
           "wordCount": 3,
           "title": "エンジニアでなくてもわかる電子工作ガイドブック",
           "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085312&hidden_return_link=true",
-          "author": null,
-          "description": "井上昂治, 河原達也共著. -- オーム社, 2022.10.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085312&hidden_return_link=true",
-          "publishedOn": "2022-11-10T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "音声対話システム : 基礎から実装まで",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085266&hidden_return_link=true",
-          "author": null,
-          "description": "馬場政勝著. -- 技術評論社, 2022.9. -- (しくみ図解 ; 072).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085266&hidden_return_link=true",
-          "publishedOn": "2022-11-10T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "電子工作が一番わかる : 回路図の書き方から基板製作まで理解する",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085307&hidden_return_link=true",
-          "author": null,
-          "description": "材木裕著 ; DVD版. -- ver11.4. -- フロネ, c2017. w.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085307&hidden_return_link=true",
-          "publishedOn": "2022-11-10T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "解析ハンドブック for femap with NX Nastran",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085264&hidden_return_link=true",
-          "author": null,
-          "description": "田村隆明著. -- 改訂版. -- 裳華房, 2022.9.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085264&hidden_return_link=true",
-          "publishedOn": "2022-11-10T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "コア講義生物学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085265&hidden_return_link=true",
-          "author": null,
-          "description": "石川雅之著. -- 大河出版, 2022.9.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085265&hidden_return_link=true",
-          "publishedOn": "2022-11-10T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "歯車加工入門",
-          "imageUrl": null
         }
       ]
     }
