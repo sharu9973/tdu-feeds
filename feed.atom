@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-02-15T02:19:59.977Z</updated>
+    <updated>2023-02-15T03:15:33.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2425,46 +2425,6 @@ MATLAB講習会 ～MATLABの基本とその活用方法を知ろう！～ 開催
 macOS 13(Ventura)へのバージョンアップに関する注意事項 first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>MatsumotoSaya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異常検知からリスク管理へ]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085262&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085262&amp;hidden_return_link=true"/>
-        <updated>2022-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[山西健司 [ほか] 共著. -- サイエンス社, 2022.8. -- (AI/データサイエンス ライブラリ "基礎から応用へ" ; 2).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝日キーワード就職 : 最新時事用語&一般常識]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085454&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085454&amp;hidden_return_link=true"/>
-        <updated>2022-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝日新聞出版編 ; 2024. -- 朝日新聞出版, 2022.11. -- 巻号等：2024<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アナログ回路入門!サウンド&オーディオ回路集 : 電圧/電流/ひずみ/雑音/効率・・・テクニックあれこれ]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085453&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085453&amp;hidden_return_link=true"/>
-        <updated>2022-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トランジスタ技術Special編集部編集. -- CQ出版社, 2022.10. -- (トランジスタ技術Special ; No.160).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンジニアでなくてもわかる電子工作ガイドブック]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085318&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085318&amp;hidden_return_link=true"/>
-        <updated>2022-11-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ボーノ著. -- 工学社, 2022.10. -- (I/O books).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>
