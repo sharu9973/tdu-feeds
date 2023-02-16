@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-02-16T03:13:46.464Z</updated>
+    <updated>2023-02-16T04:12:07.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メールセキュリティシステムの更新について（2/17,20）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13284</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/02/16/mailsecreplace/"/>
+        <updated>2023-02-16T03:34:03.000Z</updated>
+        <summary type="html"><![CDATA[今年度実施している基幹ネットワーク・セキュリティシステムの更新に伴い、現行のメールセキュリティシステムが更新・強化されます。  各ドメイン毎の新システムへの切り替えスケジュールは以下の通りです。 〇切り替えスケジュール […]
+メールセキュリティシステムの更新について（2/17,20） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>kfujita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2/15）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13234</id>
