@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-03-02T13:20:26.602Z</updated>
+    <updated>2023-03-02T14:10:04.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -26,6 +26,46 @@
 メールセキュリティシステムの更新について（3/1） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脳のしくみとユーザー体験 : 認知科学者が教えるデザインの成功法則]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085584&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085584&amp;hidden_return_link=true"/>
+        <updated>2023-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ジョン・ウェイレン著 ; 高崎拓哉訳. -- ビー・エヌ・エヌ, 2021.4.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディープラーニング学習する機械 : ヤン・ルカン、人工知能を語る]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085612&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085612&amp;hidden_return_link=true"/>
+        <updated>2023-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yann LeCun著 ; 小川浩一訳. -- 講談社, 2021.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロダクトマネジメントのすべて : 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085645&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085645&amp;hidden_return_link=true"/>
+        <updated>2023-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[及川卓也, 曽根原春樹, 小城久美子著. -- 翔泳社, 2021.3.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in chromatography]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085654&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085654&amp;hidden_return_link=true"/>
+        <updated>2023-02-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Nelu Grinberg and Peter W. Carr ; v. 59 : hbk. -- CRC Press, 2023. -- 巻号等：v. 59 : hbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
