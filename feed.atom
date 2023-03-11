@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-03-11T21:08:01.150Z</updated>
+    <updated>2023-03-11T22:08:30.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1975,17 +1975,6 @@ MathWorks主催 ミニドローン競技大会：Minidrone Competition – IFAC 
         <summary type="html"><![CDATA[Pavle V. M. Blagojević ... [et al.]. -- Springer, c2021. -- (Lecture notes in mathematics ; 2282).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB講習会 ～MATLABの基本とその活用方法を知ろう！～ 開催のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=12991</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2022/12/12/20221221_matlab_seminar/"/>
-        <updated>2022-12-12T09:26:35.000Z</updated>
-        <summary type="html"><![CDATA[開催日時：2022年12月21日（水） 19：00～21：00 　MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており，世界中の企業や研究機関において利用されています。加えて、多くの […]
-MATLAB講習会 ～MATLABの基本とその活用方法を知ろう！～ 開催のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
