@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-03-17T07:09:01.749Z</updated>
+    <updated>2023-03-17T08:12:49.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1057,6 +1057,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起]]></title>
+        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14829</id>
+        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/2023%e5%b9%b41%e6%9c%88oracle%e8%a3%bd%e5%93%81%e3%81%ae%e3%82%af%e3%83%aa%e3%83%86%e3%82%a3%e3%82%ab%e3%83%ab%e3%83%91%e3%83%83%e3%83%81%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%ab/"/>
+        <updated>2023-01-19T01:15:02.000Z</updated>
+        <summary type="html"><![CDATA[I. 概要 2023年1月17日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]
+2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
+        <author>
+            <name>MatsumotoSaya</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[基幹ネットワークシステム更新に伴う教職員向けメールシステム（DEEPMail）の停止について（1/22）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13115</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/01/13/networkmaintenance-20230122/"/>
@@ -1065,6 +1076,17 @@
 基幹ネットワークシステム更新に伴う教職員向けメールシステム（DEEPMail）の停止について（1/22） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe AcrobatおよびReaderの脆弱性（APSB22-46）に関する注意喚起]]></title>
+        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14814</id>
+        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/adobe-acrobat%e3%81%8a%e3%82%88%e3%81%b3reader%e3%81%ae%e8%84%86%e5%bc%b1%e6%80%a7%ef%bc%88apsb22-46%ef%bc%89%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e6%b3%a8%e6%84%8f%e5%96%9a%e8%b5%b7-2/"/>
+        <updated>2023-01-12T02:52:36.000Z</updated>
+        <summary type="html"><![CDATA[I. 概要 アドビからPDFファイル作成・変換ソフトウェアAdobe AcrobatおよびPDFファイル閲覧ソフトウェアAdobe Acrobat Readerにおける脆弱性に関する情報（APSB23-01）が公開さ […]
+Adobe AcrobatおよびReaderの脆弱性（APSB22-46）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
+        <author>
+            <name>MatsumotoSaya</name>
         </author>
     </entry>
     <entry>
