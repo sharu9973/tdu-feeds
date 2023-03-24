@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-03-24T02:04:18.792Z</updated>
+    <updated>2023-03-24T03:10:12.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書サービス停止について（3/25）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13495</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/03/24/20230325_library/"/>
+        <updated>2023-03-24T03:04:40.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、サーバ等システムのメンテナンス作業を実施いたします。そのため、図書サービスの一部が利用できなくなります。 図書館は開館しておりますのでご利用になれます。 ご迷惑をおかけいたしますが、ご理解ご協力をお願 […]
+図書サービス停止について（3/25） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[授業フォルダ・ホームフォルダ等サービス停止について（3/25）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13497</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/03/24/20230325_maintenance/"/>
+        <updated>2023-03-24T02:48:38.000Z</updated>
+        <summary type="html"><![CDATA[以下の期間において、システムのメンテナンス作業を実施いたします。授業フォルダ・ホームフォルダ等のサービスを停止するためご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 停止期間  […]
+授業フォルダ・ホームフォルダ等サービス停止について（3/25） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2023/3/27）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13469</id>
