@@ -14,16 +14,6 @@
           "wordCount": 1953,
           "title": "Adobe AcrobatおよびReaderの脆弱性（APSB23-24）に関する注意喚起",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=14829",
-          "author": "MatsumotoSaya",
-          "description": "I. 概要 2023年1月17日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]\n2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.",
-          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/2023%e5%b9%b41%e6%9c%88oracle%e8%a3%bd%e5%93%81%e3%81%ae%e3%82%af%e3%83%aa%e3%83%86%e3%82%a3%e3%82%ab%e3%83%ab%e3%83%91%e3%83%83%e3%83%81%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%ab/",
-          "publishedOn": "2023-01-19T01:15:02.000Z",
-          "wordCount": 1922,
-          "title": "2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起",
-          "imageUrl": null
         }
       ]
     },

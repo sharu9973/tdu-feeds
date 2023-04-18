@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-04-18T13:13:19.824Z</updated>
+    <updated>2023-04-18T14:10:07.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1153,17 +1153,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 【千住】プリントシステム停止のお知らせ（1/29） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=14829</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/2023%e5%b9%b41%e6%9c%88oracle%e8%a3%bd%e5%93%81%e3%81%ae%e3%82%af%e3%83%aa%e3%83%86%e3%82%a3%e3%82%ab%e3%83%ab%e3%83%91%e3%83%83%e3%83%81%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%ab/"/>
-        <updated>2023-01-19T01:15:02.000Z</updated>
-        <summary type="html"><![CDATA[I. 概要 2023年1月17日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]
-2023年1月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
