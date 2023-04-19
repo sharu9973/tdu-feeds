@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-04-19T08:12:04.074Z</updated>
+    <updated>2023-04-19T09:09:27.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新入生 初期パスワードの有効期限について【4/20まで】]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=14681</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/19/2023_password/"/>
+        <updated>2023-04-19T08:29:52.000Z</updated>
+        <summary type="html"><![CDATA[新入生のアカウントにはあらかじめパスワード（初期パスワード）を設定しています。 この初期パスワードの有効期限は、2023年4月20日（木）です。 セキュリティ上大変危険なため、有効期限を過ぎてもパスワード変更を行わなかっ […]
+新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学内サーバの証明書更新作業（4/20、4/22）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=14649</id>
