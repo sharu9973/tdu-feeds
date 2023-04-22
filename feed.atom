@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-04-22T21:07:27.890Z</updated>
+    <updated>2023-04-22T22:07:59.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1164,17 +1164,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 メールセキュリティの更新について（1/29） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【千住】プリントシステム停止のお知らせ（1/29）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13155</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/01/23/20230129_printsystem/"/>
-        <updated>2023-01-23T10:00:26.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程において、東京千住キャンパスのプリントシステムを停止いたします。そのため、次にあげる学内に設置されたプリントシステムの複合機・大判プリンターのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協 […]
-【千住】プリントシステム停止のお知らせ（1/29） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
