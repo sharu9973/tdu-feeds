@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-04-24T23:08:54.852Z</updated>
+    <updated>2023-04-25T00:47:41.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1153,17 +1153,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 メールサービスの障害について（1/27(金)23:00-) first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メールセキュリティの更新について（1/29）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13158</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/01/25/networkmaintenance-20230122-2/"/>
-        <updated>2023-01-25T12:23:28.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターでは現在、本学のセキュリティシステムの更新作業を順次進めております。　今回、下記の日時でメールセキュリティの更新作業を実施させていただきます。この作業によるサービス停止はありませんが、配送遅延が発生 […]
-メールセキュリティの更新について（1/29） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
