@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-04-27T07:08:39.649Z</updated>
+    <updated>2023-04-27T08:11:38.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MATLAB入門ワークショップのお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=14877</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/27/20230512_matlab_workshop/"/>
+        <updated>2023-04-27T07:50:02.000Z</updated>
+        <summary type="html"><![CDATA[MATLABは世界中の研究者・エンジニアに愛用され、データの解析や開発の際に用いられているソフトウェアです。 このワークショップではMATLAB Academyの「MATLAB入門」を用いて学びます。MATLABの基本的 […]
+MATLAB入門ワークショップのお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年4月Oracle製品のクリティカルパッチアップデートに関する注意喚起]]></title>
         <id>https://www.csirt.dendai.ac.jp/csirt/?p=16423</id>
