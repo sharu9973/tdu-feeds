@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-05-08T19:07:16.296Z</updated>
+    <updated>2023-05-08T20:08:52.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1164,17 +1164,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
         <summary type="html"><![CDATA[田中貴子著. -- 岩波書店, 2023.1. -- (岩波新書 ; 新赤版 1958).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2/15）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13234</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/02/08/20230208_license/"/>
-        <updated>2023-02-08T07:58:33.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、ソフトウェアライセンスサーバのメンテナンス作業を実施いたします。そのため、ライセンスサーバを利用するソフトウェアのご利用ができなくなることがあります。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い […]
-ソフトウェアライセンスサーバ停止のお知らせ（2/15） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
