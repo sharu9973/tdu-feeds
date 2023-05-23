@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-05-23T00:48:15.826Z</updated>
+    <updated>2023-05-23T02:03:08.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TDU学術リポジトリ　サービス一時停止のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15319</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/05/23/20230627_tdu_repository/"/>
+        <updated>2023-05-23T01:13:13.000Z</updated>
+        <summary type="html"><![CDATA[TDU学術リポジトリは、国立情報学研究所（NII）の共用リポジトリサービス JAIRO Cloud を利用しています。NIIによるシステム移行作業のため、一時的にサービスが停止されます。その間は、TDU学術リポジトリへの […]
+TDU学術リポジトリ　サービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メールサービス サーバ証明書更新作業（5/9）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15026</id>
