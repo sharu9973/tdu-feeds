@@ -234,48 +234,7 @@
       "title": "新着案内",
       "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
-      "articles": [
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085584&hidden_return_link=true",
-          "author": null,
-          "description": "ジョン・ウェイレン著 ; 高崎拓哉訳. -- ビー・エヌ・エヌ, 2021.4.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085584&hidden_return_link=true",
-          "publishedOn": "2023-02-23T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "脳のしくみとユーザー体験 : 認知科学者が教えるデザインの成功法則",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085612&hidden_return_link=true",
-          "author": null,
-          "description": "Yann LeCun著 ; 小川浩一訳. -- 講談社, 2021.10.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085612&hidden_return_link=true",
-          "publishedOn": "2023-02-23T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "ディープラーニング学習する機械 : ヤン・ルカン、人工知能を語る",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085645&hidden_return_link=true",
-          "author": null,
-          "description": "及川卓也, 曽根原春樹, 小城久美子著. -- 翔泳社, 2021.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085645&hidden_return_link=true",
-          "publishedOn": "2023-02-23T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "プロダクトマネジメントのすべて : 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085654&hidden_return_link=true",
-          "author": null,
-          "description": "edited by Nelu Grinberg and Peter W. Carr ; v. 59 : hbk. -- CRC Press, 2023. -- 巻号等：v. 59 : hbk<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085654&hidden_return_link=true",
-          "publishedOn": "2023-02-23T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Advances in chromatography",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
