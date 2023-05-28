@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-05-28T00:53:42.903Z</updated>
+    <updated>2023-05-28T02:13:27.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -233,17 +233,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
         <updated>2023-02-28T10:40:20.000Z</updated>
         <summary type="html"><![CDATA[学内サーバについて、以下の日時でメンテナンス作業を実施するため、Zoom、Box、UNIPAで利用している認証システム（Swivel Secure）での認証が一時的に利用できなくなる時間が発生いたします。 直前のご連絡と […]
 学内サーバのメンテナンスに伴うZoom、Box、UNIPAの一時認証不可について（3/1(水)21:00-) first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メールセキュリティシステムの更新について（3/1）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13349</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/02/27/mailsecreplace-2/"/>
-        <updated>2023-02-27T13:22:15.000Z</updated>
-        <summary type="html"><![CDATA[今年度実施している基幹ネットワーク・セキュリティシステムの更新に伴い、現行のメールセキュリティシステムが更新・強化されます。 　今回、下記の日時でMicrosoft 365 メールシステム（～@ms.dendai.ac […]
-メールセキュリティシステムの更新について（3/1） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
         </author>
