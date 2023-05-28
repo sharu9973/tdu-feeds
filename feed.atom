@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-05-28T22:08:00.489Z</updated>
+    <updated>2023-05-28T23:08:07.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -224,17 +224,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 学内サーバメンテナンスによるサーバ停止のお知らせ（3/8） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学内サーバのメンテナンスに伴うZoom、Box、UNIPAの一時認証不可について（3/1(水)21:00-)]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13361</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/02/28/server-maint-20220825-2/"/>
-        <updated>2023-02-28T10:40:20.000Z</updated>
-        <summary type="html"><![CDATA[学内サーバについて、以下の日時でメンテナンス作業を実施するため、Zoom、Box、UNIPAで利用している認証システム（Swivel Secure）での認証が一時的に利用できなくなる時間が発生いたします。 直前のご連絡と […]
-学内サーバのメンテナンスに伴うZoom、Box、UNIPAの一時認証不可について（3/1(水)21:00-) first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
