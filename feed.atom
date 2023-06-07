@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-06-07T13:12:49.888Z</updated>
+    <updated>2023-06-07T14:08:02.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -213,17 +213,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧】図書サービス全般が利用できません]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13412</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/03/10/library_20230310/"/>
-        <updated>2023-03-10T01:29:28.000Z</updated>
-        <summary type="html"><![CDATA[2023年3月10日現在、図書サービス（OPAC蔵書検索、電子図書館等）全般においてシステムの利用ができませんでしたが、11:00頃に復旧いたしました。 大変ご迷惑をお掛けして誠に申し訳ございません。 影響 2023年3 […]
-【復旧】図書サービス全般が利用できません first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
