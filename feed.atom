@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-06-10T12:14:53.473Z</updated>
+    <updated>2023-06-10T13:09:09.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -213,17 +213,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2023�
 ソフトウェアライセンスサーバ停止のお知らせ（2023/3/27） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13419</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/03/13/202303_graduation/"/>
-        <updated>2023-03-13T00:20:35.000Z</updated>
-        <summary type="html"><![CDATA[卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]
-卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
