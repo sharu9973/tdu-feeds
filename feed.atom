@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-06-29T03:18:48.597Z</updated>
+    <updated>2023-06-29T04:12:13.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -167,17 +167,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB23-24）に関する注意喚起 
         <updated>2023-04-03T06:09:35.000Z</updated>
         <summary type="html"><![CDATA[総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを行います。 図書館・図書閲覧室の使い方、活用方法を学べます。 事前の申し込みは不要です。新年度生に限ら […]
 図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[paizaラーニング「無料クーポン」プレゼントについて（2023）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13542</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/01/paiza-coupon-2023/"/>
-        <updated>2023-03-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]
-paizaラーニング「無料クーポン」プレゼントについて（2023） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
