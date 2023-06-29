@@ -174,7 +174,68 @@
       "title": "新着案内",
       "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20080376&hidden_return_link=true",
+          "author": null,
+          "description": "小川雄太郎著. -- マイナビ出版, 2019.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20080376&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "つくりながら学ぶ!PyTorchによる発展ディープラーニング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085646&hidden_return_link=true",
+          "author": null,
+          "description": "アラン著 ; 串田孫一, 中村雄二郎訳. -- 白水社, 2008.11. -- (白水Uブックス ; 1098).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085646&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "幸福論",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085653&hidden_return_link=true",
+          "author": null,
+          "description": "東野圭吾著. -- KADOKAWA, 2023.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085653&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "魔女と過ごした七日間",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085666&hidden_return_link=true",
+          "author": null,
+          "description": "五十嵐一著. -- 森北出版, 2023.2.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085666&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電磁界解析による最適設計 : トポロジー最適化の基礎から機械学習まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085680&hidden_return_link=true",
+          "author": null,
+          "description": "布留川英一著. -- ボーンデジタル, 2021.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085680&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "BERT/GPT-3/DALL-E自然言語処理・画像処理・音声処理人工知能プログラミング実践入門 : 最先端のフレームワークの実力を試そう!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085691&hidden_return_link=true",
+          "author": null,
+          "description": "藤田哲也編著. -- 第2版. -- ミネルヴァ書房, 2021.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085691&hidden_return_link=true",
+          "publishedOn": "2023-06-22T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "絶対役立つ教育心理学 : 実践の理論、理論を実践",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
