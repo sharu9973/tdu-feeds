@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-06-30T08:12:03.551Z</updated>
+    <updated>2023-06-30T09:09:35.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「IOP Publishing（英国物理学会出版局）電子ブックフリーアクセスキャンペーン」の実施について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15926</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/06/30/20230701_iop_ebooks_campaign/"/>
+        <updated>2023-06-30T09:01:57.000Z</updated>
+        <summary type="html"><![CDATA[IOP（Institute of Physics; 英国物理学会）は、1873年に設立されたイギリスの物理学会です。学会の出版局（IOP Publishing; 英国物理学会出版局）が電子ブックの発行10周年を記念したイ […]
+「IOP Publishing（英国物理学会出版局）電子ブックフリーアクセスキャンペーン」の実施について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[つくりながら学ぶ!PyTorchによる発展ディープラーニング]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20080376&amp;hidden_return_link=true</id>
