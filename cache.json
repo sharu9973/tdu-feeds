@@ -186,6 +186,16 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085723&hidden_return_link=true",
+          "author": null,
+          "description": "仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085723&hidden_return_link=true",
+          "publishedOn": "2023-06-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "大学院フリーアドレス研究室 【6月20日:5号館10階(東京千住キャンパス)】",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20080376&hidden_return_link=true",
           "author": null,
           "description": "小川雄太郎著. -- マイナビ出版, 2019.7.<図書>",

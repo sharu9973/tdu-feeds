@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-01T13:14:16.802Z</updated>
+    <updated>2023-07-01T14:08:11.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学院フリーアドレス研究室 【6月20日:5号館10階(東京千住キャンパス)】]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085723&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085723&amp;hidden_return_link=true"/>
+        <updated>2023-06-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仮出版者.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「IOP Publishing（英国物理学会出版局）電子ブックフリーアクセスキャンペーン」の実施について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15926</id>
