@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-01T17:08:27.450Z</updated>
+    <updated>2023-07-01T18:11:04.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -237,17 +237,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB23-24）に関する注意喚起 
         <updated>2023-04-10T23:58:21.000Z</updated>
         <summary type="html"><![CDATA[以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]
 利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館・図書閲覧室ガイダンスのお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=13636</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/03/2023_library_guidance/"/>
-        <updated>2023-04-03T06:09:35.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを行います。 図書館・図書閲覧室の使い方、活用方法を学べます。 事前の申し込みは不要です。新年度生に限ら […]
-図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
