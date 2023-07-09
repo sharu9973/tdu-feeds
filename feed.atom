@@ -2,10 +2,250 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-09T13:14:42.184Z</updated>
+    <updated>2023-07-09T14:08:46.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポエニー戦争の歌]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085775&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085775&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シーリウス・イタリクス [著] ; 高橋宏幸訳 ; 1. -- 京都大学学術出版会, 2023.3. -- (西洋古典叢書). -- 巻号等：1<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyclic cohomology at 40 : achievements and future prospects : Virtual Conference Cyclic Cohomology at 40 : Achievements and Future Prospects, September 27-October 1, 2021, Fields Institute for Research in Mathematical Sciences, Toronto, ON Canada]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085766&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085766&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Connes ... [et al.], editors ; : pbk. -- American Mathematical Society, c2023. -- (Proceedings of symposia in pure mathematics ; v. 105). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geometric and functional inequalities and recent topics in nonlinear PDEs : Virtual Conference on Geometric and Functional Inequalities and Recent Topics in Nonlinear PDEs, February 28 - March 1, 2021, Purdue University, West Lafayette, IN]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085767&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085767&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Emanuel Indrei, Diego Marcon, Levon Nurbekyan, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 781). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computational aspects of discrete subgroups of Lie groups : Virtual Conference Computational Aspects of Discrete Subgroups of Lie Groups, June 14-18, 2021, Institute for Computational and Experimental Research in Mathematics (ICERM), Providence, Rhode Island]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085768&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085768&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alla Detinko ... [et al.], editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 783). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in inverse problems for partial differential equations : AMS Special Session Recent Developments on Analysis and Computation for Inverse Problems for PDEs, March 13-14, 2021, virtual, AMS Special Session Recent Advances in Inverse Problems for PDEs, October 23-23 [i.e. 24], 2021, virtual]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085769&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085769&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dinh-Liem Nguyen, Loc Hoang Nguyen, Thi-Phong Nguyen, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 784). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McKay correspondence, mutation and related topics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085770&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085770&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Yukari Ito, Akira Ishii, Osamu Iyama. -- Mathematical Society of Japan, c2023. -- (Advanced studies in pure mathematics ; 88).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress in optics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085771&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085771&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Taco D. Visser ; contributors, Umar Arshad ... [et al.] ; v. 68. -- Academic Press, an imprint of Elsevier, 2023. -- 巻号等：v. 68<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advances in imaging and electron physics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085772&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085772&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Martin Hÿtch, Peter W. Hawkes ; v. 225. -- Academic Press, c2023. -- 巻号等：v. 225<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会社四季報]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085774&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085774&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年2集:春号. -- 東洋経済新報社, 2023.3. -- 巻号等：2023年2集:春号<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open circuits : the inner beauty of electronic components]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085555&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085555&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eric Schlaepfer & Windell H. Oskay ; : print. -- No Starch Press, 2022. -- 巻号等：: print<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報処理安全確保支援士「専門知識+午後問題」の重点対策]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085614&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085614&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[三好康之著 ; 2023. -- アイテック, 2022.11. -- 巻号等：2023<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これが本当のSPI3だ! : 主要3方式「テストセンター・ペーパーテスト・WEBテスティング」対応]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085657&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085657&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPIノートの会編著 ; 2025年度版. -- 講談社, 2023.1. -- (本当の就職テストシリーズ). -- 巻号等：2025年度版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データの分析 : 日本統計学会公式認定統計検定3級対応]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085681&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085681&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本統計学会編. -- 改訂版. -- 東京図書, 2020.2.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[統計検定3級・4級公式問題集 : 日本統計学会公式認定]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085682&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085682&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本統計学会出版企画委員会編 ; 統計質保証推進協会統計検定センター著 ; 2018-2021年. -- 実務教育出版, 2021.12. -- 巻号等：2018-2021年<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公式TOEIC Listening & Reading Part 7速読演習]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085687&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085687&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ETS著. -- 国際ビジネスコミュニケーション協会, 2022.12.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学生活を始めるときに読む本 : 東京電機大学新入生ガイドブック]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085725&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085725&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京電機大学編 ; 2023. -- 東京電機大学出版局, 2023.3. -- 巻号等：2023<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来とつながる工学入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085726&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085726&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京電機大学編. -- 東京電機大学出版局, 2023.2.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医療機器運用管理のための情報セキュリティ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085727&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085727&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[柿崎淑郎 [ほか] 著. -- 東京電機大学出版局, 2023.3. -- (臨床工学テキスト).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電気法規と電気施設管理]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085728&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085728&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[竹野正二著 ; 令和5年度版. -- 東京電機大学出版局, 2023.2. -- 巻号等：令和5年度版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICT・IoTのためのアンテナ工学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085729&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085729&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[川上春夫著. -- 改訂版. -- 東京電機大学出版局, 2023.4.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子戦の技術]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085730&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085730&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デビッド・アダミー著 ; 河東晴子, 小林正明, 徳丸義博訳 ; 宇宙の電子戦編. -- 東京電機大学出版局, 2023.5. -- 巻号等：宇宙の電子戦編<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一級アマチュア無線技士合格精選450題試験問題集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085731&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085731&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[吉川忠久著 ; 第3集. -- 東京電機大学出版局, 2023.5. -- 巻号等：第3集<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent trends in formal and analytic solutions of diff. equations : Virtual Conference Formal and Analytic Solutions of Diff. Equations, June 28-July 2, 2021, University of Alcalá, Alcalá de Henares, Spain]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085764&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085764&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Galina Filipuk, Alberto Lastra, Sławomir Michalik, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 782). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebra and coding theory : virtual conference in honor of Tariq Rizvi, Noncommutative rings and their Applications VII, July 5-7, 2021, Université d'Artois, Lens, France : virtual conference on Quadratic forms, rings and codes, July 8, 2021, Université d'Artois, Lens, France]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085765&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085765&amp;hidden_return_link=true"/>
+        <updated>2023-07-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A. Leroy, S.K. Jain, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 785). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大学院フリーアドレス研究室 【6月21日:5号館10階(東京千住キャンパス)】]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085724&amp;hidden_return_link=true</id>
