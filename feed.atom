@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-11T17:08:56.791Z</updated>
+    <updated>2023-07-11T18:12:22.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -467,17 +467,6 @@ MATLAB入門ワークショップのお知らせ first appeared on 総合メデ�
 学内サーバの証明書更新作業（4/20、4/22） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe AcrobatおよびReaderの脆弱性（APSB23-24）に関する注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=15841</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/adobe-apsb23-24/"/>
-        <updated>2023-04-13T05:55:51.000Z</updated>
-        <summary type="html"><![CDATA[I. 概要 アドビからPDFファイル作成・変換ソフトウェアAdobe AcrobatおよびPDFファイル閲覧ソフトウェアAdobe Acrobat Readerにおける脆弱性に関する情報（APSB23-24）が公開さ […]
-Adobe AcrobatおよびReaderの脆弱性（APSB23-24）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
