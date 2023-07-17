@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-16T23:09:13.614Z</updated>
+    <updated>2023-07-17T01:02:44.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -976,17 +976,6 @@ MATLAB入門ワークショップのお知らせ first appeared on 総合メデ�
 新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学内サーバの証明書更新作業（4/20、4/22）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=14649</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/18/20230420-0422_server-maint/"/>
-        <updated>2023-04-18T13:00:47.000Z</updated>
-        <summary type="html"><![CDATA[学内サーバについて、以下の日時でメンテナンス作業を実施いたします。更新作業中はサービスが不安定となる場合があります。ご迷惑をおかけいたしますが、ご理解・ご協力を何卒よろしくお願いいたします。 　　　　　　　　　　　　　　 […]
-学内サーバの証明書更新作業（4/20、4/22） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
