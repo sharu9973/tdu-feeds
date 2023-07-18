@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-18T14:09:13.808Z</updated>
+    <updated>2023-07-18T15:09:37.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -954,17 +954,6 @@ Adobe デジタルクリエイティブ基礎講座オンライン版（2023年�
 MATLAB入門ワークショップのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年4月Oracle製品のクリティカルパッチアップデートに関する注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=16423</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/202304_oracle_critical/"/>
-        <updated>2023-04-20T02:38:35.000Z</updated>
-        <summary type="html"><![CDATA[I. 概要 2023年4月18日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]
-2023年4月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
