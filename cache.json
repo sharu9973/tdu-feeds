@@ -4,7 +4,18 @@
       "title": "注意喚起情報 | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=17213",
+          "author": "MatsumotoSaya",
+          "description": "I. 概要 2023年7月18日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]\n2023年7月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.",
+          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/202307_oracle_critical/",
+          "publishedOn": "2023-07-20T06:29:41.000Z",
+          "wordCount": 1917,
+          "title": "2023年7月Oracle製品のクリティカルパッチアップデートに関する注意喚起",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "お知らせ | TDU-CSIRT",
