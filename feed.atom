@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-25T19:05:56.003Z</updated>
+    <updated>2023-07-25T20:09:11.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1492,17 +1492,6 @@ TDU学術リポジトリ　サービス一時停止のお知らせ first appeare
         <updated>2023-05-02T06:49:07.000Z</updated>
         <summary type="html"><![CDATA[アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2023年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされておりブラッシュアップされています。都合の良い時間に、自分の知りたい部分をピッ […]
 Adobe デジタルクリエイティブ基礎講座オンライン版（2023年更新版）公開のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB入門ワークショップのお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=14877</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/04/27/20230512_matlab_workshop/"/>
-        <updated>2023-04-27T07:50:02.000Z</updated>
-        <summary type="html"><![CDATA[MATLABは世界中の研究者・エンジニアに愛用され、データの解析や開発の際に用いられているソフトウェアです。 このワークショップではMATLAB Academyの「MATLAB入門」を用いて学びます。MATLABの基本的 […]
-MATLAB入門ワークショップのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
