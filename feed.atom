@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-07-30T18:09:39.201Z</updated>
+    <updated>2023-07-30T19:06:31.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1944,17 +1944,6 @@ TDU学術リポジトリ　サービス一時停止のお知らせ first appeare
 メールサービス サーバ証明書更新作業（5/9） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe デジタルクリエイティブ基礎講座オンライン版（2023年更新版）公開のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15008</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/05/02/20230502_adobedcoc/"/>
-        <updated>2023-05-02T06:49:07.000Z</updated>
-        <summary type="html"><![CDATA[アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2023年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされておりブラッシュアップされています。都合の良い時間に、自分の知りたい部分をピッ […]
-Adobe デジタルクリエイティブ基礎講座オンライン版（2023年更新版）公開のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
