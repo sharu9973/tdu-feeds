@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-08-05T12:15:13.992Z</updated>
+    <updated>2023-08-05T13:08:38.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1944,17 +1944,6 @@ Unity、SOLIDWORKSの認定資格・試験のご案内 first appeared on 総合�
 TDU学術リポジトリ　サービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メールサービス サーバ証明書更新作業（5/9）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15026</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/05/08/20230509_mailserver/"/>
-        <updated>2023-05-08T00:31:43.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程において、メールサーバのサーバ証明書を更新いたします。そのため、作業中短時間の停止が発生します。 以上、ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申しあげます。 以上
-メールサービス サーバ証明書更新作業（5/9） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
