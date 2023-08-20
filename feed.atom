@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-08-20T13:08:39.038Z</updated>
+    <updated>2023-08-20T14:06:52.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2523,17 +2523,6 @@ Unity、SOLIDWORKSの認定資格・試験のご案内 first appeared on 総合�
         <updated>2023-05-23T05:03:43.000Z</updated>
         <summary type="html"><![CDATA[有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]
 プログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TDU学術リポジトリ　サービス一時停止のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15319</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/05/23/20230627_tdu_repository/"/>
-        <updated>2023-05-23T01:13:13.000Z</updated>
-        <summary type="html"><![CDATA[TDU学術リポジトリは、国立情報学研究所（NII）の共用リポジトリサービス JAIRO Cloud を利用しています。NIIによるシステム移行作業のため、一時的にサービスが停止されます。その間は、TDU学術リポジトリへの […]
-TDU学術リポジトリ　サービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
