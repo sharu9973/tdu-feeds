@@ -29,6 +29,16 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=16113",
+          "author": "katsumi",
+          "description": "Mathematica？ Wolfram言語？ なんだか難しそうだし、Excelが使えればいいかな…そんなことはありません！！ Mathematicaを利用することにより、Excelでは処理できないビッグデータの取り扱い […]\nMathematicaによるスマートなデータ解析処理 ～基本操作を学び、Mathematicaの魅力を体験しよう！～ 講習会開催のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2023/08/21/20230904_mathematica/",
+          "publishedOn": "2023-08-21T03:05:15.000Z",
+          "wordCount": 2156,
+          "title": "Mathematicaによるスマートなデータ解析処理 ～基本操作を学び、Mathematicaの魅力を体験しよう！～ 講習会開催のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=16218",
           "author": "k-iwamoto",
           "description": "総合メディアセンターでは現在、本学の基幹ネットワークシステムの更新作業を順次進めております。　今回、一斉休暇中に下記のとおり、基幹ネットワーク 関連機器（データセンタおよび各キャンパスのコアスイッチ、 キャンパス間接続 […]\n基幹ネットワークシステム更新に伴うネットワーク停止について（8/9～8/16：一斉休暇中） first appeared on 総合メディアセンター.",
