@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-08-22T14:08:12.024Z</updated>
+    <updated>2023-08-22T15:08:56.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2514,17 +2514,6 @@ Unity、SOLIDWORKSの認定資格・試験のご案内 first appeared on 総合�
 図書館・図書閲覧室　休日開館のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子図書館サービス停止のお知らせ（2023/6/25）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15353</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/05/25/20230625_tdudigitallibrary/"/>
-        <updated>2023-05-25T02:46:42.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、電子図書館サービスのメンテナンス作業を実施いたします。そのため、メンテナンス作業中はサービスを停止するため電子図書館をご利用いただけません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげま […]
-電子図書館サービス停止のお知らせ（2023/6/25） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
