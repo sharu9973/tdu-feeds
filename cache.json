@@ -136,6 +136,16 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085897&hidden_return_link=true",
+          "author": null,
+          "description": "アンドリュー・A・ボフマン, サラ・フリーマン著 ; 青山友美訳. -- 現代図書.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085897&hidden_return_link=true",
+          "publishedOn": "2023-08-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "サイバーサボタージュに立ち向かう : CCE : 事業被害に基づくサイバーセキュリティへの工学的アプローチ",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085911&hidden_return_link=true",
           "author": null,
           "description": "安達裕哉著. -- ダイヤモンド社, 2023.4.<図書>",
