@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-09-06T20:09:05.388Z</updated>
+    <updated>2023-09-06T21:07:47.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2814,17 +2814,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
 Unity、SOLIDWORKSの認定資格・試験のご案内 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インターネット接続回線（SINET）メンテナンスのお知らせ（6/17）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15649</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/06/09/sinet-maintenance-0617/"/>
-        <updated>2023-06-09T08:17:13.000Z</updated>
-        <summary type="html"><![CDATA[インターネット接続回線（学術情報ネットワークSINET）のメンテナンス作業が以下の日時に行われます。本作業は国立情報学研究所（NII）が主体となって実施されるものです。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたし […]
-インターネット接続回線（SINET）メンテナンスのお知らせ（6/17） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
