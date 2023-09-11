@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-09-11T19:07:09.473Z</updated>
+    <updated>2023-09-11T20:08:12.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2913,17 +2913,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <summary type="html"><![CDATA[藤田哲也編著. -- 第2版. -- ミネルヴァ書房, 2021.4.<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、SOLIDWORKSの認定資格・試験のご案内]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=15597</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/06/14/2023_cert_exam/"/>
-        <updated>2023-06-14T07:53:13.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターでは、学生・教職員が取得できる認定資格の情報を公開いたしました。認定資格は、その分野におけるスキルの証明として利用できます。ぜひともご活用ください。 ⇒ 認定資格・試験 この認定資格・試験は、総合メデ […]
-Unity、SOLIDWORKSの認定資格・試験のご案内 first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
