@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-09-14T05:08:27.809Z</updated>
+    <updated>2023-09-14T06:12:06.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起]]></title>
+        <id>https://www.csirt.dendai.ac.jp/csirt/?p=17299</id>
+        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/adobe-apsb23-34/"/>
+        <updated>2023-09-14T06:07:32.000Z</updated>
+        <summary type="html"><![CDATA[I. 概要 アドビからPDFファイル作成・変換ソフトウェアAdobe AcrobatおよびPDFファイル閲覧ソフトウェアAdobe Acrobat Readerにおける脆弱性に関する情報（APSB23-34）が公開されま […]
+Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
+        <author>
+            <name>NakamizoAkiho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16385</id>
