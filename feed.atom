@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-09-28T02:15:49.155Z</updated>
+    <updated>2023-09-28T03:09:19.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3586,26 +3586,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085765&amp;hidden_return_link=true"/>
         <updated>2023-07-02T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[A. Leroy, S.K. Jain, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 785). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学院フリーアドレス研究室 【6月21日:5号館10階(東京千住キャンパス)】]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085724&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085724&amp;hidden_return_link=true"/>
-        <updated>2023-06-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[仮出版者.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学院フリーアドレス研究室 【6月20日:5号館10階(東京千住キャンパス)】]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085723&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085723&amp;hidden_return_link=true"/>
-        <updated>2023-06-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[仮出版者.<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
