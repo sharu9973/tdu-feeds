@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-10-12T01:41:19.515Z</updated>
+    <updated>2023-10-12T02:14:59.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「論文オープンアクセス講習会」のお知らせ（10/26開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16658</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/10/12/20231026_oa_seminar/"/>
+        <updated>2023-10-12T01:51:06.000Z</updated>
+        <summary type="html"><![CDATA[論文のオープンアクセスとは、インターネット上で、研究成果を誰もが制限なしに無償で利用できるようにする活動です。そのことを推進する背景には、学術雑誌の購読価格の高騰や、公的な研究費等で得られた成果を社会に還元することが求 […]
+「論文オープンアクセス講習会」のお知らせ（10/26開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アドビの最新技術を搭載した「Substance 3D」と「Photoshop」、画像生成AI「Firefly」のご紹介（オンラインセミナー）10/17開催]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16569</id>
