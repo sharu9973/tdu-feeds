@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-10-17T18:12:02.670Z</updated>
+    <updated>2023-10-17T19:07:10.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2921,17 +2921,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <summary type="html"><![CDATA[ingectar-e著. -- ソシム, 2023.1. -- (Enjoy design).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年7月Oracle製品のクリティカルパッチアップデートに関する注意喚起]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=17213</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/heads-up/202307_oracle_critical/"/>
-        <updated>2023-07-20T06:29:41.000Z</updated>
-        <summary type="html"><![CDATA[I. 概要 2023年7月18日（現地時間）、Oracleは複数の製品に対するクリティカルパッチアップデートに関する情報を公開しました。参考：https://www.jpcert.or.jp/at/2023/at2300 […]
-2023年7月Oracle製品のクリティカルパッチアップデートに関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>MatsumotoSaya</name>
         </author>
     </entry>
 </feed>
