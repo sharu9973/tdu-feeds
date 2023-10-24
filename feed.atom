@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-10-24T11:07:53.548Z</updated>
+    <updated>2023-10-24T12:16:24.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2903,17 +2903,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <summary type="html"><![CDATA[Brendan Gregg著 ; 長尾高弘訳. -- 第2版. -- オライリー・ジャパン.<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共通パスワード変更の停止のお知らせ（8/2）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16082</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/07/27/20230802_password/"/>
-        <updated>2023-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 作業日時2023年8月2日（水） 9：00  ～  17：00※作業時間は前後する場合があります。　 作業内容 […]
-共通パスワード変更の停止のお知らせ（8/2） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>kfujita</name>
         </author>
     </entry>
 </feed>
