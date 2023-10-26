@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-10-26T08:11:35.194Z</updated>
+    <updated>2023-10-26T09:08:48.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3Dは難しくない！？Substance 3D Stagerを使ってバーチャルフォトを作ってみよう：ワークショップ開催のお知らせ（千住11/9・鳩山11/22開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16808</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/10/26/20231109_1122_adobe_workshop/"/>
+        <updated>2023-10-26T08:39:08.000Z</updated>
+        <summary type="html"><![CDATA[総合メディアセンターでは、アドビ製品の「Substance 3D」を学ぶためのワークショップを開催いたします。東京千住キャンパス、埼玉鳩山キャンパスともに同じ内容で開催いたしますので、ぜひともご参加ください。 　アドビ […]
+3Dは難しくない！？Substance 3D Stagerを使ってバーチャルフォトを作ってみよう：ワークショップ開催のお知らせ（千住11/9・鳩山11/22開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手軽にUnity！深く楽しむゲーム作成体験！：ワークショップ開催のお知らせ（11/6開催）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16766</id>
