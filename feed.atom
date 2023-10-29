@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-10-29T12:14:44.767Z</updated>
+    <updated>2023-10-29T13:09:16.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2963,17 +2963,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <summary type="html"><![CDATA[古川武彦, 大木勇人著. -- 改訂版. -- 講談社, 2023.7. -- (ブルーバックス ; B-2235).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリントシステム停止のお知らせ（8/7～17）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16190</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/08/01/20230801_printsystem/"/>
-        <updated>2023-08-01T00:54:46.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・大判プリンターのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。 日時 […]
-プリントシステム停止のお知らせ（8/7～17） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
