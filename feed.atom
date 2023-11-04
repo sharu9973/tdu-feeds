@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-11-04T14:07:36.010Z</updated>
+    <updated>2023-11-04T15:08:07.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2561,28 +2561,6 @@ Mathematicaによるスマートなデータ解析処理 ～基本操作を学�
         <summary type="html"><![CDATA[篠原真毅監修. -- シーエムシー出版, 2023.7. -- (CMCテクニカルライブラリー ; 810 . エレクトロニクスシリーズ).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基幹ネットワークシステム更新に伴うネットワーク停止について（8/9～8/16：一斉休暇中）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16218</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/08/07/networkmaintenance-20230809-0816/"/>
-        <updated>2023-08-07T02:10:52.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターでは現在、本学の基幹ネットワークシステムの更新作業を順次進めております。　今回、一斉休暇中に下記のとおり、基幹ネットワーク 関連機器（データセンタおよび各キャンパスのコアスイッチ、 キャンパス間接続 […]
-基幹ネットワークシステム更新に伴うネットワーク停止について（8/9～8/16：一斉休暇中） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インターネット接続回線（SINET）メンテナンスのお知らせ（8/10）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16220</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/08/07/sinet-maintenance-0810/"/>
-        <updated>2023-08-07T02:09:46.000Z</updated>
-        <summary type="html"><![CDATA[インターネット接続回線（学術情報ネットワークSINET）のメンテナンス作業が以下の日時に行われます。本作業は国立情報学研究所（NII）が主体となって実施されるものです。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたし […]
-インターネット接続回線（SINET）メンテナンスのお知らせ（8/10） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
