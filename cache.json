@@ -196,6 +196,186 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086098&hidden_return_link=true",
+          "author": null,
+          "description": "'25年度. -- 時事通信出版局, 2023.9. -- (教員採用試験twin books完成シリーズ ; 1). -- 巻号等：'25年度<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086098&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "教職教養の要点理解 : 教員採用試験",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086187&hidden_return_link=true",
+          "author": null,
+          "description": "チームドラゴン桜著. -- 東洋経済新報社, 2023.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086187&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "なぜか結果を出す人が勉強以前にやっていること",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086186&hidden_return_link=true",
+          "author": null,
+          "description": "カレン・ウィルキン編 ; 小山太一, 宮本朋子訳 ; : 新装版. -- 河出書房新社, 2023.4. -- 巻号等：: 新装版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086186&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "どんどん変に… : エドワード・ゴーリーインタビュー集成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086144&hidden_return_link=true",
+          "author": null,
+          "description": "セルシス監修. -- 改訂3版. -- エムディエヌコーポレーション, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086144&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "CLIP STUDIO PAINT PRO公式ガイドブック : もっと自由に創作できる、信頼のオフィシャル入門書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086142&hidden_return_link=true",
+          "author": null,
+          "description": "鶴長鎮一著. -- 日経BP.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086142&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "作りながら学ぶWebシステムの教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086141&hidden_return_link=true",
+          "author": null,
+          "description": "アイリーン・ペレイラ著 ; 長谷川敦士監修 ; 高崎拓哉訳. -- ビー・エヌ・エヌ, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086141&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "UXデザイン100の原則",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086140&hidden_return_link=true",
+          "author": null,
+          "description": "中村健太郎, 黒澤実, 青柳学共著. -- コロナ社, 2023.9. -- (音響テクノロジーシリーズ / 日本音響学会編 ; 26).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086140&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "超音波モータ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086139&hidden_return_link=true",
+          "author": null,
+          "description": "左貝潤一著. -- コロナ社, 2023.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086139&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "光学素子のいろは : 機能別分類による説明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086138&hidden_return_link=true",
+          "author": null,
+          "description": "永井清, 土橋宏規共著. -- 改訂版. -- コロナ社, 2023.10. -- (ロボティクスシリーズ ; 8).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086138&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ロボット機構学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086137&hidden_return_link=true",
+          "author": null,
+          "description": "松本裕著. -- 新版. -- 学芸出版社, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086137&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "卒業設計コンセプトメイキング : リサーチ・デザイン・プレゼンテーション",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086132&hidden_return_link=true",
+          "author": null,
+          "description": "矢内直人, 加道ちひろ, 岡村真吾著. -- 科学情報出版, 2023.8. -- (エンジニア入門シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086132&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ブロックチェーンの基礎からわかるスマートコントラクトのセキュリティ入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086131&hidden_return_link=true",
+          "author": null,
+          "description": "山本直嗣著. -- サイエンス社, 2023.9. -- (ライブラリ新物理学基礎テキスト ; Q5).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086131&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "レクチャー電磁気学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086130&hidden_return_link=true",
+          "author": null,
+          "description": "廣瀬豪著. -- インプレス, 2023.9. -- (ゲーム開発スキルアップ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086130&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonではじめるゲーム制作超入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086126&hidden_return_link=true",
+          "author": null,
+          "description": "桑井康行著. -- オーム社, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086126&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "卒論・レポートWord活用術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086119&hidden_return_link=true",
+          "author": null,
+          "description": "谷内利明, 黒川不二雄, 古川雄大共著. -- 数理工学社. -- (電気・電子工学ライブラリ ; UKE-D8).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086119&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "パワーエレクトロニクス入門 : 等価回路で理解する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086115&hidden_return_link=true",
+          "author": null,
+          "description": "畑浩之著. -- 東京図書, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086115&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "弱点克服大学生の量子力学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086114&hidden_return_link=true",
+          "author": null,
+          "description": "ヒラリー・グラスマン-ディール著 ; 小島正樹, 甲斐基文訳. -- 改訂版. -- 東京図書, 2023.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086114&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "理系研究者のためのアカデミックライティング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086099&hidden_return_link=true",
+          "author": null,
+          "description": "時事通信出版局編 ; '25年度. -- 時事通信出版局. -- (教員採用試験twin books完成シリーズ ; 2). -- 巻号等：'25年度<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086099&hidden_return_link=true",
+          "publishedOn": "2023-10-31T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "教職教養の演習問題 : 教員採用試験",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086088&hidden_return_link=true",
           "author": null,
           "description": "福住伸一[ほか]著. -- 近代科学社Digital.<図書>",
