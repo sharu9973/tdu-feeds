@@ -2,10 +2,350 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-11-12T13:09:26.953Z</updated>
+    <updated>2023-11-12T14:07:31.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[公式TOEIC Listening & Reading問題集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086209&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086209&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ETS著 ; 10. -- 国際ビジネスコミュニケーション協会, 2023.10. -- 巻号等：10<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[藻類バイオ : 微細藻類の魅力と実力 : バイオリファイナリーによるSDGsへの挑戦 : 特集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086188&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086188&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エヌ・ティー・エス, 2022.11. -- (遺伝 : 生物の科学 ; vol.76, no.6).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生物統計学標準教科書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086182&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086182&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寺尾哲共著 ; 森川敏彦共著. -- 第2版. -- ムイスリ出版, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel VBAユーザーのためのPythonプログラミング入門 : 違いがわかればすぐ身につく!]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086181&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086181&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[伊藤潔人著. -- 日経BP.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リチウム・イオン電池&直列/並列回路入門 : 重要技術セル・バランス図解!長寿命で安全を目指して]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086180&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086180&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鵜野将年著. -- CQ出版, 2023.10. -- (Power electronics).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卒業設計日本一決定戦official book : せんだいデザインリーグ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086179&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086179&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[仙台建築都市学生会議, せんだいメディアテーク編 ; 2023. -- 建築資料研究社, 2023.9. -- 巻号等：2023<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[よくわかる最新PMBOK (ピンボック) 第7版の活用 : プロジェクトマネジメント標準の最新トレンド]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086177&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086177&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鈴木安而著. -- 秀和システム, 2023.9. -- (How-nual図解入門).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOEIC L&R TEST 990点獲得全パート難問模試]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086145&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086145&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メディアビーコン著. -- ベレ出版, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理工系のための微分積分]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086143&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086143&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長谷川研二, 熊ノ郷直人, 高木悟共著. -- 改訂版. -- 培風館, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学生のキャリアデザイントレーニング : キャリア理論/自己理解/社会人基礎力]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086136&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086136&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[稲本恵子, 田中美和編著 ; 北村伊都子 [ほか] 著. -- 第2版. -- 晃洋書房, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4Stepsエクセル統計]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086127&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086127&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[柳井久江著. -- 第5版. -- オーエムエス出版.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学院材料力学入試問題集 : 主要大学機械工学系大学院材料力学入学試験問題集 : 項目別]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086113&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086113&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学院材料力学入試問題検討委員会編 ; 2017. -- 固体の力学研究会, 2017.6. w. -- 巻号等：2017<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大学院材料力学入試問題集 : 主要大学機械工学系大学院材料力学入学試験問題集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086112&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086112&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学院材料力学入試問題検討委員会編 ; 2018. -- 固体の力学研究会, 2018.5. w. -- 巻号等：2018<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高学歴難民]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086253&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086253&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[阿部恭子著. -- 講談社, 2023.10. -- (講談社現代新書 ; 2722).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哺乳類の時代--多様化、氷河の時代、そして人類の誕生]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086252&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086252&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[土屋健著. -- 講談社, 2023.10. -- (ブルーバックス ; B-2242 . カラー図説生命の大進化40億年史 ; 新生代編).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自転車に乗る前に読む本 : 生理学データで読み解く「身体と自転車の科学」]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086251&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086251&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高石鉄雄著. -- 講談社, 2023.10. -- (ブルーバックス ; B-2244).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界史の中の戦国大名]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086250&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086250&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鹿毛敏夫著. -- 講談社, 2023.10. -- (講談社現代新書 ; 2723).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガウスの黄金定理 : 平方剰余の相互法則で語る数論の世界]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086249&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086249&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[西来路文朗, 清水健一著. -- 講談社, 2023.10. -- (ブルーバックス ; B-2243).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人はどう老いるのか]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086248&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086248&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[久坂部羊著. -- 講談社, 2023.10. -- (講談社現代新書 ; 2724).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Further steps towards resolving the Riemann hypothesis]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086247&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086247&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kevin Broughan ; : hardback. -- Cambridge University Press, 2024. -- (Encyclopedia of mathematics and its applications / edited by G.-C. Rota ; 187 . Equivalents of the Riemann hypothesis ; v. 3). -- 巻号等：: hardback<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微分の問題集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086234&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086234&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[丸井洋子著 ; : 新装版. -- 第2版. -- 東京電機大学出版局, 2023.10. -- (大学数学基礎力養成). -- 巻号等：: 新装版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微分の教科書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086233&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086233&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[丸井洋子著 ; : 新装版. -- 第2版. -- 東京電機大学出版局, 2023.10. -- (大学数学基礎力養成). -- 巻号等：: 新装版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[積分の問題集]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086232&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086232&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[丸井洋子著 ; : 新装版. -- 第2版. -- 東京電機大学出版局, 2023.10. -- (大学数学基礎力養成). -- 巻号等：: 新装版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[積分の教科書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086231&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086231&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[丸井洋子著 ; : 新装版. -- 第2版. -- 東京電機大学出版局, 2023.10. -- (大学数学基礎力養成). -- 巻号等：: 新装版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[究極の英語ライティング = Ultimate English writing]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086207&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086207&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[遠田和子著. -- 研究社, 2018.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ランサムウェア対策実践ガイド]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086176&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086176&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[田中啓介, 山重徹著. -- マイナビ出版, 2023.9. -- (Compass security).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特殊ゴム・エラストマーの未来展開]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086175&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086175&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゴム技術フォーラム編. -- ポスティコーポレーション, 2023.6.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初心者からちゃんとしたプロになるWebデザイン基礎入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086174&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086174&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[栗谷幸助 [ほか] 共著. -- 改訂2版. -- エムディエヌコーポレーション.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インタプリタの作り方 : 言語設計/開発の基本と2つの方式による実装]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086173&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086173&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Robert Nystrom著 ; 吉川邦夫訳. -- インプレス, 2023.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポートスキャナ自作ではじめるペネトレーションテスト : Linux環境で学ぶ攻撃者の思考]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086172&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086172&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小竹泰一著. -- オライリー・ジャパン.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建築思想図鑑]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086171&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086171&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[松田達 [ほか] 編著 ; 寺田晶子イラスト. -- 学芸出版社, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめての工学倫理]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086170&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086170&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[齊藤了文, 坂下浩司編. -- 第4版. -- 昭和堂, 2023.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonによる地理空間データ分析 : 例題で学ぶロケーションインテリジェンス]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086169&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086169&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bonny P. McClain著 ; 廣川類訳. -- オライリー・ジャパン.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常微分方程式 : 全微分方程式・ベクトル場の幾何を見据えて]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086150&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086150&amp;hidden_return_link=true"/>
+        <updated>2023-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[足助太郎著. -- 清閑堂, 2023.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教職教養の要点理解 : 教員採用試験]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086098&amp;hidden_return_link=true</id>
