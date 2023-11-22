@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-11-22T02:25:32.830Z</updated>
+    <updated>2023-11-22T03:10:20.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3080,16 +3080,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 
 プリントシステムメンテナンスのお知らせ（8/31） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバーサボタージュに立ち向かう : CCE : 事業被害に基づくサイバーセキュリティへの工学的アプローチ]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085897&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085897&amp;hidden_return_link=true"/>
-        <updated>2023-08-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アンドリュー・A・ボフマン, サラ・フリーマン著 ; 青山友美訳. -- 現代図書.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>
