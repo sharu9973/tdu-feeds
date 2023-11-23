@@ -186,6 +186,126 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086194&hidden_return_link=true",
+          "author": null,
+          "description": "富岡淳監修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 機械).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086194&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "機械製図入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20083164&hidden_return_link=true",
+          "author": null,
+          "description": "藤本壱著. -- 技術評論社, 2020.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20083164&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ESP32&Arduino電子工作プログラミング入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086197&hidden_return_link=true",
+          "author": null,
+          "description": "斎藤晴樹 [ほか] 執筆. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 電気・電子).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086197&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電気製図入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086201&hidden_return_link=true",
+          "author": null,
+          "description": "大杉和由, 福島博行編修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 建築・土木).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086201&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "測量入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086288&hidden_return_link=true",
+          "author": null,
+          "description": "Peter Crooks, Alexandru I. Suciu, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 790). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086288&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Compactifications, configurations, and cohomology : Conference, Compactifications, Configurations, and Cohomology, October 22-24, 2021, Northeastern University, Boston, Massachusetts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086287&hidden_return_link=true",
+          "author": null,
+          "description": "Manuel Ritoré. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 348).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086287&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Isoperimetric inequalities in Riemannian manifolds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086236&hidden_return_link=true",
+          "author": null,
+          "description": "長谷川眞理子著. -- 東京大学出版会, 2023.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086236&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヒトの原点を考える : 進化生物学者の現代社会論100話",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086235&hidden_return_link=true",
+          "author": null,
+          "description": "大工道具研究会編. -- 誠文堂新光社, 2015.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086235&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "図解規矩術の基礎と実践 : 曲尺の使い方の基礎から応用までを折り紙でわかりやすく解説",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086225&hidden_return_link=true",
+          "author": null,
+          "description": "民谷栄一, 関谷毅, 八木康史監修. -- 普及版. -- シーエムシー出版, 2023.10. -- (CMCテクニカルライブラリー ; 821 . バイオテクノロジーシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086225&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "IoTを指向するバイオセンシング・デバイス技術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086222&hidden_return_link=true",
+          "author": null,
+          "description": "上泰, 三谷祐一朗著. -- 科学情報出版, 2023.9. -- (エンジニア入門シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086222&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "実践PLCプログラム設計 : 変数によるラダープログラムの基礎から周辺デバイス活用まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086216&hidden_return_link=true",
+          "author": null,
+          "description": "松居正樹監修. -- 普及版. -- シーエムシー出版, 2023.10. -- (CMCテクニカルライブラリー ; 820 . ファインケミカルシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086216&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "機能性色素の新規合成・実用化動向",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086206&hidden_return_link=true",
+          "author": null,
+          "description": "井上弘司 [ほか] 編修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 電気・電子).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086206&hidden_return_link=true",
+          "publishedOn": "2023-11-16T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電気回路入門",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086178&hidden_return_link=true",
           "author": null,
           "description": "ICTワークショップ著 ; 2024年版. -- 翔泳社, 2023.9. -- (情報処理教科書)(Exam press . 情報処理技術者試験学習書). -- 巻号等：2024年版<図書>",

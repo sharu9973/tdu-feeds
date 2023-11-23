@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-11-23T13:12:17.242Z</updated>
+    <updated>2023-11-23T14:08:43.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[機械製図入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086194&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086194&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[富岡淳監修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 機械).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32&Arduino電子工作プログラミング入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20083164&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20083164&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[藤本壱著. -- 技術評論社, 2020.4.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電気製図入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086197&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086197&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[斎藤晴樹 [ほか] 執筆. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 電気・電子).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[測量入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086201&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086201&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大杉和由, 福島博行編修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 建築・土木).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compactifications, configurations, and cohomology : Conference, Compactifications, Configurations, and Cohomology, October 22-24, 2021, Northeastern University, Boston, Massachusetts]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086288&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086288&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Crooks, Alexandru I. Suciu, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 790). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isoperimetric inequalities in Riemannian manifolds]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086287&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086287&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Ritoré. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 348).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒトの原点を考える : 進化生物学者の現代社会論100話]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086236&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086236&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長谷川眞理子著. -- 東京大学出版会, 2023.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[図解規矩術の基礎と実践 : 曲尺の使い方の基礎から応用までを折り紙でわかりやすく解説]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086235&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086235&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大工道具研究会編. -- 誠文堂新光社, 2015.4.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoTを指向するバイオセンシング・デバイス技術]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086225&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086225&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[民谷栄一, 関谷毅, 八木康史監修. -- 普及版. -- シーエムシー出版, 2023.10. -- (CMCテクニカルライブラリー ; 821 . バイオテクノロジーシリーズ).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実践PLCプログラム設計 : 変数によるラダープログラムの基礎から周辺デバイス活用まで]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086222&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086222&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上泰, 三谷祐一朗著. -- 科学情報出版, 2023.9. -- (エンジニア入門シリーズ).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機能性色素の新規合成・実用化動向]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086216&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086216&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[松居正樹監修. -- 普及版. -- シーエムシー出版, 2023.10. -- (CMCテクニカルライブラリー ; 820 . ファインケミカルシリーズ).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電気回路入門]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086206&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086206&amp;hidden_return_link=true"/>
+        <updated>2023-11-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[井上弘司 [ほか] 編修. -- 新訂. -- 実教出版, 2023.10. -- (First Stageシリーズ ; 電気・電子).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[うかる!ネットワークスペシャリスト : 対応試験NW]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086178&amp;hidden_return_link=true</id>
