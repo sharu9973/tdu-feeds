@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-11-29T02:22:51.260Z</updated>
+    <updated>2023-11-29T03:09:56.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3079,116 +3079,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 
 プリントシステムメンテナンスについて（2023/9/7） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「遊戯施設の維持保全計画書」及び「遊戯施設の運行管理規程」の作成手引き]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086010&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086010&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本建築設備・昇降機センター編集 ; 国土交通省住宅局建築指導課編集協力 ; 2022年版. -- 日本建築設備・昇降機センター, 2022.6. -- 巻号等：2022年版<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンピュータビジョンのための実践機械学習 : モデルアーキテクチャからMLOpsまで]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085922&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085922&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Valliappa Lakshmanan, Martin Görner, Ryan Gillard著 ; 松田晃一訳. -- オライリー・ジャパン.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustとWebAssemblyによるゲーム開発 : 安全・高速・プラットフォーム非依存のWebアプリ開発入門]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085923&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085923&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eric Smith著 ; 中田秀基訳. -- オライリー・ジャパン.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スバラシク実力がつくと評判の線形代数キャンパス・ゼミ : 大学の数学がこんなに分かる!単位なんて楽に取れる!]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085924&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085924&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[馬場敬之著. -- 改訂11. -- マセマ出版社, 2023.7.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スバラシク実力がつくと評判の微分積分キャンパス・ゼミ : 大学の数学がこんなに分かる!単位なんて楽に取れる!]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085925&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085925&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[馬場敬之著. -- 改訂9. -- マセマ出版社, 2023.7.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地域を変えるランドスケープ : はみだしの設計思考]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085929&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085929&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[石井秀幸, 野田亜木子著. -- オーム社, 2023.7.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythonによる流体解析]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085930&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085930&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[河村哲也, 佐々木桃著. -- 朝倉書店, 2023.7. -- (実践Pythonライブラリー).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェア開発にChatGPTは使えるのか? : 設計からコーディングまでAIの限界を探る]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085931&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085931&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小野哲著. -- 技術評論社, 2023.7.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[続制御工学のこころ]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085987&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085987&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[足立修一著 ; モデルベースト制御編. -- 東京電機大学出版局, 2023.7. -- 巻号等：モデルベースト制御編<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boundary value problems and Hardy spaces for elliptic systems with block structure]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086008&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086008&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pascal Auscher, Moritz Egert. -- Birkhäuser. -- (Progress in mathematics ; v. 346).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematical modelling : theory and application]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086009&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086009&amp;hidden_return_link=true"/>
-        <updated>2023-08-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hemen Dutta, editor ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 787). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>
