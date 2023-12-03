@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-03T20:09:13.385Z</updated>
+    <updated>2023-12-03T21:07:28.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3308,17 +3308,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 
         <summary type="html"><![CDATA[脇本隆之著. -- 数理工学社. -- (電気・電子工学テキストライブラリ ; USE-B7).<図書>]]></summary>
         <author>
             <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリントシステムメンテナンスについて（2023/9/7）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16339</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/09/05/20230907_printsystem/"/>
-        <updated>2023-09-05T08:18:22.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 ２０２３年９月７日（木） １０：００ ～ １２：００　※作業時間中、接続 […]
-プリントシステムメンテナンスについて（2023/9/7） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
