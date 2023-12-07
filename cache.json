@@ -166,6 +166,176 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086278&hidden_return_link=true",
+          "author": null,
+          "description": "金城俊哉著. -- 第4版. -- 秀和システム, 2023.11. -- (Perfect master ; 192).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086278&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonプログラミングパーフェクトマスター",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086279&hidden_return_link=true",
+          "author": null,
+          "description": "日本熱処理技術協会編. -- 改訂第5版. -- 大河出版, 2023.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086279&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "熱処理ガイドブック",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086277&hidden_return_link=true",
+          "author": null,
+          "description": "野田尚昭 [ほか] 共著. -- コロナ社, 2023.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086277&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "異種接合材の設計のための破壊力学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086276&hidden_return_link=true",
+          "author": null,
+          "description": "奥山格著. -- 丸善出版, 2023.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086276&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "『有機化学改訂3版』問題の解き方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086267&hidden_return_link=true",
+          "author": null,
+          "description": "中原靖夫著. -- 第4版. -- オーム社, 2015.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086267&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "実用図解大工さしがね術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086258&hidden_return_link=true",
+          "author": null,
+          "description": "古川渉一, 荻原優衣著. -- インプレス, 2023.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086258&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ChatGPT API×Pythonで始める対話型AI実装入門 : GPT-3.5 & GPT-4対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086254&hidden_return_link=true",
+          "author": null,
+          "description": "石村園子, 畑宏明著. -- 改訂新版. -- 東京図書, 2023.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086254&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "すぐわかる線形代数",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086312&hidden_return_link=true",
+          "author": null,
+          "description": "保坂直紀著. -- 講談社, 2023.11. -- (ブルーバックス ; B-2245).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086312&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "地球規模の気象学 : 大気の大循環から理解する新しい気象学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086311&hidden_return_link=true",
+          "author": null,
+          "description": "横尾忠則著. -- 講談社, 2023.11. -- (講談社現代新書 ; 2728).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086311&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "老いと創造 : 朦朧 (モーロー) 人生相談",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086310&hidden_return_link=true",
+          "author": null,
+          "description": "千葉聡著. -- 講談社, 2023.11. -- (講談社現代新書 ; 2727).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086310&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ダーウィンの呪い",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086309&hidden_return_link=true",
+          "author": null,
+          "description": "吉村昭彦著. -- 講談社, 2023.11. -- (ブルーバックス ; B-2246).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086309&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "免疫「超」入門 : 「がん」「老化」「脳」のカギも握る、すごいシステム",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086308&hidden_return_link=true",
+          "author": null,
+          "description": "池上彰著. -- 講談社, 2023.11. -- (講談社現代新書 ; 2726).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086308&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "昭和の青春 : 日本を動かした世代の原動力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086307&hidden_return_link=true",
+          "author": null,
+          "description": "古市憲寿著. -- 講談社, 2023.11. -- (講談社現代新書 ; 2725).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086307&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "謎とき世界の宗教・神話",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086284&hidden_return_link=true",
+          "author": null,
+          "description": "第2版. -- サイエンス&テクノロジー, 2022.12.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086284&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "生体データ活用の最前線 : スマートセンシングによる生体情報計測とその応用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086283&hidden_return_link=true",
+          "author": null,
+          "description": "HIRO著. -- 技術評論社, 2023.11. -- (プログラミングの教科書).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086283&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "かんたんTypeScript : TypeScript 5.2.2対応版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086281&hidden_return_link=true",
+          "author": null,
+          "description": "下山輝昌, 黒木賢一, 宮澤慎太郎著. -- 秀和システム, 2023.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086281&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Python×APIで動かして学ぶAI活用プログラミング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086280&hidden_return_link=true",
+          "author": null,
+          "description": "永野護著. -- 朝倉書店, 2023.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086280&hidden_return_link=true",
+          "publishedOn": "2023-11-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonで学ぶファイナンス論×データサイエンス",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085271&hidden_return_link=true",
           "author": null,
           "description": "CGエンジニア検定問題集編集委員会監修. -- 改訂第3版. -- 画像情報教育振興協会, 2018.2.<図書>",
