@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-10T14:08:00.070Z</updated>
+    <updated>2023-12-10T15:08:29.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3287,17 +3287,6 @@ ScienceDirect/Scopus利用講習会（ウェビナー）のお知らせ first ap
 Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>NakamizoAkiho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16385</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/09/12/202309_graduation/"/>
-        <updated>2023-09-12T03:03:42.000Z</updated>
-        <summary type="html"><![CDATA[卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]
-卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
