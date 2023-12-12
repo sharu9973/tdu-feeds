@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-12T20:10:07.453Z</updated>
+    <updated>2023-12-12T21:08:27.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -3265,17 +3265,6 @@ IEEE 論文執筆・オープンアクセス シンポジウムのお知らせ f
 MATLAB＆Simulink紹介セミナー@zoomのお知らせ（９/27開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScienceDirect/Scopus利用講習会（ウェビナー）のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16412</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/09/14/20230920_sciencedirect-scopus/"/>
-        <updated>2023-09-14T08:48:19.000Z</updated>
-        <summary type="html"><![CDATA[本学が契約している電子ジャーナル・データベースのサービス、ScienceDirect、Scopusの紹介および基本操作解説の利用講習会（ウェビナー）がエルゼビア主催で開催されます。 この機会を利用して、それぞれの活用を広 […]
-ScienceDirect/Scopus利用講習会（ウェビナー）のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
