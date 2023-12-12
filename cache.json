@@ -4,18 +4,7 @@
       "title": "注意喚起情報 | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
-      "articles": [
-        {
-          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=17299",
-          "author": "NakamizoAkiho",
-          "description": "I. 概要 アドビからPDFファイル作成・変換ソフトウェアAdobe AcrobatおよびPDFファイル閲覧ソフトウェアAdobe Acrobat Readerにおける脆弱性に関する情報（APSB23-34）が公開されま […]\nAdobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起 first appeared on TDU-CSIRT.",
-          "link": "https://www.csirt.dendai.ac.jp/csirt/public/heads-up/adobe-apsb23-34/",
-          "publishedOn": "2023-09-14T06:07:32.000Z",
-          "wordCount": 1965,
-          "title": "Adobe AcrobatおよびReaderの脆弱性（APSB23-34）に関する注意喚起",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "お知らせ | TDU-CSIRT",
