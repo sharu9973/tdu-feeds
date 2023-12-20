@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-20T02:08:16.171Z</updated>
+    <updated>2023-12-20T03:08:13.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2846,56 +2846,6 @@ MATLAB＆Simlink　体験ワークショップ（鳩山・千住同時開催）�
 IEEE 論文執筆・オープンアクセス シンポジウムのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エキスパートPythonプログラミング]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085972&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085972&amp;hidden_return_link=true"/>
-        <updated>2023-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michał Jaworski, Tarek Ziadé著 ; 新井正貴 [ほか] 訳. -- 改訂4版. -- ドワンゴ.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GA houses : 世界の住宅]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085999&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085999&amp;hidden_return_link=true"/>
-        <updated>2023-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[189. -- エーディーエー・エディタ・トーキョー, 2023.7. -- 巻号等：189<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーナノコンポジットの開発と分析技術]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085998&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085998&amp;hidden_return_link=true"/>
-        <updated>2023-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[岡本正巳監修. -- 普及版. -- シーエムシー出版, 2023.8. -- (CMCテクニカルライブラリー ; 813 . 新材料・新素材シリーズ).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中空微粒子の合成と応用]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085997&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085997&amp;hidden_return_link=true"/>
-        <updated>2023-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[藤正督監修. -- 普及版. -- シーエムシー出版, 2023.8. -- (CMCテクニカルライブラリー ; 815 . 新材料・新素材シリーズ).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無機固体化学 : 量子論・電子論]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085980&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20085980&amp;hidden_return_link=true"/>
-        <updated>2023-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[吉村一良, 加藤将樹共著. -- 内田老鶴圃, 2023.8.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>

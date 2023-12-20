@@ -2853,56 +2853,6 @@
           "wordCount": 3,
           "title": "初めから学べると評判の大学基礎数学集合論キャンパス・ゼミ : 高校数学から大学数学へ!スムーズに実力UP!",
           "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085972&hidden_return_link=true",
-          "author": null,
-          "description": "Michał Jaworski, Tarek Ziadé著 ; 新井正貴 [ほか] 訳. -- 改訂4版. -- ドワンゴ.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085972&hidden_return_link=true",
-          "publishedOn": "2023-09-21T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "エキスパートPythonプログラミング",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085999&hidden_return_link=true",
-          "author": null,
-          "description": "189. -- エーディーエー・エディタ・トーキョー, 2023.7. -- 巻号等：189<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085999&hidden_return_link=true",
-          "publishedOn": "2023-09-21T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "GA houses : 世界の住宅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085998&hidden_return_link=true",
-          "author": null,
-          "description": "岡本正巳監修. -- 普及版. -- シーエムシー出版, 2023.8. -- (CMCテクニカルライブラリー ; 813 . 新材料・新素材シリーズ).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085998&hidden_return_link=true",
-          "publishedOn": "2023-09-21T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "ポリマーナノコンポジットの開発と分析技術",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085997&hidden_return_link=true",
-          "author": null,
-          "description": "藤正督監修. -- 普及版. -- シーエムシー出版, 2023.8. -- (CMCテクニカルライブラリー ; 815 . 新材料・新素材シリーズ).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085997&hidden_return_link=true",
-          "publishedOn": "2023-09-21T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "中空微粒子の合成と応用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085980&hidden_return_link=true",
-          "author": null,
-          "description": "吉村一良, 加藤将樹共著. -- 内田老鶴圃, 2023.8.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20085980&hidden_return_link=true",
-          "publishedOn": "2023-09-21T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "無機固体化学 : 量子論・電子論",
-          "imageUrl": null
         }
       ]
     }
