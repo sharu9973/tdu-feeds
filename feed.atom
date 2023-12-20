@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-20T20:09:55.020Z</updated>
+    <updated>2023-12-20T21:08:21.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2835,17 +2835,6 @@ MATLAB×機械学習　機械学習入門ワークショップ　開催のお知
 MATLAB＆Simlink　体験ワークショップ（鳩山・千住同時開催）のお知らせ（10/11） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE 論文執筆・オープンアクセス シンポジウムのお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16468</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/09/22/20231002_ieee-openaccess-symposium/"/>
-        <updated>2023-09-22T08:30:51.000Z</updated>
-        <summary type="html"><![CDATA[本学が契約している電子ジャーナルのサービス『IEEE Xplore』のIEEEおよび丸善雄松堂共催によるシンポジウムが、東京工業大学 蔵前会館にて開催されます。 論文執筆・オープンアクセスシンポジウム：IEEE編集者に […]
-IEEE 論文執筆・オープンアクセス シンポジウムのお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
