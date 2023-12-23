@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-23T20:08:48.380Z</updated>
+    <updated>2023-12-23T21:07:46.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2934,17 +2934,6 @@ MATLAB×機械学習　機械学習入門ワークショップ　開催のお知
 ネットワークメンテナンス作業のお知らせ（9/30） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB＆Simlink　体験ワークショップ（鳩山・千住同時開催）のお知らせ（10/11）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16399</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/09/25/20231011_matlab_ws/"/>
-        <updated>2023-09-25T08:43:53.000Z</updated>
-        <summary type="html"><![CDATA[MATLAB & Simulink は世界中の教育機関、産業界や研究所等で幅広く利用されている科学技術計算、シミュレーションおよび実装用ソフトウェアです。 MATLAB & Simulink をこれから使 […]
-MATLAB＆Simlink　体験ワークショップ（鳩山・千住同時開催）のお知らせ（10/11） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
