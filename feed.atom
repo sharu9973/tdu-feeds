@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2023-12-26T08:11:49.255Z</updated>
+    <updated>2023-12-26T09:09:07.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MATLAB＆Simulink　認証変更について（2023/12/27深夜切替）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17095</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/12/26/20231227_matlab/"/>
+        <updated>2023-12-26T08:36:28.000Z</updated>
+        <summary type="html"><![CDATA[MATLAB＆Simulinkを提供しているMathWorksより、Mathworksアカウントの認証変更のお知らせがありました。 以下の日程で、MATLAB＆Simulink、Mathwoksアカウントの認証方式が学認 […]
+MATLAB＆Simulink　認証変更について（2023/12/27深夜切替） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「論文オープンアクセス講習会」のアーカイブ公開について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17062</id>
