@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-03T02:21:19.136Z</updated>
+    <updated>2024-01-03T03:10:17.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -2384,126 +2384,6 @@ MATLAB×機械学習　機械学習入門ワークショップ　開催のお知
 ネットワークメンテナンス作業のお知らせ（10/9） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ルールズ・オブ・プログラミング : より良いコードを書くための21のルール]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086045&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086045&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris Zimmerman著 ; 久富木隆一訳. -- オライリー・ジャパン.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロダクトマネージャーのしごと : 1日目から使える実践ガイド]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086033&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086033&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Matt LeMay著 ; 永瀬美穂 [ほか] 訳. -- 第2版. -- オライリー・ジャパン.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンプレート式理系の英語論文術 : 国際ジャーナルに学ぶ伝わる論文の書き方]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086164&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086164&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中山裕木子著. -- 講談社, 2023.9. -- (ブルーバックス ; B-2240).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の歪み]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086163&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086163&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[養老孟司, 茂木健一郎, 東浩紀著. -- 講談社, 2023.9. -- (講談社現代新書 ; 2719).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic and cohomological aspects : Alexandre Vinogradov Memorial Conference, Diffieties, Cohomological Physics, and Other Animals, December 13-17, 2021, Independent Un[i]versity of Moscow and Moscow State University, Moscow, Russia]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086162&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086162&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I.S. Krasilʹshchik, A.B. Sossinsky, A.M. Verbovetsky, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 789 . The diverse world of PDEs). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思考の方法学]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086165&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086165&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[栗田治著. -- 講談社, 2023.9. -- (講談社現代新書 ; 2720).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic combinatorics and the monster group]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086161&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086161&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[edited by Alexander A. Ivanov ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 487). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geometry and mathematical physics : Alexandre Vinogradov Memorial Conference, Diffieties, Cohomological Physics, and Other Animals, December 13-17, 2021, Independent Un[i]versity of Moscow and Moscow State University, Moscow, Russia]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086160&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086160&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I.S. Krasil'shchik, A.B. Sossinsky, A.M. Verbovetsky, editors ; : pbk. -- American Mathematical Society, c2023. -- (Contemporary mathematics ; 788 . The diverse world of PDEs). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern trends in algebra and representation theory]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086159&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086159&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[edited by David Jordan, Nadia Mazza, Sibylle Schroll ; : pbk. -- Cambridge University Press, 2023. -- (London Mathematical Society lecture note series ; 486). -- 巻号等：: pbk<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大量絶滅はなぜ起きるのか : 生命を脅かす地球の異変]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086168&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086168&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[尾上哲治著. -- 講談社, 2023.9. -- (ブルーバックス ; B-2241).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大人のための生物学の教科書 : 最新の知識を本質的に理解する]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086167&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086167&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[石川香, 岩瀬哲, 相馬融著. -- 講談社, 2023.9. -- (ブルーバックス ; B-2239).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紫式部と藤原道長]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086166&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086166&amp;hidden_return_link=true"/>
-        <updated>2023-10-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[倉本一宏著. -- 講談社, 2023.9. -- (講談社現代新書 ; 2721).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
 </feed>
