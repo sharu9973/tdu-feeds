@@ -95,113 +95,33 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086290&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086306&hidden_return_link=true",
           "author": null,
-          "description": "山崎弘郎著. -- 第3版. -- 日刊工業新聞社, 2023.10. -- (B&Tブックス . 今日からモノ知りシリーズ).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086290&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
+          "description": "新谷卓, 中島浩貴, 鈴木健雄編著. -- 彩流社, 2021.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086306&hidden_return_link=true",
+          "publishedOn": "2024-01-08T15:00:00.000Z",
           "wordCount": 3,
-          "title": "トコトンやさしいセンサの本",
+          "title": "歴史のなかのラディカリズム",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086295&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086342&hidden_return_link=true",
           "author": null,
-          "description": "東京医療保健大学医療保健学部医療情報学科編集. -- 日本医学出版, 2023.11.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086295&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
+          "description": "総務省統計局編 ; 第73回(令和6年). -- 日本統計協会, 2023.11. -- 巻号等：第73回(令和6年)<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086342&hidden_return_link=true",
+          "publishedOn": "2024-01-08T15:00:00.000Z",
           "wordCount": 3,
-          "title": "デジタルヘルスプロフェッショナル概論 : 医療におけるデジタル人材のあり方と育成",
+          "title": "日本統計年鑑 = Japan statistical yearbook",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086300&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086343&hidden_return_link=true",
           "author": null,
-          "description": "棟方裕一著. -- 科学情報出版, 2023.10. -- (エンジニア入門シリーズ).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086300&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
+          "description": "朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2023.11. -- 巻号等：2025<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086343&hidden_return_link=true",
+          "publishedOn": "2024-01-08T15:00:00.000Z",
           "wordCount": 3,
-          "title": "はじめて学ぶリチウムイオン電池設計の入門書",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086303&hidden_return_link=true",
-          "author": null,
-          "description": "吉田修一著 ; 上. -- 毎日新聞出版, 2023.5. -- 巻号等：上<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086303&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "永遠と横道世之介",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086304&hidden_return_link=true",
-          "author": null,
-          "description": "吉田修一著 ; 下. -- 毎日新聞出版, 2023.5. -- 巻号等：下<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086304&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "永遠と横道世之介",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086305&hidden_return_link=true",
-          "author": null,
-          "description": "三宅敏恒著. -- 培風館, 2023.1.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086305&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "線形代数概論 = Linear algebra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086315&hidden_return_link=true",
-          "author": null,
-          "description": "Florent Houdellier ; edited by Martin Hÿtch, Peter W. Hawkes. -- Academic Press, c2023. -- (Advances in imaging and electron physics ; v. 227).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086315&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Coherent electron microscopy : designing faster and brighter electron sources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086316&hidden_return_link=true",
-          "author": null,
-          "description": "edited by Martin Hÿtch, Peter W. Hawkes ; v. 228. -- Academic Press, an imprint of Elsevier, c2023. -- 巻号等：v. 228<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086316&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Advances in imaging and electron physics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086317&hidden_return_link=true",
-          "author": null,
-          "description": "東洋経済新報社編 ; 2025-2026年版. -- 東洋経済新報社, 2023.12. -- 巻号等：2025-2026年版<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086317&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "就職四季報 : 働きやすさ女性活躍版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086318&hidden_return_link=true",
-          "author": null,
-          "description": "東洋経済新報社編 ; 2025-2026年版. -- 東洋経済新報社, 2023.12. -- 巻号等：2025-2026年版<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086318&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "就職四季報総合版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086319&hidden_return_link=true",
-          "author": null,
-          "description": "隈研吾著. -- 岩波書店, 2023.11. -- (岩波新書 ; 新赤版 1995).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086319&hidden_return_link=true",
-          "publishedOn": "2023-12-14T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "日本の建築",
+          "title": "朝日キーワード就職 : 最新時事用語&一般常識",
           "imageUrl": null
         }
       ]
