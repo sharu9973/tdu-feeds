@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-15T14:09:17.067Z</updated>
+    <updated>2024-01-15T15:09:57.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -100,17 +100,6 @@ MATLAB＆Simulink　認証変更について（2023/12/27深夜切替） first a
 MATLAB×機械学習　機械学習入門ワークショップ　開催のお知らせ（10/25開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【緊急】WebClassシステムメンテナンス（10/18）のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16732</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/10/18/webclassmaintenance/"/>
-        <updated>2023-10-18T02:43:44.000Z</updated>
-        <summary type="html"><![CDATA[緊急メンテナンス作業のため、以下の期間WebClass及び電子ポートフォリオシステムのサービスが停止いたします。 ご迷惑をお掛けいたしますが、ご理解ご協力のほどよろしくお願いいたします。 【日付】: 2023年10月18 […]
-【緊急】WebClassシステムメンテナンス（10/18）のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>kfujita</name>
         </author>
     </entry>
 </feed>
