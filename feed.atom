@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-17T00:44:36.052Z</updated>
+    <updated>2024-01-17T01:53:26.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -89,17 +89,6 @@ MATLAB＆Simulink　認証変更について（2023/12/27深夜切替） first a
 手軽にUnity！深く楽しむゲーム作成体験！：ワークショップ開催のお知らせ（11/6開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB×機械学習　機械学習入門ワークショップ　開催のお知らせ（10/25開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=16753</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/10/19/20231025_matlab_workshop/"/>
-        <updated>2023-10-19T13:25:51.000Z</updated>
-        <summary type="html"><![CDATA[MATLAB×機械学習　機械学習入門ワークショップ～MATLABを用いた分類問題の機械学習手法の基礎について～を開催いたします。 人工知能に欠かすことの出来ない機械学習手法を基礎から学び、また実際にオンライン教材を用いて […]
-MATLAB×機械学習　機械学習入門ワークショップ　開催のお知らせ（10/25開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
