@@ -2,16 +2,276 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-18T13:12:51.386Z</updated>
+    <updated>2024-01-18T14:09:07.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[歴史のなかのラディカリズム]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true"/>
-        <updated>2024-01-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新谷卓, 中島浩貴, 鈴木健雄編著. -- 彩流社, 2021.6.<図書>]]></summary>
+        <title type="html"><![CDATA[耳は悩んでいる]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小島博己編. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 2000).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文化財の未来図 : 〈ものつくり文化〉をつなぐ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086361&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086361&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[村上隆著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1998).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豆腐の文化史]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086362&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086362&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[原田信男著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1999).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドキュメント異次元緩和 : 10年間の全記録]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[西野智彦著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1997).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commutative algebra : 150 years with Roger and Sylvia Wiegand : combined proceedings: Second International Meeting, Commutative Algebra and Related Areas (SIMCARA), July 22-26, 2019, Universidade de São Paulo, São Carlos, Brazil, AMS Special Session, Commutative Algebra: in Celebration of the 150th Birthday of Roger and Sylvia Wiegand, September 14-15, 2019, University of Wisconsin-Madison, Wisconsin]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084486&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084486&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nicholas R. Baeth ... [et al.], editors ; : pbk. -- American Mathematical Society, c2021. -- (Contemporary mathematics ; 773). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mexican mathematicians in the world : trends and recent contributions : IV Meeting, Reunión de Matemáticos Mexicanos en el Mundo, June 10-15, 2018, Casa Matemática Oaxaca, Oaxaca, Mexico]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084513&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084513&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fernando Galaz-García, Cecilia González-Tokman, Juan Carlos Pardo Millán, editors ; : pbk. -- American Mathematical Society, c2021. -- (Contemporary mathematics ; 775)(Aportaciones matemáticas). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stochastic processes and functional analysis : new perspectives : AMS special session, celebrating M.M. Rao's many mathematical contributions as he turns 90 years old, November 9-10, 2019, University of California, Riverside, California]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084514&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084514&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Randall J. Swift ... [et al.], editors ; : pbk. -- American Mathematical Society, c2021. -- (Contemporary mathematics ; 774). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automorphisms of Riemann surfaces, subgroups of mapping class groups and related topics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084825&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084825&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aaron Wootton, S. Allen Broughton, Jennifer Paulhus, editors ; : pbk. -- American Mathematical Society, c2022. -- (Contemporary mathematics ; 776). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キクタンTOEIC L&Rテストscore 600]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086322&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086322&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一杉武史編著. -- アルク, 2020.3.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無線工学の基礎]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086323&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086323&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[吉川忠久著. -- 第3版. -- 東京電機大学出版局, 2023.12. -- (1・2陸技受験教室 ; 1).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Routledge handbook of queer rhetoric]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086326&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086326&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Jacqueline Rhodes and Jonathan Alexander ; : hbk. -- Routledge, 2022. -- (Routledge handbooks). -- 巻号等：: hbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2D excitonic materials and devices]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086344&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086344&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by Parag B. Deotare, Zetian Mi. -- Academic Press, 2023. -- (Semiconductors and semimetals ; v. 112).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coherent sheaves, superconnections, and Riemann-Roch-Grothendieck]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086345&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086345&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Michel Bismut, Shu Shen, Zhaoting Wei. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 347).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「がん」はどうやって治すのか : 科学に基づく「最良の治療」を知る]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086347&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086347&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国立がん研究センター編. -- 講談社, 2023.12. -- (ブルーバックス ; B-2247).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「私」を取り戻す哲学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086348&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086348&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岩内章太郎著. -- 講談社, 2023.12. -- (講談社現代新書 ; 2730).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疲労とはなにか : すべてはウイルスが知っていた]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086349&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086349&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近藤一博著. -- 講談社, 2023.12. -- (ブルーバックス ; B-2248).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顔に取り憑かれた脳]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086350&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086350&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中野珠実著. -- 講談社, 2023.12. -- (講談社現代新書 ; 2731).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古代アメリカ文明 : マヤ・アステカ・ナスカ・インカの実像]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086351&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086351&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[青山和夫編 ; 井上幸孝, 坂井正人, 大平秀一著. -- 講談社, 2023.12. -- (講談社現代新書 ; 2729).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会社四季報]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086352&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086352&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年1集:新春号. -- 東洋経済新報社, 2024.1. -- 巻号等：2024年1集:新春号<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古代日本の超技術 : あっと驚く「古の匠」の智慧]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086353&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086353&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[志村史夫著. -- 新装改訂版. -- 講談社, 2023.12. -- (ブルーバックス ; B-2249).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古代世界の超技術 : あっと驚く「巨石文明」の智慧]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086354&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086354&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[志村史夫著. -- 改訂新版. -- 講談社, 2023.12. -- (ブルーバックス ; B-2250).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrafilters throughout mathematics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086355&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086355&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Isaac Goldbring ; : hardback. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 220). -- 巻号等：: hardback<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hopf algebras and Galois module theory]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086356&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086356&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lindsay N. Childs ... [et al.] ; : pbk. -- American Mathematical Society, c2021. -- (Mathematical surveys and monographs ; v. 260). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral domains inside Noetherian power series rings : constructions and examples]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086357&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086357&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[William Heinzer, Christel Rotthaus, Sylvia Wiegand ; : pbk. -- American Mathematical Society, c2021. -- (Mathematical surveys and monographs ; v. 259). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perverse sheaves and applications to representation theory]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086358&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086358&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pramod N. Achar ; : pbk. -- American Mathematical Society, c2021. -- (Mathematical surveys and monographs ; v. 258). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essentials of tropical combinatorics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086359&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086359&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Joswig ; : pbk.. -- American Mathematical Society, c2021. -- (Graduate studies in mathematics ; v. 219). -- 巻号等：: pbk.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General theory]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086360&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086360&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[David Damanik, Jake Fillman ; : hardcover. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 221 . One-dimensional ergodic Schrödinger operators ; 1). -- 巻号等：: hardcover<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
@@ -32,6 +292,16 @@
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086343&amp;hidden_return_link=true"/>
         <updated>2024-01-08T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2023.11. -- 巻号等：2025<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歴史のなかのラディカリズム]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true"/>
+        <updated>2024-01-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新谷卓, 中島浩貴, 鈴木健雄編著. -- 彩流社, 2021.6.<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
