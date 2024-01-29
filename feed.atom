@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-29T06:12:21.976Z</updated>
+    <updated>2024-01-29T07:09:08.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17180</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/gmailguideline/"/>
+        <updated>2024-01-29T06:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Google社よりGmailのメール送信者ガイドラインが変更され、Gmailの利用者が安全にメールを受け取れるようにするため、 2024年2月以降、「Gmailアカウントへ送信／転送されたメール」に対する迷惑メールの確認 […]
+Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>kfujita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algebraic geometry : notes on a course]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086392&amp;hidden_return_link=true</id>

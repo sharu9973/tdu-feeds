@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17180",
+          "author": "kfujita",
+          "description": "Google社よりGmailのメール送信者ガイドラインが変更され、Gmailの利用者が安全にメールを受け取れるようにするため、 2024年2月以降、「Gmailアカウントへ送信／転送されたメール」に対する迷惑メールの確認 […]\nGmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/gmailguideline/",
+          "publishedOn": "2024-01-29T06:17:20.000Z",
+          "wordCount": 2148,
+          "title": "Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17095",
           "author": "yatsuko",
           "description": "MATLAB＆Simulinkを提供しているMathWorksより、Mathworksアカウントの認証変更のお知らせがありました。 以下の日程で、MATLAB＆Simulink、Mathwoksアカウントの認証方式が学認 […]\nMATLAB＆Simulink　認証変更について（2023/12/27深夜切替） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2023/12/26/20231227_matlab/",
           "publishedOn": "2023-12-26T08:36:28.000Z",
-          "wordCount": 2297,
+          "wordCount": 2305,
           "title": "MATLAB＆Simulink　認証変更について（2023/12/27深夜切替）",
           "imageUrl": null
         },
