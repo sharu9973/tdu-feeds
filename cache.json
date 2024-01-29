@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17174",
+          "author": "katsumi",
+          "description": "マイクロソフト社の方針変更に伴い、2024年2月1日より本学のMicrosoftアカウントで利用できるOneDriveの最大保存容量が【1TB】から【100GB】に変更されます。 OneDriveは、この容量を超えると新 […]\nMicrosoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/20240201_microsoft365_onedrive/",
+          "publishedOn": "2024-01-29T08:36:38.000Z",
+          "wordCount": 2221,
+          "title": "Microsoft 365 – OneDrive上限容量変更について",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17180",
           "author": "kfujita",
           "description": "Google社よりGmailのメール送信者ガイドラインが変更され、Gmailの利用者が安全にメールを受け取れるようにするため、 2024年2月以降、「Gmailアカウントへ送信／転送されたメール」に対する迷惑メールの確認 […]\nGmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/gmailguideline/",
           "publishedOn": "2024-01-29T06:17:20.000Z",
-          "wordCount": 2148,
+          "wordCount": 2159,
           "title": "Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）",
           "imageUrl": null
         },

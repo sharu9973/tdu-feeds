@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-01-29T08:11:50.504Z</updated>
+    <updated>2024-01-29T09:09:50.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 – OneDrive上限容量変更について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17174</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/20240201_microsoft365_onedrive/"/>
+        <updated>2024-01-29T08:36:38.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフト社の方針変更に伴い、2024年2月1日より本学のMicrosoftアカウントで利用できるOneDriveの最大保存容量が【1TB】から【100GB】に変更されます。 OneDriveは、この容量を超えると新 […]
+Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17180</id>
