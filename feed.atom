@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-02-09T13:09:24.437Z</updated>
+    <updated>2024-02-09T14:08:16.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -26,36 +26,6 @@ Microsoft 365 – OneDrive上限容量変更について first appeared on 総�
 Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>kfujita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algebraic geometry : notes on a course]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086392&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086392&amp;hidden_return_link=true"/>
-        <updated>2024-01-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michael Artin ; :pbk.. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 222). -- 巻号等：:pbk.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linear algebra in action]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086390&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086390&amp;hidden_return_link=true"/>
-        <updated>2024-01-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Harry Dym ; : hardcover. -- 3rd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 232). -- 巻号等：: hardcover<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to smooth ergodic theory]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086391&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086391&amp;hidden_return_link=true"/>
-        <updated>2024-01-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luís Barreira, Yakov Pesin ; : hardcover. -- 2nd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 231). -- 巻号等：: hardcover<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
     <entry>
@@ -289,21 +259,31 @@ Gmailのメール送信者ガイドラインの変更に伴う対応について
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[耳は悩んでいる]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true"/>
-        <updated>2024-01-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小島博己編. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 2000).<図書>]]></summary>
+        <title type="html"><![CDATA[Linear algebra in action]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086390&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086390&amp;hidden_return_link=true"/>
+        <updated>2024-01-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Harry Dym ; : hardcover. -- 3rd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 232). -- 巻号等：: hardcover<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ドキュメント異次元緩和 : 10年間の全記録]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true"/>
-        <updated>2024-01-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[西野智彦著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1997).<図書>]]></summary>
+        <title type="html"><![CDATA[Introduction to smooth ergodic theory]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086391&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086391&amp;hidden_return_link=true"/>
+        <updated>2024-01-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luís Barreira, Yakov Pesin ; : hardcover. -- 2nd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 231). -- 巻号等：: hardcover<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebraic geometry : notes on a course]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086392&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086392&amp;hidden_return_link=true"/>
+        <updated>2024-01-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Michael Artin ; :pbk.. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 222). -- 巻号等：:pbk.<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
@@ -314,6 +294,16 @@ Gmailのメール送信者ガイドラインの変更に伴う対応について
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20084486&amp;hidden_return_link=true"/>
         <updated>2024-01-11T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nicholas R. Baeth ... [et al.], editors ; : pbk. -- American Mathematical Society, c2021. -- (Contemporary mathematics ; 773). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耳は悩んでいる]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086364&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小島博己編. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 2000).<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
@@ -559,31 +549,11 @@ Gmailのメール送信者ガイドラインの変更に伴う対応について
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[歴史のなかのラディカリズム]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086306&amp;hidden_return_link=true"/>
-        <updated>2024-01-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新谷卓, 中島浩貴, 鈴木健雄編著. -- 彩流社, 2021.6.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝日キーワード就職 : 最新時事用語&一般常識]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086343&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086343&amp;hidden_return_link=true"/>
-        <updated>2024-01-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2023.11. -- 巻号等：2025<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本統計年鑑 = Japan statistical yearbook]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086342&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086342&amp;hidden_return_link=true"/>
-        <updated>2024-01-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[総務省統計局編 ; 第73回(令和6年). -- 日本統計協会, 2023.11. -- 巻号等：第73回(令和6年)<図書>]]></summary>
+        <title type="html"><![CDATA[ドキュメント異次元緩和 : 10年間の全記録]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086363&amp;hidden_return_link=true"/>
+        <updated>2024-01-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[西野智彦著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1997).<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>

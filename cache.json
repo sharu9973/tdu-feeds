@@ -75,36 +75,6 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086392&hidden_return_link=true",
-          "author": null,
-          "description": "Michael Artin ; :pbk.. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 222). -- 巻号等：:pbk.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086392&hidden_return_link=true",
-          "publishedOn": "2024-01-18T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Algebraic geometry : notes on a course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086390&hidden_return_link=true",
-          "author": null,
-          "description": "Harry Dym ; : hardcover. -- 3rd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 232). -- 巻号等：: hardcover<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086390&hidden_return_link=true",
-          "publishedOn": "2024-01-18T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Linear algebra in action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086391&hidden_return_link=true",
-          "author": null,
-          "description": "Luís Barreira, Yakov Pesin ; : hardcover. -- 2nd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 231). -- 巻号等：: hardcover<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086391&hidden_return_link=true",
-          "publishedOn": "2024-01-18T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Introduction to smooth ergodic theory",
-          "imageUrl": null
-        },
-        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20083344&hidden_return_link=true",
           "author": null,
           "description": "松井剛一編著 ; 照井直人 [ほか] 共著. -- コロナ社, 2020.5.<図書>",
@@ -335,23 +305,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086364&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086390&hidden_return_link=true",
           "author": null,
-          "description": "小島博己編. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 2000).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086364&hidden_return_link=true",
-          "publishedOn": "2024-01-11T15:00:00.000Z",
+          "description": "Harry Dym ; : hardcover. -- 3rd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 232). -- 巻号等：: hardcover<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086390&hidden_return_link=true",
+          "publishedOn": "2024-01-18T15:00:00.000Z",
           "wordCount": 3,
-          "title": "耳は悩んでいる",
+          "title": "Linear algebra in action",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086363&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086391&hidden_return_link=true",
           "author": null,
-          "description": "西野智彦著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1997).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086363&hidden_return_link=true",
-          "publishedOn": "2024-01-11T15:00:00.000Z",
+          "description": "Luís Barreira, Yakov Pesin ; : hardcover. -- 2nd ed. -- American Mathematical Society, c2023. -- (Graduate studies in mathematics ; 231). -- 巻号等：: hardcover<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086391&hidden_return_link=true",
+          "publishedOn": "2024-01-18T15:00:00.000Z",
           "wordCount": 3,
-          "title": "ドキュメント異次元緩和 : 10年間の全記録",
+          "title": "Introduction to smooth ergodic theory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086392&hidden_return_link=true",
+          "author": null,
+          "description": "Michael Artin ; :pbk.. -- American Mathematical Society, c2022. -- (Graduate studies in mathematics ; 222). -- 巻号等：:pbk.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086392&hidden_return_link=true",
+          "publishedOn": "2024-01-18T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Algebraic geometry : notes on a course",
           "imageUrl": null
         },
         {
@@ -362,6 +342,16 @@
           "publishedOn": "2024-01-11T15:00:00.000Z",
           "wordCount": 3,
           "title": "Commutative algebra : 150 years with Roger and Sylvia Wiegand : combined proceedings: Second International Meeting, Commutative Algebra and Related Areas (SIMCARA), July 22-26, 2019, Universidade de São Paulo, São Carlos, Brazil, AMS Special Session, Commutative Algebra: in Celebration of the 150th Birthday of Roger and Sylvia Wiegand, September 14-15, 2019, University of Wisconsin-Madison, Wisconsin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086364&hidden_return_link=true",
+          "author": null,
+          "description": "小島博己編. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 2000).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086364&hidden_return_link=true",
+          "publishedOn": "2024-01-11T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "耳は悩んでいる",
           "imageUrl": null
         },
         {
@@ -605,33 +595,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086306&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086363&hidden_return_link=true",
           "author": null,
-          "description": "新谷卓, 中島浩貴, 鈴木健雄編著. -- 彩流社, 2021.6.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086306&hidden_return_link=true",
-          "publishedOn": "2024-01-08T15:00:00.000Z",
+          "description": "西野智彦著. -- 岩波書店, 2023.12. -- (岩波新書 ; 新赤版 1997).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086363&hidden_return_link=true",
+          "publishedOn": "2024-01-11T15:00:00.000Z",
           "wordCount": 3,
-          "title": "歴史のなかのラディカリズム",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086343&hidden_return_link=true",
-          "author": null,
-          "description": "朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2023.11. -- 巻号等：2025<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086343&hidden_return_link=true",
-          "publishedOn": "2024-01-08T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "朝日キーワード就職 : 最新時事用語&一般常識",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086342&hidden_return_link=true",
-          "author": null,
-          "description": "総務省統計局編 ; 第73回(令和6年). -- 日本統計協会, 2023.11. -- 巻号等：第73回(令和6年)<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086342&hidden_return_link=true",
-          "publishedOn": "2024-01-08T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "日本統計年鑑 = Japan statistical yearbook",
+          "title": "ドキュメント異次元緩和 : 10年間の全記録",
           "imageUrl": null
         }
       ]
