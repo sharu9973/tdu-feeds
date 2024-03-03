@@ -75,33 +75,33 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086368&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086430&hidden_return_link=true",
           "author": null,
-          "description": "齋藤孝, 安住紳一郎著. -- ダイヤモンド社, 2020.2.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086368&hidden_return_link=true",
-          "publishedOn": "2024-02-15T15:00:00.000Z",
+          "description": "Peter G. Dodds, Ben de Pagter, Fedor A. Sukochev. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 349).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086430&hidden_return_link=true",
+          "publishedOn": "2024-02-25T15:00:00.000Z",
           "wordCount": 3,
-          "title": "話すチカラ",
+          "title": "Noncommutative integration and operator theory",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086369&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086431&hidden_return_link=true",
           "author": null,
-          "description": "荻野弘之著 ; かおり&ゆかり漫画. -- ダイヤモンド社, 2019.9.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086369&hidden_return_link=true",
-          "publishedOn": "2024-02-15T15:00:00.000Z",
+          "description": "Kelli Francis-Staite, Dominic Joyce ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 490). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086431&hidden_return_link=true",
+          "publishedOn": "2024-02-25T15:00:00.000Z",
           "wordCount": 3,
-          "title": "奴隷の哲学者エピクテトス人生の授業 : この生きづらい世の中で「よく生きる」ために",
+          "title": "C[∞]-algebraic geometry with corners",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086370&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086432&hidden_return_link=true",
           "author": null,
-          "description": "カリマリカ著. -- 翔泳社, 2022.7. -- (ILLUSTRATION MASTER CLASS).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086370&hidden_return_link=true",
-          "publishedOn": "2024-02-15T15:00:00.000Z",
+          "description": "朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2024.1. -- 巻号等：2025<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086432&hidden_return_link=true",
+          "publishedOn": "2024-02-25T15:00:00.000Z",
           "wordCount": 3,
-          "title": "ポーズと表情の演出テクニック : キャラクターイラストの引き出しを増やす",
+          "title": "朝日キーワード = Asahi keywords",
           "imageUrl": null
         },
         {
@@ -165,13 +165,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086417&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086368&hidden_return_link=true",
           "author": null,
-          "description": "きたやまおさむ著. -- 岩波書店, 2024.1. -- (岩波新書 ; 新赤版 2002).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086417&hidden_return_link=true",
+          "description": "齋藤孝, 安住紳一郎著. -- ダイヤモンド社, 2020.2.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086368&hidden_return_link=true",
           "publishedOn": "2024-02-15T15:00:00.000Z",
           "wordCount": 3,
-          "title": "「むなしさ」の味わい方",
+          "title": "話すチカラ",
           "imageUrl": null
         },
         {
@@ -225,33 +225,43 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086405&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086417&hidden_return_link=true",
           "author": null,
-          "description": "佐藤光展著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2732).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086405&hidden_return_link=true",
-          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "description": "きたやまおさむ著. -- 岩波書店, 2024.1. -- (岩波新書 ; 新赤版 2002).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086417&hidden_return_link=true",
+          "publishedOn": "2024-02-15T15:00:00.000Z",
           "wordCount": 3,
-          "title": "心の病気はどう治す?",
+          "title": "「むなしさ」の味わい方",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086406&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086369&hidden_return_link=true",
           "author": null,
-          "description": "藤田正勝著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2733).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086406&hidden_return_link=true",
-          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "description": "荻野弘之著 ; かおり&ゆかり漫画. -- ダイヤモンド社, 2019.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086369&hidden_return_link=true",
+          "publishedOn": "2024-02-15T15:00:00.000Z",
           "wordCount": 3,
-          "title": "日本哲学入門",
+          "title": "奴隷の哲学者エピクテトス人生の授業 : この生きづらい世の中で「よく生きる」ために",
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086407&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086370&hidden_return_link=true",
           "author": null,
-          "description": "月村勝宏著. -- 講談社, 2024.1. -- (ブルーバックス ; B-2251).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086407&hidden_return_link=true",
+          "description": "カリマリカ著. -- 翔泳社, 2022.7. -- (ILLUSTRATION MASTER CLASS).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086370&hidden_return_link=true",
+          "publishedOn": "2024-02-15T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ポーズと表情の演出テクニック : キャラクターイラストの引き出しを増やす",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086408&hidden_return_link=true",
+          "author": null,
+          "description": "ブルーバックス探検隊著 ; 産業技術総合研究所協力. -- 講談社, 2024.1. -- (ブルーバックス ; B-2252).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086408&hidden_return_link=true",
           "publishedOn": "2024-02-08T15:00:00.000Z",
           "wordCount": 3,
-          "title": "地球46億年物質大循環 : 地球は巨大な熱機関である",
+          "title": "あっぱれ!日本の新発明 : 世界を変えるイノベーション",
           "imageUrl": null
         },
         {
@@ -265,16 +275,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086409&hidden_return_link=true",
-          "author": null,
-          "description": "森村進著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2735).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086409&hidden_return_link=true",
-          "publishedOn": "2024-02-08T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "正義とは何か",
-          "imageUrl": null
-        },
-        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086410&hidden_return_link=true",
           "author": null,
           "description": "Riccardo Benedetti ; : hardcover. -- American Mathematical Society, c2021. -- (Graduate studies in mathematics ; 218). -- 巻号等：: hardcover<図書>",
@@ -285,13 +285,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086408&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086409&hidden_return_link=true",
           "author": null,
-          "description": "ブルーバックス探検隊著 ; 産業技術総合研究所協力. -- 講談社, 2024.1. -- (ブルーバックス ; B-2252).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086408&hidden_return_link=true",
+          "description": "森村進著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2735).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086409&hidden_return_link=true",
           "publishedOn": "2024-02-08T15:00:00.000Z",
           "wordCount": 3,
-          "title": "あっぱれ!日本の新発明 : 世界を変えるイノベーション",
+          "title": "正義とは何か",
           "imageUrl": null
         },
         {
@@ -432,6 +432,36 @@
           "publishedOn": "2024-02-08T15:00:00.000Z",
           "wordCount": 3,
           "title": "世界は経営でできている",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086405&hidden_return_link=true",
+          "author": null,
+          "description": "佐藤光展著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2732).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086405&hidden_return_link=true",
+          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "心の病気はどう治す?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086406&hidden_return_link=true",
+          "author": null,
+          "description": "藤田正勝著. -- 講談社, 2024.1. -- (講談社現代新書 ; 2733).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086406&hidden_return_link=true",
+          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "日本哲学入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086407&hidden_return_link=true",
+          "author": null,
+          "description": "月村勝宏著. -- 講談社, 2024.1. -- (ブルーバックス ; B-2251).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086407&hidden_return_link=true",
+          "publishedOn": "2024-02-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "地球46億年物質大循環 : 地球は巨大な熱機関である",
           "imageUrl": null
         }
       ]
