@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-03-08T04:11:27.568Z</updated>
+    <updated>2024-03-08T05:10:10.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17266</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/03/08/202403_graduation/"/>
+        <updated>2024-03-08T04:28:03.000Z</updated>
+        <summary type="html"><![CDATA[卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]
+卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noncommutative integration and operator theory]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086430&amp;hidden_return_link=true</id>
