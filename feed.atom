@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-03-11T08:12:35.252Z</updated>
+    <updated>2024-03-11T09:10:48.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2024/3/18）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17320</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/03/11/20240318_software_license/"/>
+        <updated>2024-03-11T08:32:27.000Z</updated>
+        <summary type="html"><![CDATA[最新版ソフトウェアを利用できるようにするため、ソフトウェアライセンスサーバのライセンスマネージャ等の更新作業を行います。サービス停止やサーバ再起動に伴いライセンスサーバを利用するソフトウェアの動作が不安定になることがあり […]
+ソフトウェアライセンスサーバ停止のお知らせ（2024/3/18） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17266</id>
