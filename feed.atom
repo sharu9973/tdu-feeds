@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-03-16T12:17:10.819Z</updated>
+    <updated>2024-03-16T13:10:11.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -239,17 +239,6 @@ Gmailのメール送信者ガイドラインの変更に伴う対応について
 MATLAB＆Simulink　認証変更について（2023/12/27深夜切替） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「論文オープンアクセス講習会」のアーカイブ公開について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17062</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2023/12/18/20231026_openaccess_archive/"/>
-        <updated>2023-12-18T00:44:10.000Z</updated>
-        <summary type="html"><![CDATA[研究者各位 2023年10月26日に開催いたしました「論文オープンアクセス講習会」にご参加いただきありがとうございました。 当日ご参加できなかった方に向けて、アーカイブ動画および講習会資料を公開いたしました。2024年6 […]
-「論文オープンアクセス講習会」のアーカイブ公開について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
