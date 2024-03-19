@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17358",
+          "author": "katsumi",
+          "description": "総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]\nソフトウェア更新のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/03/19/202403_software/",
+          "publishedOn": "2024-03-19T07:19:24.000Z",
+          "wordCount": 2293,
+          "title": "ソフトウェア更新のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17320",
           "author": "katsumi",
           "description": "最新版ソフトウェアを利用できるようにするため、ソフトウェアライセンスサーバのライセンスマネージャ等の更新作業を行います。サービス停止やサーバ再起動に伴いライセンスサーバを利用するソフトウェアの動作が不安定になることがあり […]\nソフトウェアライセンスサーバ停止のお知らせ（2024/3/18） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/03/11/20240318_software_license/",
           "publishedOn": "2024-03-11T08:32:27.000Z",
-          "wordCount": 2297,
+          "wordCount": 2307,
           "title": "ソフトウェアライセンスサーバ停止のお知らせ（2024/3/18）",
           "imageUrl": null
         },
