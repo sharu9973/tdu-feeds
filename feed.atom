@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-03-23T19:07:04.893Z</updated>
+    <updated>2024-03-23T20:09:43.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -48,6 +48,36 @@
 卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noncommutative integration and operator theory]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086430&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086430&amp;hidden_return_link=true"/>
+        <updated>2024-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter G. Dodds, Ben de Pagter, Fedor A. Sukochev. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 349).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C[∞]-algebraic geometry with corners]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086431&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086431&amp;hidden_return_link=true"/>
+        <updated>2024-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kelli Francis-Staite, Dominic Joyce ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 490). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝日キーワード = Asahi keywords]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086432&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086432&amp;hidden_return_link=true"/>
+        <updated>2024-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2024.1. -- 巻号等：2025<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
