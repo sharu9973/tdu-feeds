@@ -88,43 +88,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "新着案内",
-      "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
-      "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
-      "articles": [
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086430&hidden_return_link=true",
-          "author": null,
-          "description": "Peter G. Dodds, Ben de Pagter, Fedor A. Sukochev. -- Birkhäuser, c2023. -- (Progress in mathematics ; v. 349).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086430&hidden_return_link=true",
-          "publishedOn": "2024-02-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Noncommutative integration and operator theory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086431&hidden_return_link=true",
-          "author": null,
-          "description": "Kelli Francis-Staite, Dominic Joyce ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 490). -- 巻号等：: pbk<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086431&hidden_return_link=true",
-          "publishedOn": "2024-02-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "C[∞]-algebraic geometry with corners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086432&hidden_return_link=true",
-          "author": null,
-          "description": "朝日新聞出版編 ; 2025. -- 朝日新聞出版, 2024.1. -- 巻号等：2025<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086432&hidden_return_link=true",
-          "publishedOn": "2024-02-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "朝日キーワード = Asahi keywords",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
