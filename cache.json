@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "注意喚起情報 | TDU-CSIRT",
-      "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/",
-      "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
-      "articles": []
-    },
-    {
       "title": "お知らせ | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
