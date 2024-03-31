@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-03-31T15:08:06.484Z</updated>
+    <updated>2024-03-31T16:09:55.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[paizaラーニング「無料クーポン」プレゼントについて（2024）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17336</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/01/paiza-coupon-2024/"/>
+        <updated>2024-03-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]
+paizaラーニング「無料クーポン」プレゼントについて（2024） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17365</id>
