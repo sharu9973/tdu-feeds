@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-04-05T13:10:44.272Z</updated>
+    <updated>2024-04-05T14:10:38.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17398</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/05/%e5%a4%a7%e5%ad%a6%e9%99%a2%e9%80%b2%e5%ad%a6%e7%ad%89%e6%97%a7%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e7%a7%bb%e8%a1%8c%e6%9c%9f%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/"/>
+        <updated>2024-04-05T13:30:09.000Z</updated>
+        <summary type="html"><![CDATA[大学院進学・転学部・転学系等による学籍番号の変更に伴い、総合メディアセンターの各種サービスを利用するＩＤは「新しい学籍番号」となります。各種サービスを利用する際は、「新しい学籍番号」でご利用ください。 旧学籍番号のＩＤは […]
+大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChemDraw、SOLIDWORKS Student Premiumライセンス発行のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17420</id>
