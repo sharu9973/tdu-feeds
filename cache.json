@@ -108,12 +108,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "新着案内",
-      "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
-      "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
