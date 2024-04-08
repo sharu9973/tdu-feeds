@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-04-08T06:13:05.267Z</updated>
+    <updated>2024-04-08T07:10:41.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プログラミング学習応援企画 paizaランクチャレンジ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17338</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/paiza-rank-challenge2024/"/>
+        <updated>2024-04-08T06:17:12.000Z</updated>
+        <summary type="html"><![CDATA[有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]
+プログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17797</id>
@@ -101,17 +112,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2024�
         <updated>2024-03-08T04:28:03.000Z</updated>
         <summary type="html"><![CDATA[卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]
 卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 – OneDrive上限容量変更について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17174</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/20240201_microsoft365_onedrive/"/>
-        <updated>2024-01-29T08:36:38.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフト社の方針変更に伴い、2024年2月1日より本学のMicrosoftアカウントで利用できるOneDriveの最大保存容量が【1TB】から【100GB】に変更されます。 OneDriveは、この容量を超えると新 […]
-Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>

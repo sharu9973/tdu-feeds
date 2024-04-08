@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17338",
+          "author": "katsumi",
+          "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/paiza-rank-challenge2024/",
+          "publishedOn": "2024-04-08T06:17:12.000Z",
+          "wordCount": 2173,
+          "title": "プログラミング学習応援企画 paizaランクチャレンジ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17797",
           "author": "katsumi",
           "description": "アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2024年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされています。また、今話題の生成AIについても触れられておりブラッシュアップされて […]\nAdobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_adobedcoc/",
           "publishedOn": "2024-04-08T05:31:44.000Z",
-          "wordCount": 2308,
+          "wordCount": 2317,
           "title": "Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-03-08T04:28:03.000Z",
           "wordCount": 2229,
           "title": "卒業後の総合メディアセンター各種サービスの扱いについて",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17174",
-          "author": "katsumi",
-          "description": "マイクロソフト社の方針変更に伴い、2024年2月1日より本学のMicrosoftアカウントで利用できるOneDriveの最大保存容量が【1TB】から【100GB】に変更されます。 OneDriveは、この容量を超えると新 […]\nMicrosoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/20240201_microsoft365_onedrive/",
-          "publishedOn": "2024-01-29T08:36:38.000Z",
-          "wordCount": 2216,
-          "title": "Microsoft 365 – OneDrive上限容量変更について",
           "imageUrl": null
         }
       ]
