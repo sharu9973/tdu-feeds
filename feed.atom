@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-04-08T03:11:03.856Z</updated>
+    <updated>2024-04-08T04:12:06.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書館・図書閲覧室ガイダンスのお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17777</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_library_guidance/"/>
+        <updated>2024-04-08T03:22:24.000Z</updated>
+        <summary type="html"><![CDATA[総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]
+図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17398</id>
