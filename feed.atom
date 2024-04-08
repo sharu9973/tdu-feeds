@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-04-08T05:09:25.189Z</updated>
+    <updated>2024-04-08T06:13:05.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17797</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_adobedcoc/"/>
+        <updated>2024-04-08T05:31:44.000Z</updated>
+        <summary type="html"><![CDATA[アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2024年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされています。また、今話題の生成AIについても触れられておりブラッシュアップされて […]
+Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[図書館・図書閲覧室ガイダンスのお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17777</id>
@@ -103,17 +114,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2024�
 Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17180</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/gmailguideline/"/>
-        <updated>2024-01-29T06:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Google社よりGmailのメール送信者ガイドラインが変更され、Gmailの利用者が安全にメールを受け取れるようにするため、 2024年2月以降、「Gmailアカウントへ送信／転送されたメール」に対する迷惑メールの確認 […]
-Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>kfujita</name>
         </author>
     </entry>
 </feed>

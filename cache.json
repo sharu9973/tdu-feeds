@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17797",
+          "author": "katsumi",
+          "description": "アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2024年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされています。また、今話題の生成AIについても触れられておりブラッシュアップされて […]\nAdobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_adobedcoc/",
+          "publishedOn": "2024-04-08T05:31:44.000Z",
+          "wordCount": 2308,
+          "title": "Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17777",
           "author": "katsumi",
           "description": "総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]\n図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_library_guidance/",
           "publishedOn": "2024-04-08T03:22:24.000Z",
-          "wordCount": 2174,
+          "wordCount": 2183,
           "title": "図書館・図書閲覧室ガイダンスのお知らせ",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-01-29T08:36:38.000Z",
           "wordCount": 2216,
           "title": "Microsoft 365 – OneDrive上限容量変更について",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17180",
-          "author": "kfujita",
-          "description": "Google社よりGmailのメール送信者ガイドラインが変更され、Gmailの利用者が安全にメールを受け取れるようにするため、 2024年2月以降、「Gmailアカウントへ送信／転送されたメール」に対する迷惑メールの確認 […]\nGmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/01/29/gmailguideline/",
-          "publishedOn": "2024-01-29T06:17:20.000Z",
-          "wordCount": 2146,
-          "title": "Gmailのメール送信者ガイドラインの変更に伴う対応について（メールサーバの管理者向け）",
           "imageUrl": null
         }
       ]
