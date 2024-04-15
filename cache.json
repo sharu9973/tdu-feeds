@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18195",
+          "author": "katsumi",
+          "description": "以下の日時において、電子図書館のメンテナンス作業を実施いたします。そのため、メンテナンス中は電子図書館が利用できません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 ２０２４年４月２１日（日 […]\n電子図書館：サービスの停止のお知らせ（2024/4/21,22） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/15/20240421_digitallibrary/",
+          "publishedOn": "2024-04-15T00:26:06.000Z",
+          "wordCount": 2167,
+          "title": "電子図書館：サービスの停止のお知らせ（2024/4/21,22）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17851",
           "author": "katsumi",
           "description": "図書サービスでは「JSAライブラリサーバ」のサービス提供を開始いたしました。 「JSAライブラリサーバ」は、日本規格協会（JSA=Japanese Standards Association）の提供する日本産業規格（JI […]\nJIS規格をオンラインで検索・閲覧できるようになりました first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/11/2024_jsa_library_server/",
           "publishedOn": "2024-04-11T05:02:40.000Z",
-          "wordCount": 2136,
+          "wordCount": 2144,
           "title": "JIS規格をオンラインで検索・閲覧できるようになりました",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-03-23T03:37:14.000Z",
           "wordCount": 2166,
           "title": "無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17358",
-          "author": "katsumi",
-          "description": "総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]\nソフトウェア更新のお知らせ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/03/19/202403_software/",
-          "publishedOn": "2024-03-19T07:19:24.000Z",
-          "wordCount": 2309,
-          "title": "ソフトウェア更新のお知らせ",
           "imageUrl": null
         }
       ]
