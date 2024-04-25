@@ -125,13 +125,13 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086382&hidden_return_link=true",
           "author": null,
-          "description": "おしゃもじ著. -- 誠文堂新光社, 2024.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
+          "description": "edited by Malcolm A. Halcrow. -- Wiley, 2013.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086382&hidden_return_link=true",
+          "publishedOn": "2024-04-18T15:00:00.000Z",
           "wordCount": 3,
-          "title": "建築設備士必携テキスト : 試験によく出る重要項目を厳選収録 : 要点まとめ&問題演習で合格力アップ",
+          "title": "Spin-crossover materials : properties and applications",
           "imageUrl": null
         },
         {
@@ -175,13 +175,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
           "author": null,
-          "description": "土屋健著. -- 講談社, 2024.3. -- (ブルーバックス ; B-2255).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
+          "description": "おしゃもじ著. -- 誠文堂新光社, 2024.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
           "publishedOn": "2024-04-11T15:00:00.000Z",
           "wordCount": 3,
-          "title": "サピエンス前史 : 脊椎動物の進化から人類に至る5億年の物語",
+          "title": "建築設備士必携テキスト : 試験によく出る重要項目を厳選収録 : 要点まとめ&問題演習で合格力アップ",
           "imageUrl": null
         },
         {
@@ -225,13 +225,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086425&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
           "author": null,
-          "description": "日建学院建築設備士教材研究会編著 ; 令和6年度版. -- 建築資料研究社, 2024.2. -- 巻号等：令和6年度版<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086425&hidden_return_link=true",
-          "publishedOn": "2024-04-04T15:00:00.000Z",
+          "description": "土屋健著. -- 講談社, 2024.3. -- (ブルーバックス ; B-2255).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
+          "publishedOn": "2024-04-11T15:00:00.000Z",
           "wordCount": 3,
-          "title": "日建学院建築設備士学科問題解説集",
+          "title": "サピエンス前史 : 脊椎動物の進化から人類に至る5億年の物語",
           "imageUrl": null
         },
         {
@@ -622,6 +622,16 @@
           "publishedOn": "2024-04-04T15:00:00.000Z",
           "wordCount": 3,
           "title": "ネスペR5 : 本物のネットワークスペシャリストになるための最も詳しい過去問解説",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086425&hidden_return_link=true",
+          "author": null,
+          "description": "日建学院建築設備士教材研究会編著 ; 令和6年度版. -- 建築資料研究社, 2024.2. -- 巻号等：令和6年度版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086425&hidden_return_link=true",
+          "publishedOn": "2024-04-04T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "日建学院建築設備士学科問題解説集",
           "imageUrl": null
         }
       ]
