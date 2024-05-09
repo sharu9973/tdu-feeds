@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18749",
+          "author": "yatsuko",
+          "description": "2024年5月8日夕方ごろより、MATLAB＆Simulinkを提供している、Mathworksアカウントの認証不具合が発生しております。 現在、調査・対応を行っております。ご迷惑をおかけして申し訳ありません。復旧次第、 […]\n【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/05/09/20240509_matlab/",
+          "publishedOn": "2024-05-09T03:56:06.000Z",
+          "wordCount": 2280,
+          "title": "【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18195",
           "author": "katsumi",
           "description": "以下の日時において、電子図書館のメンテナンス作業を実施いたします。そのため、メンテナンス中は電子図書館が利用できません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 ２０２４年４月２１日（日 […]\n電子図書館：サービスの停止のお知らせ（2024/4/21,22） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/15/20240421_digitallibrary/",
           "publishedOn": "2024-04-15T00:26:06.000Z",
-          "wordCount": 2167,
+          "wordCount": 2176,
           "title": "電子図書館：サービスの停止のお知らせ（2024/4/21,22）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-03-31T16:00:00.000Z",
           "wordCount": 2176,
           "title": "paizaラーニング「無料クーポン」プレゼントについて（2024）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17365",
-          "author": "kfujita",
-          "description": "無線LANシステムおよび学認を利用するサービスについて、メンテナンス作業を実施するため、以下に記載するサービスが一時的に利用できなくなります。 無線LANシステムについて 　作業日時：　　・2024年3月25日（月）21 […]\n無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/03/23/20240325_wlan_gakunin/",
-          "publishedOn": "2024-03-23T03:37:14.000Z",
-          "wordCount": 2166,
-          "title": "無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25）",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-05-09T03:10:38.833Z</updated>
+    <updated>2024-05-09T04:14:23.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18749</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/05/09/20240509_matlab/"/>
+        <updated>2024-05-09T03:56:06.000Z</updated>
+        <summary type="html"><![CDATA[2024年5月8日夕方ごろより、MATLAB＆Simulinkを提供している、Mathworksアカウントの認証不具合が発生しております。 現在、調査・対応を行っております。ご迷惑をおかけして申し訳ありません。復旧次第、 […]
+【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガロア理論12講 : 概念と直観でとらえる現代数学入門]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086477&amp;hidden_return_link=true</id>
@@ -353,17 +364,6 @@ ChemDraw、SOLIDWORKS Student Premiumライセンス発行のお知らせ first 
 paizaラーニング「無料クーポン」プレゼントについて（2024） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17365</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/03/23/20240325_wlan_gakunin/"/>
-        <updated>2024-03-23T03:37:14.000Z</updated>
-        <summary type="html"><![CDATA[無線LANシステムおよび学認を利用するサービスについて、メンテナンス作業を実施するため、以下に記載するサービスが一時的に利用できなくなります。 無線LANシステムについて 　作業日時：　　・2024年3月25日（月）21 […]
-無線LANシステムおよび学認を利用するサービスのサービス停止について（3/25） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>kfujita</name>
         </author>
     </entry>
 </feed>
