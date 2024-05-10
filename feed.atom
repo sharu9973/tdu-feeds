@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-05-09T23:09:52.750Z</updated>
+    <updated>2024-05-10T00:43:42.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中）]]></title>
+        <title type="html"><![CDATA[【復旧】MATLAB＆Simulink　認証不具合]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18749</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/05/09/20240509_matlab/"/>
         <updated>2024-05-09T03:56:06.000Z</updated>
-        <summary type="html"><![CDATA[2024年5月8日夕方ごろより、MATLAB＆Simulinkを提供している、Mathworksアカウントの認証不具合が発生しております。 現在、調査・対応を行っております。ご迷惑をおかけして申し訳ありません。復旧次第、 […]
-【障害】MATLAB＆Simulink　認証不具合（2024/5/9対応中） first appeared on 総合メディアセンター.]]></summary>
+        <summary type="html"><![CDATA[2024年5月8日夕方ごろより、MATLAB＆Simulinkを提供している、Mathworksアカウントの認証不具合が発生いたしました。2024年5月9日21：30頃、不具合が復旧し、正常にサービスが利用できるようにな […]
+【復旧】MATLAB＆Simulink　認証不具合 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
