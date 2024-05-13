@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-05-13T13:11:49.488Z</updated>
+    <updated>2024-05-13T14:09:25.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -34,6 +34,26 @@
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086477&amp;hidden_return_link=true"/>
         <updated>2024-04-25T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[加藤文元著. -- KADOKAWA, 2022.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来都市はムラに近似する]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086463&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086463&amp;hidden_return_link=true"/>
+        <updated>2024-04-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[北山恒著. -- 彰国社, 2021.3.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヨコとタテの建築論 : モダン・ヒューマンとしての私たちと建築をめぐる10講]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086464&amp;hidden_return_link=true</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086464&amp;hidden_return_link=true"/>
+        <updated>2024-04-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[青井哲人著. -- 慶應義塾大学出版会, 2023.1.<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
@@ -149,26 +169,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[未来都市はムラに近似する]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086463&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086463&amp;hidden_return_link=true"/>
-        <updated>2024-04-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[北山恒著. -- 彰国社, 2021.3.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヨコとタテの建築論 : モダン・ヒューマンとしての私たちと建築をめぐる10講]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086464&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086464&amp;hidden_return_link=true"/>
-        <updated>2024-04-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[青井哲人著. -- 慶應義塾大学出版会, 2023.1.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spin-crossover materials : properties and applications]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086382&amp;hidden_return_link=true</id>
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086382&amp;hidden_return_link=true"/>
@@ -187,106 +187,6 @@
 電子図書館：サービスの停止のお知らせ（2024/4/21,22） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像処理の基礎 : 視覚認知からデジタルプリンティングまで]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086445&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086445&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本画像学会編. -- 東京電機大学出版局, 2024.3. -- (シリーズ「デジタルプリンタ技術」).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フレッシュマンセミナーテキスト : 大学新入生のための学び方ワークブック]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086446&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086446&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[初年次教育テキスト編集委員会編. -- 第3版. -- 東京電機大学出版局, 2024.3.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の図書館 : 統計と名簿]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086479&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086479&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本図書館協会図書館調査事業委員会, 日本の図書館調査委員会編集 ; 2023. -- 日本図書館協会, 2024.3. -- 巻号等：2023<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サピエンス前史 : 脊椎動物の進化から人類に至る5億年の物語]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086480&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086480&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[土屋健著. -- 講談社, 2024.3. -- (ブルーバックス ; B-2255).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[植物の謎 : 60のQ&Aから見える、強くて緻密な生きざま]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086481&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086481&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本植物生理学会編. -- 講談社, 2024.3. -- (ブルーバックス ; B-2257).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙と物質の起源 : 「見えない世界」を理解する]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086482&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086482&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[高エネルギー加速器研究機構素粒子原子核研究所編. -- 講談社, 2024.3. -- (ブルーバックス ; B-2256).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[職場を腐らせる人たち]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086483&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086483&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[片田珠美著. -- 講談社, 2024.3. -- (講談社現代新書 ; 2739).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老いた今だから]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086484&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086484&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[丹羽宇一郎著. -- 講談社, 2024.3. -- (講談社現代新書 ; 2740).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実務で使えるメール技術の教科書 : 基本のしくみからプロトコル・サーバー構築・送信ドメイン認証・添付ファイル・暗号化・セキュリティ対策まで]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086441&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086441&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[増井敏克著. -- 翔泳社, 2024.2.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建築設備士必携テキスト : 試験によく出る重要項目を厳選収録 : 要点まとめ&問題演習で合格力アップ]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086427&amp;hidden_return_link=true</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086427&amp;hidden_return_link=true"/>
-        <updated>2024-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[おしゃもじ著. -- 誠文堂新光社, 2024.3.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
     <entry>

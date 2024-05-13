@@ -135,6 +135,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
+          "author": null,
+          "description": "北山恒著. -- 彰国社, 2021.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
+          "publishedOn": "2024-04-25T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "未来都市はムラに近似する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086464&hidden_return_link=true",
+          "author": null,
+          "description": "青井哲人著. -- 慶應義塾大学出版会, 2023.1.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086464&hidden_return_link=true",
+          "publishedOn": "2024-04-25T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヨコとタテの建築論 : モダン・ヒューマンとしての私たちと建築をめぐる10講",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086465&hidden_return_link=true",
           "author": null,
           "description": "ユハニ・パッラスマー著 ; 百合田香織訳. -- 草思社, 2022.12.<図書>",
@@ -245,26 +265,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
-          "author": null,
-          "description": "北山恒著. -- 彰国社, 2021.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
-          "publishedOn": "2024-04-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "未来都市はムラに近似する",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086464&hidden_return_link=true",
-          "author": null,
-          "description": "青井哲人著. -- 慶應義塾大学出版会, 2023.1.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086464&hidden_return_link=true",
-          "publishedOn": "2024-04-25T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "ヨコとタテの建築論 : モダン・ヒューマンとしての私たちと建築をめぐる10講",
-          "imageUrl": null
-        },
-        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086382&hidden_return_link=true",
           "author": null,
           "description": "edited by Malcolm A. Halcrow. -- Wiley, 2013.<図書>",
@@ -272,106 +272,6 @@
           "publishedOn": "2024-04-18T15:00:00.000Z",
           "wordCount": 3,
           "title": "Spin-crossover materials : properties and applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086445&hidden_return_link=true",
-          "author": null,
-          "description": "日本画像学会編. -- 東京電機大学出版局, 2024.3. -- (シリーズ「デジタルプリンタ技術」).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086445&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "画像処理の基礎 : 視覚認知からデジタルプリンティングまで",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086446&hidden_return_link=true",
-          "author": null,
-          "description": "初年次教育テキスト編集委員会編. -- 第3版. -- 東京電機大学出版局, 2024.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086446&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "フレッシュマンセミナーテキスト : 大学新入生のための学び方ワークブック",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086479&hidden_return_link=true",
-          "author": null,
-          "description": "日本図書館協会図書館調査事業委員会, 日本の図書館調査委員会編集 ; 2023. -- 日本図書館協会, 2024.3. -- 巻号等：2023<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086479&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "日本の図書館 : 統計と名簿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
-          "author": null,
-          "description": "土屋健著. -- 講談社, 2024.3. -- (ブルーバックス ; B-2255).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086480&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "サピエンス前史 : 脊椎動物の進化から人類に至る5億年の物語",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086481&hidden_return_link=true",
-          "author": null,
-          "description": "日本植物生理学会編. -- 講談社, 2024.3. -- (ブルーバックス ; B-2257).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086481&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "植物の謎 : 60のQ&Aから見える、強くて緻密な生きざま",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086482&hidden_return_link=true",
-          "author": null,
-          "description": "高エネルギー加速器研究機構素粒子原子核研究所編. -- 講談社, 2024.3. -- (ブルーバックス ; B-2256).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086482&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "宇宙と物質の起源 : 「見えない世界」を理解する",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086483&hidden_return_link=true",
-          "author": null,
-          "description": "片田珠美著. -- 講談社, 2024.3. -- (講談社現代新書 ; 2739).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086483&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "職場を腐らせる人たち",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086484&hidden_return_link=true",
-          "author": null,
-          "description": "丹羽宇一郎著. -- 講談社, 2024.3. -- (講談社現代新書 ; 2740).<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086484&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "老いた今だから",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086441&hidden_return_link=true",
-          "author": null,
-          "description": "増井敏克著. -- 翔泳社, 2024.2.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086441&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "実務で使えるメール技術の教科書 : 基本のしくみからプロトコル・サーバー構築・送信ドメイン認証・添付ファイル・暗号化・セキュリティ対策まで",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
-          "author": null,
-          "description": "おしゃもじ著. -- 誠文堂新光社, 2024.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086427&hidden_return_link=true",
-          "publishedOn": "2024-04-11T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "建築設備士必携テキスト : 試験によく出る重要項目を厳選収録 : 要点まとめ&問題演習で合格力アップ",
           "imageUrl": null
         }
       ]
