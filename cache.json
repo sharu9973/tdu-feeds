@@ -135,16 +135,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086506&hidden_return_link=true",
-          "author": null,
-          "description": "沢田俊介著. -- 翔泳社, 2024.4.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086506&hidden_return_link=true",
-          "publishedOn": "2024-05-09T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Figma forデザインシステム : デザインを中心としたプロダクト開発の仕組み作り",
-          "imageUrl": null
-        },
-        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086509&hidden_return_link=true",
           "author": null,
           "description": "藤野巖著. -- コロナ社, 2024.4.<図書>",
@@ -495,13 +485,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086506&hidden_return_link=true",
           "author": null,
-          "description": "北山恒著. -- 彰国社, 2021.3.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
-          "publishedOn": "2024-04-25T15:00:00.000Z",
+          "description": "沢田俊介著. -- 翔泳社, 2024.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086506&hidden_return_link=true",
+          "publishedOn": "2024-05-09T15:00:00.000Z",
           "wordCount": 3,
-          "title": "未来都市はムラに近似する",
+          "title": "Figma forデザインシステム : デザインを中心としたプロダクト開発の仕組み作り",
           "imageUrl": null
         },
         {
@@ -635,13 +625,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086382&hidden_return_link=true",
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
           "author": null,
-          "description": "edited by Malcolm A. Halcrow. -- Wiley, 2013.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086382&hidden_return_link=true",
-          "publishedOn": "2024-04-18T15:00:00.000Z",
+          "description": "北山恒著. -- 彰国社, 2021.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&pkey=BB20086463&hidden_return_link=true",
+          "publishedOn": "2024-04-25T15:00:00.000Z",
           "wordCount": 3,
-          "title": "Spin-crossover materials : properties and applications",
+          "title": "未来都市はムラに近似する",
           "imageUrl": null
         }
       ]
