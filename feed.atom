@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-05-23T23:10:59.732Z</updated>
+    <updated>2024-05-24T00:44:44.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[電子図書館：サービスの停止のお知らせ（2024/6/23,24）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18243</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/05/24/20240623_digitallibrary/"/>
+        <updated>2024-05-24T00:26:41.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、電子図書館のメンテナンス作業を実施いたします。そのため、メンテナンス中は電子図書館が利用できません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申し上げます。 作業日時 ２０２４年6月23日（日 […]
+電子図書館：サービスの停止のお知らせ（2024/6/23,24） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot : AI活用入門]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086511&amp;hidden_return_link=true</id>
@@ -763,17 +774,6 @@ Adobe デジタルクリエイティブ基礎講座オンライン版（2024年�
 大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChemDraw、SOLIDWORKS Student Premiumライセンス発行のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17420</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/01/2024_software_license/"/>
-        <updated>2024-03-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[次の2つのソフトウェアについて、2024年度のライセンス発行準備ができましたのでお知らせいたします。 今年度引き続き利用される方は、それぞれのソフトウェアのページからライセンス条件や利用方法についてよく確認のうえご利用く […]
-ChemDraw、SOLIDWORKS Student Premiumライセンス発行のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
