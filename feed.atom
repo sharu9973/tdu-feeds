@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-06-01T03:13:03.126Z</updated>
+    <updated>2024-06-01T04:12:00.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【復旧済】WebClassの障害について(5/31-6/1)]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18928</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/06/01/webclass-20240601/"/>
+        <updated>2024-06-01T03:14:31.000Z</updated>
+        <summary type="html"><![CDATA[昨日（5/31（金））21時頃より、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございません。講義に関 […]
+【復旧済】WebClassの障害について(5/31-6/1) first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子図書館：サービスの停止のお知らせ（2024/6/23,24）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18243</id>
@@ -723,17 +734,6 @@ Adobe デジタルクリエイティブ基礎講座オンライン版（2024年�
 図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17398</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/05/%e5%a4%a7%e5%ad%a6%e9%99%a2%e9%80%b2%e5%ad%a6%e7%ad%89%e6%97%a7%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e7%a7%bb%e8%a1%8c%e6%9c%9f%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/"/>
-        <updated>2024-04-05T13:30:09.000Z</updated>
-        <summary type="html"><![CDATA[大学院進学・転学部・転学系等による学籍番号の変更に伴い、総合メディアセンターの各種サービスを利用するＩＤは「新しい学籍番号」となります。各種サービスを利用する際は、「新しい学籍番号」でご利用ください。 旧学籍番号のＩＤは […]
-大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>

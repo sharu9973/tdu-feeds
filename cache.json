@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18928",
+          "author": "yatsuko",
+          "description": "昨日（5/31（金））21時頃より、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございません。講義に関 […]\n【復旧済】WebClassの障害について(5/31-6/1) first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/06/01/webclass-20240601/",
+          "publishedOn": "2024-06-01T03:14:31.000Z",
+          "wordCount": 2085,
+          "title": "【復旧済】WebClassの障害について(5/31-6/1)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18243",
           "author": "小此木俊宏",
           "description": "以下の日時において、電子図書館のメンテナンス作業を実施いたします。そのため、メンテナンス中は電子図書館が利用できません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申し上げます。 作業日時 ２０２４年6月23日（日 […]\n電子図書館：サービスの停止のお知らせ（2024/6/23,24） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/05/24/20240623_digitallibrary/",
           "publishedOn": "2024-05-24T00:26:41.000Z",
-          "wordCount": 2118,
+          "wordCount": 2126,
           "title": "電子図書館：サービスの停止のお知らせ（2024/6/23,24）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-04-08T03:22:24.000Z",
           "wordCount": 2139,
           "title": "図書館・図書閲覧室ガイダンスのお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17398",
-          "author": "yatsuko",
-          "description": "大学院進学・転学部・転学系等による学籍番号の変更に伴い、総合メディアセンターの各種サービスを利用するＩＤは「新しい学籍番号」となります。各種サービスを利用する際は、「新しい学籍番号」でご利用ください。 旧学籍番号のＩＤは […]\n大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/05/%e5%a4%a7%e5%ad%a6%e9%99%a2%e9%80%b2%e5%ad%a6%e7%ad%89%e6%97%a7%e3%82%a2%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e7%a7%bb%e8%a1%8c%e6%9c%9f%e9%96%93%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/",
-          "publishedOn": "2024-04-05T13:30:09.000Z",
-          "wordCount": 2110,
-          "title": "大学院進学・転学部・転学科・転学系等の旧アカウント移行期間について",
           "imageUrl": null
         }
       ]
