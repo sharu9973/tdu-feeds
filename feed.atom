@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-06-13T07:10:05.426Z</updated>
+    <updated>2024-06-13T08:13:28.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェア更新のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19057</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/06/13/202406_software/"/>
+        <updated>2024-06-13T07:29:33.000Z</updated>
+        <summary type="html"><![CDATA[総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]
+ソフトウェア更新のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哲学の世界 : 時間・運命・人生のパラドクス]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086639&amp;hidden_return_link=true</id>
@@ -621,17 +632,6 @@ JIS規格をオンラインで検索・閲覧できるようになりました f
         <updated>2024-04-08T05:31:44.000Z</updated>
         <summary type="html"><![CDATA[アドビ株式会社よりデジタルクリエイティブ基礎講座オンライン版（2024年更新版）を提供して頂きました。内容も一部コンテンツの更新、追加がされています。また、今話題の生成AIについても触れられておりブラッシュアップされて […]
 Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館・図書閲覧室ガイダンスのお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17777</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_library_guidance/"/>
-        <updated>2024-04-08T03:22:24.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]
-図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>

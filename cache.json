@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19057",
+          "author": "katsumi",
+          "description": "総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]\nソフトウェア更新のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/06/13/202406_software/",
+          "publishedOn": "2024-06-13T07:29:33.000Z",
+          "wordCount": 2245,
+          "title": "ソフトウェア更新のお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=18928",
           "author": "yatsuko",
           "description": "昨日（5/31（金））21時頃より、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございません。講義に関 […]\n【復旧済】WebClassの障害について(5/31-6/1) first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/06/01/webclass-20240601/",
           "publishedOn": "2024-06-01T03:14:31.000Z",
-          "wordCount": 2085,
+          "wordCount": 2093,
           "title": "【復旧済】WebClassの障害について(5/31-6/1)",
           "imageUrl": null
         },
@@ -43,7 +53,7 @@
           "description": "総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]\nソフトウェア更新のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/05/10/202403_software-2/",
           "publishedOn": "2024-05-10T04:28:41.000Z",
-          "wordCount": 2253,
+          "wordCount": 2255,
           "title": "ソフトウェア更新のお知らせ",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2024-04-08T05:31:44.000Z",
           "wordCount": 2269,
           "title": "Adobe デジタルクリエイティブ基礎講座オンライン版（2024年更新版）公開のお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=17777",
-          "author": "katsumi",
-          "description": "総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]\n図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/2024_library_guidance/",
-          "publishedOn": "2024-04-08T03:22:24.000Z",
-          "wordCount": 2139,
-          "title": "図書館・図書閲覧室ガイダンスのお知らせ",
           "imageUrl": null
         }
       ]
