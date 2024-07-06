@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-07-06T18:12:30.538Z</updated>
+    <updated>2024-07-06T19:08:22.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1040,17 +1040,6 @@ JIS規格をオンラインで検索・閲覧できるようになりました f
         <updated>2024-04-09T05:25:40.000Z</updated>
         <summary type="html"><![CDATA[以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]
 利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プログラミング学習応援企画 paizaランクチャレンジ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17338</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/08/paiza-rank-challenge2024/"/>
-        <updated>2024-04-08T06:17:12.000Z</updated>
-        <summary type="html"><![CDATA[有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]
-プログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
