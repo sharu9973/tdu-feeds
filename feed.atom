@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-07-07T17:09:24.876Z</updated>
+    <updated>2024-07-07T18:12:39.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1349,17 +1349,6 @@
         <updated>2024-04-11T05:02:40.000Z</updated>
         <summary type="html"><![CDATA[図書サービスでは「JSAライブラリサーバ」のサービス提供を開始いたしました。 「JSAライブラリサーバ」は、日本規格協会（JSA=Japanese Standards Association）の提供する日本産業規格（JI […]
 JIS規格をオンラインで検索・閲覧できるようになりました first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用相談・プログラム相談のサービス開始について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17849</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/09/202404_soudan-service/"/>
-        <updated>2024-04-09T05:25:40.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]
-利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
