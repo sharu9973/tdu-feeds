@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-07-09T16:13:30.442Z</updated>
+    <updated>2024-07-09T17:10:53.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -1108,17 +1108,6 @@
         <updated>2024-04-15T00:26:06.000Z</updated>
         <summary type="html"><![CDATA[以下の日時において、電子図書館のメンテナンス作業を実施いたします。そのため、メンテナンス中は電子図書館が利用できません。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 ２０２４年４月２１日（日 […]
 電子図書館：サービスの停止のお知らせ（2024/4/21,22） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JIS規格をオンラインで検索・閲覧できるようになりました]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=17851</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/04/11/2024_jsa_library_server/"/>
-        <updated>2024-04-11T05:02:40.000Z</updated>
-        <summary type="html"><![CDATA[図書サービスでは「JSAライブラリサーバ」のサービス提供を開始いたしました。 「JSAライブラリサーバ」は、日本規格協会（JSA=Japanese Standards Association）の提供する日本産業規格（JI […]
-JIS規格をオンラインで検索・閲覧できるようになりました first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
