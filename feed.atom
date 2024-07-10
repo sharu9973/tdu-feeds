@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-07-10T00:49:30.252Z</updated>
+    <updated>2024-07-10T01:59:09.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iThenticateのアップデートに伴うサービス一時停止のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19241</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/07/10/ithenticate_2-0_update/"/>
+        <updated>2024-07-10T00:49:49.000Z</updated>
+        <summary type="html"><![CDATA[論文剽窃チェックツールである iThenticate を現行の iThenticate1.0 から 2.0 へアップデートいたします。このため、以下の期間中、サービスを一時停止させていただきます。ご不便をおかけいたしま […]
+iThenticateのアップデートに伴うサービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新電力システムの基本と仕組みがよ〜くわかる本 : 発電・送配電の仕組みと概要を摑む]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;pkey=BB20086643&amp;hidden_return_link=true</id>
