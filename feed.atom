@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-08-28T13:16:27.027Z</updated>
+    <updated>2024-08-28T14:10:47.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[蔵書検索OPACメンテナンス作業のお知らせ（8/30～8/31）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19382</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/08/28/%e8%94%b5%e6%9b%b8%e6%a4%9c%e7%b4%a2opac%e3%83%a1%e3%83%b3%e3%83%86%e3%83%8a%e3%83%b3%e3%82%b9%e4%bd%9c%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%ef%bc%888-30%ef%bd%9e8-31%ef%bc%89/"/>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/08/28/opacmaintenance-20240830-31/"/>
         <updated>2024-08-28T11:21:12.000Z</updated>
         <summary type="html"><![CDATA[以下の日程で図書館システムメンテナンスを予定しています。蔵書検索OPACのご利用ができません。 日時：令和6年8月30日（金）18：30～8月31日（土）12：00 ご迷惑をおかけいたします。よろしくお願いいたします。
 蔵書検索OPACメンテナンス作業のお知らせ（8/30～8/31） first appeared on 総合メディアセンター.]]></summary>
