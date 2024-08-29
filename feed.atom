@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-08-29T15:12:29.882Z</updated>
+    <updated>2024-08-29T16:13:24.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -583,17 +583,6 @@ iThenticateのアップデートに伴うサービス一時停止のお知らせ
 ソフトウェア更新のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧済】WebClassの障害について(5/31-6/1)]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=18928</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/06/01/webclass-20240601/"/>
-        <updated>2024-06-01T03:14:31.000Z</updated>
-        <summary type="html"><![CDATA[昨日（5/31（金））21時頃より、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございません。講義に関 […]
-【復旧済】WebClassの障害について(5/31-6/1) first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
