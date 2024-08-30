@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19367",
+          "author": "yatsuko",
+          "description": "Mathematica？ Wolfram言語？ なんだか難しそうだし、Excelが使えればいいかな…そんなことはありません！！ Mathematicaを利用することにより、Excelでは処理できないビッグデータの取り扱い […]\n今からはじめる Mathematica ～基本操作を学び、Mathematicaの魅力を体験しよう！～ 講習会開催のお知らせ（9/12） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/08/30/20240912_mathematica/",
+          "publishedOn": "2024-08-30T05:37:47.000Z",
+          "wordCount": 2281,
+          "title": "今からはじめる Mathematica ～基本操作を学び、Mathematicaの魅力を体験しよう！～ 講習会開催のお知らせ（9/12）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19382",
           "author": "takahito",
           "description": "以下の日程で図書館システムメンテナンスを予定しています。蔵書検索OPACのご利用ができません。 日時：令和6年8月30日（金）18：30～8月31日（土）12：00 ご迷惑をおかけいたします。よろしくお願いいたします。\n蔵書検索OPACメンテナンス作業のお知らせ（8/30～8/31） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/08/28/opacmaintenance-20240830-31/",
           "publishedOn": "2024-08-28T11:21:12.000Z",
-          "wordCount": 2077,
+          "wordCount": 2088,
           "title": "蔵書検索OPACメンテナンス作業のお知らせ（8/30～8/31）",
           "imageUrl": null
         },
