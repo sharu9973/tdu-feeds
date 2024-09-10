@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-10T19:09:03.525Z</updated>
+    <updated>2024-09-10T20:12:47.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -851,17 +851,6 @@ Microsoft 365 – OneDrive上限容量変更について first appeared on 総�
         <updated>2024-07-10T00:49:49.000Z</updated>
         <summary type="html"><![CDATA[論文剽窃チェックツールである iThenticate を現行の iThenticate1.0 から 2.0 へアップデートいたします。このため、以下の期間中、サービスを一時停止させていただきます。ご不便をおかけいたしま […]
 iThenticateのアップデートに伴うサービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェア更新のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19057</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/06/13/202406_software/"/>
-        <updated>2024-06-13T07:29:33.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターのサービスするソフトウェアの更新をお知らせいたします。 ご利用になる場合は、各ソフトのページを確認し必要な申請等を行ってください。旧バージョンのソフトウェアで、サポート終了等を受け公開を終了したものが […]
-ソフトウェア更新のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
