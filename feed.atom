@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-12T13:18:30.171Z</updated>
+    <updated>2024-09-12T14:11:45.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -15,6 +15,116 @@
 【後期】利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文部科学白書]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086955</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086955"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省編集 ; 令和5年度. -- 日経印刷. -- 巻号等：令和5年度<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moduli spaces and vector bundles : new trends : VBAC 2022 Conference, Moduli Spaces and Vector Bundles : New Trends, in honor of Peter Newstead's 80th birthday, July 25-29, 2022, University of Warwick, Coventry, United Kingdom]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086954</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086954"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peter Gothen, Margarida Melo, Montserrat Teixidor i Bigas, editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 803). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher structures in topology, geometry, and physics : AMS Special Session, Higher Structures in Topology, Geometry, and Physics, March 26-27, 2022 Virtual]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086953</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086953"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ralph M. Kaufmann, Martin Markl, Alexander A. Voronov, editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 802). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontiers in geometry and topology : summer school and research conference Frontiers in Geometry and Topology, August 1-12, 2022, The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086952</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086952"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Paul M.N. Feehan, Lenhard L. Ng, Peter S. Ozsváth, editors ; : pbk. -- American Mathematical Society, c2024. -- (Proceedings of symposia in pure mathematics ; v. 109). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Categorical, combinatorial and geometric representation theory and related topics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086951</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086951"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pramod N. Achar, Kailash C. Misra, Daniel K. Nakano, editors ; : pbk. -- American Mathematical Society, c2024. -- (Proceedings of symposia in pure mathematics ; v. 108). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groups and graphs, designs and dynamics]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086950</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086950"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[edited by R.A. Bailey, Peter J. Cameron, Yaokun Wu ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 491). -- 巻号等：: pbk<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実践Django : Pythonによる本格Webアプリケーション開発]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086862</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086862"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[芝田将著. -- 翔泳社, 2021.7. -- (Programmer's selection).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[記憶に残る人になる : トップ営業がやっている本物の信頼を得る12のルール]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086857</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086857"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[福島靖著. -- ダイヤモンド社, 2024.6.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linuxカーネルの教科書 : 動かしながらゼロから学ぶ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086849</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086849"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[末安泰三著 ; 日経Linux編. -- 第2版. -- 日経BP.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーキテクトの教科書 : 価値を生むソフトウェアのアーキテクチャ構築]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086848</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086848"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米久保剛著. -- 翔泳社, 2024.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究者のための英語論文の書き方]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086833</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086833"/>
+        <updated>2024-09-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岩月猛泰著. -- 東京図書, 2024.7.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>

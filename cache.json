@@ -126,6 +126,116 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086955",
+          "author": null,
+          "description": "文部科学省編集 ; 令和5年度. -- 日経印刷. -- 巻号等：令和5年度<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086955",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "文部科学白書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086954",
+          "author": null,
+          "description": "Peter Gothen, Margarida Melo, Montserrat Teixidor i Bigas, editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 803). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086954",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Moduli spaces and vector bundles : new trends : VBAC 2022 Conference, Moduli Spaces and Vector Bundles : New Trends, in honor of Peter Newstead's 80th birthday, July 25-29, 2022, University of Warwick, Coventry, United Kingdom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086953",
+          "author": null,
+          "description": "Ralph M. Kaufmann, Martin Markl, Alexander A. Voronov, editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 802). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086953",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Higher structures in topology, geometry, and physics : AMS Special Session, Higher Structures in Topology, Geometry, and Physics, March 26-27, 2022 Virtual",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086952",
+          "author": null,
+          "description": "Paul M.N. Feehan, Lenhard L. Ng, Peter S. Ozsváth, editors ; : pbk. -- American Mathematical Society, c2024. -- (Proceedings of symposia in pure mathematics ; v. 109). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086952",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Frontiers in geometry and topology : summer school and research conference Frontiers in Geometry and Topology, August 1-12, 2022, The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086951",
+          "author": null,
+          "description": "Pramod N. Achar, Kailash C. Misra, Daniel K. Nakano, editors ; : pbk. -- American Mathematical Society, c2024. -- (Proceedings of symposia in pure mathematics ; v. 108). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086951",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Categorical, combinatorial and geometric representation theory and related topics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086950",
+          "author": null,
+          "description": "edited by R.A. Bailey, Peter J. Cameron, Yaokun Wu ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 491). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086950",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Groups and graphs, designs and dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086862",
+          "author": null,
+          "description": "芝田将著. -- 翔泳社, 2021.7. -- (Programmer's selection).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086862",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "実践Django : Pythonによる本格Webアプリケーション開発",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086857",
+          "author": null,
+          "description": "福島靖著. -- ダイヤモンド社, 2024.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086857",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "記憶に残る人になる : トップ営業がやっている本物の信頼を得る12のルール",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086849",
+          "author": null,
+          "description": "末安泰三著 ; 日経Linux編. -- 第2版. -- 日経BP.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086849",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Linuxカーネルの教科書 : 動かしながらゼロから学ぶ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086848",
+          "author": null,
+          "description": "米久保剛著. -- 翔泳社, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086848",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "アーキテクトの教科書 : 価値を生むソフトウェアのアーキテクチャ構築",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086833",
+          "author": null,
+          "description": "岩月猛泰著. -- 東京図書, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086833",
+          "publishedOn": "2024-09-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "研究者のための英語論文の書き方",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086868",
           "author": null,
           "description": "日本化学会編 ; 基礎編. -- 改訂6版. -- 丸善出版, 2021.1. -- 巻号等：基礎編<図書>",
