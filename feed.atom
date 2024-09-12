@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-12T00:53:49.970Z</updated>
+    <updated>2024-09-12T02:08:20.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【後期】利用相談・プログラム相談のサービス開始について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19418</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/12/202409_soudan-service/"/>
+        <updated>2024-09-12T01:13:19.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程より後期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]
+【後期】利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[化学便覧]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086868</id>
