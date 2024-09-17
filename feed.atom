@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-17T05:13:11.702Z</updated>
+    <updated>2024-09-17T06:15:35.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Web of Science・EndNote Online」の講習会のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19426</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/2024-web-of-science/"/>
+        <updated>2024-09-17T05:18:02.000Z</updated>
+        <summary type="html"><![CDATA[下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]
+「Web of Science・EndNote Online」の講習会のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【後期】利用相談・プログラム相談のサービス開始について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19418</id>
