@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19400",
+          "author": "yatsuko",
+          "description": "卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]\n卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/202409_graduation/",
+          "publishedOn": "2024-09-17T09:35:10.000Z",
+          "wordCount": 2170,
+          "title": "卒業後の総合メディアセンター各種サービスの扱いについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19426",
           "author": "katsumi",
           "description": "下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]\n「Web of Science・EndNote Online」の講習会のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/2024-web-of-science/",
           "publishedOn": "2024-09-17T05:18:02.000Z",
-          "wordCount": 2221,
+          "wordCount": 2229,
           "title": "「Web of Science・EndNote Online」の講習会のお知らせ",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-07-13T07:54:26.000Z",
           "wordCount": 2084,
           "title": "【復旧済】WebClassの障害について(7/13)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19241",
-          "author": "katsumi",
-          "description": "論文剽窃チェックツールである iThenticate を現行の iThenticate1.0 から 2.0 へアップデートいたします。このため、以下の期間中、サービスを一時停止させていただきます。ご不便をおかけいたしま […]\niThenticateのアップデートに伴うサービス一時停止のお知らせ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/07/10/ithenticate_2-0_update/",
-          "publishedOn": "2024-07-10T00:49:49.000Z",
-          "wordCount": 2117,
-          "title": "iThenticateのアップデートに伴うサービス一時停止のお知らせ",
           "imageUrl": null
         }
       ]

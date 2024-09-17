@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-17T09:12:02.780Z</updated>
+    <updated>2024-09-17T10:12:03.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19400</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/202409_graduation/"/>
+        <updated>2024-09-17T09:35:10.000Z</updated>
+        <summary type="html"><![CDATA[卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]
+卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Web of Science・EndNote Online」の講習会のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19426</id>
@@ -974,17 +985,6 @@ Microsoft 365 – OneDrive上限容量変更について first appeared on 総�
 【復旧済】WebClassの障害について(7/13) first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iThenticateのアップデートに伴うサービス一時停止のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19241</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/07/10/ithenticate_2-0_update/"/>
-        <updated>2024-07-10T00:49:49.000Z</updated>
-        <summary type="html"><![CDATA[論文剽窃チェックツールである iThenticate を現行の iThenticate1.0 から 2.0 へアップデートいたします。このため、以下の期間中、サービスを一時停止させていただきます。ご不便をおかけいたしま […]
-iThenticateのアップデートに伴うサービス一時停止のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
