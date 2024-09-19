@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19476",
+          "author": "yatsuko",
+          "description": "本日、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2024年9月19日(木)　14:20頃～15:35頃影　　響：埼玉鳩山キャンパス全体のインターネット […]\n【埼玉鳩山キャンパス】ネットワークの障害について（9/19） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/19/network-2-3/",
+          "publishedOn": "2024-09-19T07:46:13.000Z",
+          "wordCount": 2080,
+          "title": "【埼玉鳩山キャンパス】ネットワークの障害について（9/19）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19400",
           "author": "yatsuko",
           "description": "卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]\n卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/202409_graduation/",
           "publishedOn": "2024-09-17T09:35:10.000Z",
-          "wordCount": 2170,
+          "wordCount": 2178,
           "title": "卒業後の総合メディアセンター各種サービスの扱いについて",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-07-19T07:12:38.000Z",
           "wordCount": 2085,
           "title": "【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19257",
-          "author": "yatsuko",
-          "description": "本日（7/13（土））15:20～16:10頃、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございませ […]\n【復旧済】WebClassの障害について(7/13) first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/07/13/webclass-20240713/",
-          "publishedOn": "2024-07-13T07:54:26.000Z",
-          "wordCount": 2084,
-          "title": "【復旧済】WebClassの障害について(7/13)",
           "imageUrl": null
         }
       ]

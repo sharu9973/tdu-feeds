@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-19T07:11:26.231Z</updated>
+    <updated>2024-09-19T08:16:06.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【埼玉鳩山キャンパス】ネットワークの障害について（9/19）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19476</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/19/network-2-3/"/>
+        <updated>2024-09-19T07:46:13.000Z</updated>
+        <summary type="html"><![CDATA[本日、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2024年9月19日(木)　14:20頃～15:35頃影　　響：埼玉鳩山キャンパス全体のインターネット […]
+【埼玉鳩山キャンパス】ネットワークの障害について（9/19） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19400</id>
@@ -974,17 +985,6 @@ Microsoft 365 – OneDrive上限容量変更について first appeared on 総�
 【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19) first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>takahito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧済】WebClassの障害について(7/13)]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19257</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/07/13/webclass-20240713/"/>
-        <updated>2024-07-13T07:54:26.000Z</updated>
-        <summary type="html"><![CDATA[本日（7/13（土））15:20～16:10頃、WebClassの課題提出にて、ファイルをアップロードする際にエラーが発生し、課題提出が行えない障害が発生いたしました。大変ご迷惑をおかけいたしまして、誠に申し訳ございませ […]
-【復旧済】WebClassの障害について(7/13) first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
