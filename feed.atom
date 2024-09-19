@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-19T13:19:32.149Z</updated>
+    <updated>2024-09-19T14:10:45.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -37,6 +37,166 @@
 「Web of Science・EndNote Online」の講習会のお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界国勢図会 : 世界がわかるデータブック]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087009</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087009"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[矢野恒太記念会編集 ; 2024/25(第35版). -- 矢野恒太記念会, 2024.9. -- 巻号等：2024/25(第35版)<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鮮民衆の社会史 : 現代韓国の源流を探る]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087008</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087008"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[趙景達著. -- 岩波書店, 2024.8. -- (岩波新書 ; 新赤版 2030).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サステナビリティの経済哲学]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087007</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087007"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[松島斉著. -- 岩波書店, 2024.8. -- (岩波新書 ; 新赤版 2027).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介護格差]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087006</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087006"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[結城康博著. -- 岩波書店, 2024.8. -- (岩波新書 ; 新赤版 2028).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あいまいさに耐える : ネガティブ・リテラシーのすすめ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087005</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087005"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[佐藤卓己著. -- 岩波書店, 2024.8. -- (岩波新書 ; 新赤版 2026).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新自由主義と教育改革 : 大阪から問う]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087004</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087004"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高田一宏著. -- 岩波書店, 2024.8. -- (岩波新書 ; 新赤版 2029).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハンニバル戦争]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087003</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087003"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リウィウス [著] ; 砂田徹訳 ; 3. -- 京都大学学術出版会, 2024.8. -- (西洋古典叢書 . ローマ建国以来の歴史 ; 7). -- 巻号等：3<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会社四季報業界地図]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087002</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087002"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東洋経済新報社編 ; 2025年版. -- 東洋経済新報社, 2024.9. -- 巻号等：2025年版<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トラウマ : 「こころの傷」をどう癒やすか]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087001</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087001"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[杉山登志郎著. -- 講談社, 2024.8. -- (講談社現代新書 ; 2752).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめてのガロア : 数学が苦手でもわかる天才の発想]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087000</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087000"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金重明著. -- 講談社, 2024.8. -- (ブルーバックス ; B-2271).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰も知らない素数のふしぎ : オイラーからたどる未解決問題への挑戦]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086999</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086999"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小山信也著. -- 講談社, 2024.8. -- (ブルーバックス ; B-2270).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNAとはなんだろう : 「ほぼ正確」に遺伝情報をコピーする巧妙なからくり]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086998</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086998"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[武村政春著. -- 講談社, 2024.8. -- (ブルーバックス ; B-2269).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生きることは頼ること : 「自己責任」から「弱い責任」へ]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086997</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086997"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[戸谷洋志著. -- 講談社, 2024.8. -- (講談社現代新書 ; 2751).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Tuberを作ってみたら生成AIプログラミングがよくわかった件]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086867</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086867"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[阿部由延著. -- 日経BP.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonと大規模言語モデルで作るリアルタイムマルチモーダル対話システム]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086866</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086866"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東中竜一郎 [ほか] 著. -- 科学情報出版, 2024.6. -- (エンジニア入門シリーズ).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain完全入門 : 生成AIアプリケーション開発がはかどる大規模言語モデルの操り方]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086865</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20086865"/>
+        <updated>2024-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[田村悠著. -- インプレス, 2023.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
