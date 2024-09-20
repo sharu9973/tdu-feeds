@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19474",
+          "author": "yatsuko",
+          "description": "MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており、世界中の企業や研究機関において利用されています。加えて、多くの大学の講義や演習で用いられており、本学の学生や教職員は費用を負担 […]\nMATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/20/20240927_matlab_workshop/",
+          "publishedOn": "2024-09-20T06:14:56.000Z",
+          "wordCount": 2298,
+          "title": "MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19476",
           "author": "yatsuko",
           "description": "本日、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2024年9月19日(木)　14:20頃～15:35頃影　　響：埼玉鳩山キャンパス全体のインターネット […]\n【埼玉鳩山キャンパス】ネットワークの障害について（9/19） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/19/network-2-3/",
           "publishedOn": "2024-09-19T07:46:13.000Z",
-          "wordCount": 2080,
+          "wordCount": 2091,
           "title": "【埼玉鳩山キャンパス】ネットワークの障害について（9/19）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-07-25T13:30:28.000Z",
           "wordCount": 2222,
           "title": "プリントシステム停止のお知らせ（8/7～19）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19285",
-          "author": "takahito",
-          "description": "7/19（金）WindowsPCで突然、ブルースクリーンになったり、画面がフリーズして再起動を繰り返し起こす等の現象が発生しました。クラウドストライク社によって、現在は問題は修正されております。 WindowsPCが起動 […]\n【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19) first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/07/19/webclass-20240713-2/",
-          "publishedOn": "2024-07-19T07:12:38.000Z",
-          "wordCount": 2085,
-          "title": "【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19)",
           "imageUrl": null
         }
       ]

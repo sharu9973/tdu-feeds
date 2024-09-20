@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-09-20T05:11:35.502Z</updated>
+    <updated>2024-09-20T06:16:26.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19474</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/20/20240927_matlab_workshop/"/>
+        <updated>2024-09-20T06:14:56.000Z</updated>
+        <summary type="html"><![CDATA[MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており、世界中の企業や研究機関において利用されています。加えて、多くの大学の講義や演習で用いられており、本学の学生や教職員は費用を負担 […]
+MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【埼玉鳩山キャンパス】ネットワークの障害について（9/19）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19476</id>
@@ -1134,17 +1145,6 @@ Microsoft 365 – OneDrive上限容量変更について first appeared on 総�
 プリントシステム停止のお知らせ（8/7～19） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19)]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19285</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/07/19/webclass-20240713-2/"/>
-        <updated>2024-07-19T07:12:38.000Z</updated>
-        <summary type="html"><![CDATA[7/19（金）WindowsPCで突然、ブルースクリーンになったり、画面がフリーズして再起動を繰り返し起こす等の現象が発生しました。クラウドストライク社によって、現在は問題は修正されております。 WindowsPCが起動 […]
-【復旧済】Windows環境でブルースクリーン、再起動が起きる現象について(7/19) first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>takahito</name>
         </author>
     </entry>
 </feed>
