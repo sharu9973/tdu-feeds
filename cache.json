@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19450",
+          "author": "katsumi",
+          "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]\npaizaラーニング「無料クーポン」プレゼントについて（2024追加分） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/10/01/paiza-coupon-2024-2/",
+          "publishedOn": "2024-10-01T07:01:43.000Z",
+          "wordCount": 2127,
+          "title": "paizaラーニング「無料クーポン」プレゼントについて（2024追加分）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19474",
           "author": "yatsuko",
           "description": "MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており、世界中の企業や研究機関において利用されています。加えて、多くの大学の講義や演習で用いられており、本学の学生や教職員は費用を負担 […]\nMATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/20/20240927_matlab_workshop/",
           "publishedOn": "2024-09-20T06:14:56.000Z",
-          "wordCount": 2308,
+          "wordCount": 2316,
           "title": "MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-07-27T02:20:55.000Z",
           "wordCount": 2178,
           "title": "Microsoft 365 – OneDrive上限容量変更について",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19297",
-          "author": "yatsuko",
-          "description": "以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。 日時  […]\nプリントシステム停止のお知らせ（8/7～19） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/07/25/20240724_printsystem/",
-          "publishedOn": "2024-07-25T13:30:28.000Z",
-          "wordCount": 2232,
-          "title": "プリントシステム停止のお知らせ（8/7～19）",
           "imageUrl": null
         }
       ]

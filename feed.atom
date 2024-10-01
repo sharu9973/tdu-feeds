@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-10-01T06:17:41.270Z</updated>
+    <updated>2024-10-01T07:12:20.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[paizaラーニング「無料クーポン」プレゼントについて（2024追加分）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19450</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/10/01/paiza-coupon-2024-2/"/>
+        <updated>2024-10-01T07:01:43.000Z</updated>
+        <summary type="html"><![CDATA[学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]
+paizaラーニング「無料クーポン」プレゼントについて（2024追加分） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19474</id>
@@ -1132,17 +1143,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB24-57）に関する注意喚起 
         <updated>2024-07-27T02:20:55.000Z</updated>
         <summary type="html"><![CDATA[マイクロソフト社の方針変更に伴い、2024年8月1日より本学全体で使用できるストレージの総容量に制限が課せられます。Microsoftアカウントで利用できるOneDriveの最大保存容量についても、今まで保存容量に変化の […]
 Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリントシステム停止のお知らせ（8/7～19）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19297</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/07/25/20240724_printsystem/"/>
-        <updated>2024-07-25T13:30:28.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。 日時  […]
-プリントシステム停止のお知らせ（8/7～19） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
