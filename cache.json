@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19542",
+          "author": "小此木俊宏",
+          "description": "以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス中は蔵書検索（WebOPAC）の利用が停止します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日時：令和6年10月31日（木）18：30 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（10/31） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/10/01/opacmaintenance-20241031/",
+          "publishedOn": "2024-10-01T07:57:27.000Z",
+          "wordCount": 2086,
+          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（10/31）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19450",
           "author": "katsumi",
           "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]\npaizaラーニング「無料クーポン」プレゼントについて（2024追加分） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/10/01/paiza-coupon-2024-2/",
           "publishedOn": "2024-10-01T07:01:43.000Z",
-          "wordCount": 2127,
+          "wordCount": 2135,
           "title": "paizaラーニング「無料クーポン」プレゼントについて（2024追加分）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-08-02T00:04:45.000Z",
           "wordCount": 2113,
           "title": "学内VPNメンテナンス作業のお知らせ（8/5）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19271",
-          "author": "yatsuko",
-          "description": "マイクロソフト社の方針変更に伴い、2024年8月1日より本学全体で使用できるストレージの総容量に制限が課せられます。Microsoftアカウントで利用できるOneDriveの最大保存容量についても、今まで保存容量に変化の […]\nMicrosoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/07/27/20240727_microsoft365_onedrive/",
-          "publishedOn": "2024-07-27T02:20:55.000Z",
-          "wordCount": 2178,
-          "title": "Microsoft 365 – OneDrive上限容量変更について",
           "imageUrl": null
         }
       ]
