@@ -129,6 +129,1193 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "新着案内",
+      "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
+      "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
+      "articles": [
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087141",
+          "author": null,
+          "description": "Anthony Iarrobino ... [et al.], editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 805). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087141",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Deformation of Artinian algebras and Jordan type : AMS-EMS-SMF Special Session, Deformation of Artinian Algebras and Jordan Type, July 18-22, 2022, Université Grenoble Alpes, Grenoble, France",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087066",
+          "author": null,
+          "description": "結城浩著. -- SBクリエイティブ, 2024.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087066",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "群論への第一歩 : 集合、写像から準同型定理まで : 数学への第一歩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087065",
+          "author": null,
+          "description": "坂本俊之著. -- C&R研究所, 2022.1.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087065",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "作ってわかる!自然言語処理AI : BERT・GPT2・NLPプログラミング入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087062",
+          "author": null,
+          "description": "荒木雅弘著. -- 講談社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087062",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "プログラミング新作法 : これからプログラムを書く人のために",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087058",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 10).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087058",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "固有値問題30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087057",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 9).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087057",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ルベーグ積分30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087056",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 8).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087056",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "群論への30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087055",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 7).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087055",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ベクトル解析30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087054",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 6).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087054",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "複素数30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087053",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 5).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087053",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "解析入門30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087052",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 4).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087052",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "位相への30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087051",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 3).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087051",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "集合への30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087050",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087050",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "線形代数30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087049",
+          "author": null,
+          "description": "志賀浩二著. -- 新装改版. -- 朝倉書店, 2024.9. -- (数学30講シリーズ ; 1).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087049",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "微分・積分30講",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087048",
+          "author": null,
+          "description": "伊藤昇著. -- 日本評論社, 2018.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087048",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "結び目理論の圏論 : 「結び目」のほどき方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087047",
+          "author": null,
+          "description": "ジューディア・パール, ダナ・マッケンジー著 ; 夏目大訳. -- 文藝春秋, 2022.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087047",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "因果推論の科学 : 「なぜ?」の問いにどう答えるか",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087046",
+          "author": null,
+          "description": "スクウェア・エニックス著. -- ボーンデジタル, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087046",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "スクウェア・エニックスのAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087044",
+          "author": null,
+          "description": "結城浩著. -- 第3版. -- SBクリエイティブ, 2021.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087044",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Java言語で学ぶデザインパターン入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087043",
+          "author": null,
+          "description": "TAC知的財産管理技能検定講座編著 ; 2024-2025年版. -- 早稲田経営出版, 2024.9. -- 巻号等：2024-2025年版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087043",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "知的財産管理技能検定3級実技スピード問題集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087042",
+          "author": null,
+          "description": "TAC知的財産管理技能検定講座編著 ; 2024-2025年版. -- 早稲田経営出版, 2024.9. -- 巻号等：2024-2025年版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087042",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "知的財産管理技能検定3級学科スピード問題集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087036",
+          "author": null,
+          "description": "栗山幸助 [ほか] 共著. -- 改訂2版. -- エムディエヌコーポレーション.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087036",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "HTML+CSS標準入門 : 初心者からちゃんとしたプロになる",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087035",
+          "author": null,
+          "description": "ミック著. -- 技術評論社, 2024.9. -- (Web+DB pressプラスシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087035",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "SQL緊急救命室 : 非効率なコードを改善せよ!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087034",
+          "author": null,
+          "description": "水本郁朗, 佐藤昌之編著 ; 佐藤孝雄, 高橋将徳, 大塚弘文著. -- 朝倉書店, 2024.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087034",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "制御工学基礎 : フィードバック制御系設計に向けて",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087033",
+          "author": null,
+          "description": "島谷幸宏 [ほか] 編. -- 朝倉書店, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087033",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "図説河川災害と復興 : 自然環境の再生と持続社会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087031",
+          "author": null,
+          "description": "馬場敬之著. -- 改訂11. -- マセマ出版社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087031",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "スバラシク実力がつくと評判の常微分方程式キャンパス・ゼミ : 大学の数学がこんなに分かる!単位なんて楽に取れる!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087030",
+          "author": null,
+          "description": "クジラ飛行机著. -- 第2版. -- マイナビ出版, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087030",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "実践力を身につけるPythonの教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087029",
+          "author": null,
+          "description": "酒匂寛著. -- 日経BP.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087029",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "上流から下流まで生成AIが変革するシステム開発",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087028",
+          "author": null,
+          "description": "谷口研二著. -- コロナ社, 2024.9. -- (シリーズ基礎から学ぶスイッチング電源回路とその応用 ; 第3巻).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087028",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "基礎から学ぶ制御工学と基本コンバータ回路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087027",
+          "author": null,
+          "description": "久門尚史著. -- 数理工学社. -- (電気・電子工学テキストライブラリ ; USE-A1).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087027",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電気電子工学入門 : 電磁気現象の理解から機能の実現へ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087026",
+          "author": null,
+          "description": "橋爪秀利著. -- 増補第2版. -- 共立出版, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087026",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "工学系学生のための数学物理学演習",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087022",
+          "author": null,
+          "description": "山田育矢監修・著 ; 鈴木正敏 [ほか] 著. -- 技術評論社, 2024.9. -- (大規模言語モデル入門 ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087022",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "生成型LLMの実装と評価",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087021",
+          "author": null,
+          "description": "曽我部東馬著. -- 科学情報出版, 2024.8. -- (エンジニア入門シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087021",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonではじめる量子AI入門 : 量子機械学習から量子回路自動設計まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087020",
+          "author": null,
+          "description": "藤原弘将 [ほか] 共著. -- オーム社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087020",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "今日から使えるファインチューニングレシピ : AI・機械学習の技術と実用をつなぐ基本テクニック",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087019",
+          "author": null,
+          "description": "松本直司編著 ; 櫻木耕史 [ほか] 共著. -- 改訂版. -- 理工図書, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087019",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "建築計画学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087018",
+          "author": null,
+          "description": "山本学, 山田浩也, 山口順也著. -- インプレス, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087018",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Azureネットワーク設計・構築入門 : 基礎知識から利用シナリオ、設計・運用ベストプラクティスまで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087016",
+          "author": null,
+          "description": "TEX加藤著. -- 朝日新聞出版, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087016",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "TOEIC L&R TEST出る問超特急金の読解 : 新形式対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087015",
+          "author": null,
+          "description": "掌田津耶乃著. -- 秀和システム, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087015",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ChatGPTで学ぶNode.js&Webアプリ開発",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087014",
+          "author": null,
+          "description": "山本浩平, 下重博資, 板倉悠太著. -- 技術評論社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087014",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Rubyコードレシピ集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087011",
+          "author": null,
+          "description": "平川和貴著. -- コロナ社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087011",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "初歩から学ぶ無機化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087010",
+          "author": null,
+          "description": "松浦壮著. -- 日本能率協会マネジメントセンター, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087010",
+          "publishedOn": "2024-10-17T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "初学の編集者がわかるまで書き直した基礎から鍛える量子力学 : 基本の数理から現実の物理まで一歩一歩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087122",
+          "author": null,
+          "description": "三野博司著. -- 岩波書店, 2024.9. -- (岩波新書 ; 新赤版 2035).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087122",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "アルベール・カミュ : 生きることへの愛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087121",
+          "author": null,
+          "description": "村井純著. -- 岩波書店, 2024.9. -- (岩波新書 ; 新赤版 2031).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087121",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "インターネット文明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087120",
+          "author": null,
+          "description": "山田圭一著. -- 岩波書店, 2024.9. -- (岩波新書 ; 新赤版 2033).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087120",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "フェイクニュースを哲学する : 何を信じるべきか",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087119",
+          "author": null,
+          "description": "柴田直治著. -- 岩波書店, 2024.9. -- (岩波新書 ; 新赤版 2032).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087119",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ルポフィリピンの民主主義 : ピープルパワー革命からの40年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087118",
+          "author": null,
+          "description": "今井むつみ著. -- 岩波書店, 2024.9. -- (岩波新書 ; 新赤版 2034).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087118",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "学力喪失 : 認知科学による回復への道筋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087117",
+          "author": null,
+          "description": "スタティウス [著] ; 山田哲子訳 ; 1. -- 京都大学学術出版会, 2024.9. -- (西洋古典叢書). -- 巻号等：1<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087117",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "テーバイ物語",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087116",
+          "author": null,
+          "description": "山本謙三著. -- 講談社, 2024.9. -- (講談社現代新書 ; 2753).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087116",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "異次元緩和の罪と罰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087115",
+          "author": null,
+          "description": "山之内正著. -- 講談社, 2024.9. -- (ブルーバックス ; B-2272).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087115",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ネットオーディオのすすめ : 高音質定額制配信を楽しもう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087114",
+          "author": null,
+          "description": "坪井貴司著. -- 講談社, 2024.9. -- (ブルーバックス ; B-2273).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087114",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "「腸と脳」の科学 : 脳と体を整える、腸の知られざるはたらき",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087113",
+          "author": null,
+          "description": "布施祐仁著. -- 講談社, 2024.9. -- (講談社現代新書 ; 2754).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087113",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "従属の代償 : 日米軍事一体化の真実",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087112",
+          "author": null,
+          "description": "久坂部羊著. -- 講談社, 2024.9. -- (講談社現代新書 ; 2755).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087112",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "人はどう悩むのか",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087059",
+          "author": null,
+          "description": "クリス・リスドン, パトリック・クワットルバウム著 ; ソシオメディア株式会社訳. -- 東京電機大学出版局, 2024.9. -- (デザインマネジメントシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087059",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "エクスペリエンス・オーケストレーション : 複雑な環境下における共創デザインのためのメソッドとワークショップ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086996",
+          "author": null,
+          "description": "時事通信出版局編集 ; ['26年度]. -- 時事通信出版局. -- (教員採用試験twin books完成シリーズ ; 4). -- 巻号等：['26年度]<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086996",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "一般教養の演習問題 : 教員採用試験",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086989",
+          "author": null,
+          "description": "ミック著. -- 第2版. -- 翔泳社, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086989",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "達人に学ぶDB設計徹底指南書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086988",
+          "author": null,
+          "description": "日本分析化学会ガスクロマトグラフィー研究懇談会編 ; 分離・検出編. -- 第2版. -- 丸善出版, 2024.8. -- 巻号等：分離・検出編<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086988",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ガスクロ自由自在Q&A",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086987",
+          "author": null,
+          "description": "日本分析化学会ガスクロマトグラフィー研究懇談会編 ; 準備・試料導入編. -- 第2版. -- 丸善出版, 2024.8. -- 巻号等：準備・試料導入編<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086987",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ガスクロ自由自在Q&A",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086986",
+          "author": null,
+          "description": "上本道久著. -- 丸善出版, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086986",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "分析化学の基本操作 : 器具選び・試料処理・データ整理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086985",
+          "author": null,
+          "description": "阿部龍蔵 [ほか] 共著. -- 新訂第2版. -- サイエンス社, 2024.8. -- (新物理学ライブラリ ; 1).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086985",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "物理学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086977",
+          "author": null,
+          "description": "林隆史 [ほか] 著. -- 近代科学社Digital.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086977",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Textbook情報セキュリティ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086975",
+          "author": null,
+          "description": "佐々木葉著. -- 改訂2版. -- オーム社, 2024.8. -- (ゼロから学ぶ土木の基本).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086975",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "景観とデザイン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086974",
+          "author": null,
+          "description": "長谷川啓三, 佐藤宏平, 花田里欧子編 ; 中学校・高等学校編. -- 第4版. -- 遠見書房, 2024.8. -- 巻号等：中学校・高等学校編<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086974",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "事例で学ぶ生徒指導・進路指導・教育相談",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086973",
+          "author": null,
+          "description": "安藤直見 [ほか] 著. -- 第2版. -- 丸善出版, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086973",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "建築のカタチ : 3Dモデリングで学ぶ建築の構成と図面表現 : SketchUpとRevitでつくる建築のカタチ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086971",
+          "author": null,
+          "description": "牧島一夫著. -- 東京大学出版会, 2024.4. -- (目からウロコの物理学 ; 3).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086971",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "相対論",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086969",
+          "author": null,
+          "description": "牧島一夫著. -- 東京大学出版会, 2022.1. -- (目からウロコの物理学 ; 1).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086969",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "力学・電磁気学・熱力学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086940",
+          "author": null,
+          "description": "ミック, 木村明治著. -- 第2版. -- 翔泳社, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086940",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "おうちで学べるデータベースのきほん",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086939",
+          "author": null,
+          "description": "近藤弘一著. -- 数理工学社. -- (電気・電子工学テキストライブラリ ; USE-A5).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086939",
+          "publishedOn": "2024-10-10T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電気電子数学基礎 : ベクトル幾何・解析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087090",
+          "author": null,
+          "description": "David Foster著 ; 松田晃一, 小沼千絵訳. -- 第2版. -- オライリー・ジャパン.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087090",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "生成deep learning : 絵を描き、物語や音楽を作り、ゲームをプレイする",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087085",
+          "author": null,
+          "description": "2025年版. -- 東洋経済新報社, 2024.10. -- (東洋経済別冊 ; 臨時増刊). -- 巻号等：2025年版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087085",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "会社四季報 : 未上場会社版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087084",
+          "author": null,
+          "description": "edited by Nelu Grinberg and Peter W. Carr ; v. 60 : hbk. -- CRC Press, 2025. -- 巻号等：v. 60 : hbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087084",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Advances in chromatography",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086995",
+          "author": null,
+          "description": "時事通信出版局編集 ; ['26年度]. -- 時事通信出版局. -- (教員採用試験twin books完成シリーズ ; 3). -- 巻号等：['26年度]<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086995",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "一般教養の要点理解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086994",
+          "author": null,
+          "description": "時事通信出版局編集 ; ['26年度]. -- 時事通信出版局. -- (教員採用試験twin books完成シリーズ ; 2). -- 巻号等：['26年度]<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086994",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "教職教養の演習問題",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086993",
+          "author": null,
+          "description": "時事通信出版局編集 ; ['26年度]. -- 時事通信出版局. -- (教員採用試験twin books完成シリーズ ; 1). -- 巻号等：['26年度]<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086993",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "教職教養の要点理解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086992",
+          "author": null,
+          "description": "高橋祥子著. -- 日本文芸社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086992",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "図解眠れなくなるほど面白い生命科学の話",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086991",
+          "author": null,
+          "description": "谷川寛著. -- 工学社, 2024.8. -- (I/O books).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086991",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電子工作で学ぶ論理回路入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086990",
+          "author": null,
+          "description": "西村広光著. -- 技術評論社, 2024.9. -- (新・標準プログラマーズライブラリ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086990",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "C言語プログラミングの初歩の初歩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086984",
+          "author": null,
+          "description": "大滝みや子著. -- 改訂新版. -- 技術評論社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086984",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "基本情報技術者「科目B」アルゴリズム×擬似言語トレーニングブック",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086983",
+          "author": null,
+          "description": "ヤン ジャクリン著. -- 第2版. -- SBクリエイティブ, 2024.9. -- (まっすぐ合格).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086983",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ディープラーニングG検定<ジェネラリスト>最強の合格問題集 : 究極の332問+模試2回(PDF)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086982",
+          "author": null,
+          "description": "増田幹男著. -- ソシム, 2024.9. -- (Enjoy design).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086982",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Adobe Express使い方入門 : how to use express",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086981",
+          "author": null,
+          "description": "Generative AI編集部著. -- SBクリエイティブ, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086981",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "画像生成AIメイキングテクニックガイド",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086980",
+          "author": null,
+          "description": "富士通ラーニングメディア著制作. -- FOM出版, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086980",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "よくわかるJavaScript入門 : はじめてでもつまずかないJavaScriptプログラミング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086979",
+          "author": null,
+          "description": "本郷喜千著. -- スタンダーズ・プレス, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086979",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "はじめてのGPTsのつくりかた : ChatGPT誰でも1時間でできる! : オリジナルAIアプリをつくって、面倒な仕事を任せよう! : プログラミング不要!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086978",
+          "author": null,
+          "description": "掌田津耶乃著. -- ラトルズ, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086978",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Python in Excelではじめるデータ分析入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086976",
+          "author": null,
+          "description": "佐藤竜馬著. -- 技術評論社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086976",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "深層ニューラルネットワークの高速化 = Accelerating deep neural networks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086972",
+          "author": null,
+          "description": "野溝のみぞう著. -- 翔泳社, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086972",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "7日間でハッキングをはじめる本 : TryHackMeを使って身体で覚える攻撃手法と脆弱性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086970",
+          "author": null,
+          "description": "牧島一夫著. -- 東京大学出版会, 2024.4. -- (目からウロコの物理学 ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086970",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "フーリエ解析・量子力学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086968",
+          "author": null,
+          "description": "島田明著. -- コロナ社, 2021.10. -- (計測・制御セレクションシリーズ / 計測自動制御学会編 ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086968",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "外乱オブザーバ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086949",
+          "author": null,
+          "description": "柏岡秀男著. -- 改訂2版. -- エムディエヌコーポレーション.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086949",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "PHP基礎入門 : 初心者からちゃんとしたプロになる",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086948",
+          "author": null,
+          "description": "阿部信行著. -- 技術評論社, 2024.9.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086948",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "After Effectsパーフェクトガイド",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086947",
+          "author": null,
+          "description": "吉田拓真, 尾原颯著. -- 第2版. -- 翔泳社, 2024.8. -- (AI & Technology).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086947",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "現場で使える!NumPyデータ処理入門 : 機械学習・データサイエンスで役立つ高速処理手法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086946",
+          "author": null,
+          "description": "Aleksander Molak著 ; クイープ訳. -- インプレス, 2024.8. -- (Impress top gear).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086946",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonライブラリによる因果推論・因果探索「概念と実践」 : 因果機械学習の鍵を解く",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086945",
+          "author": null,
+          "description": "村山公保著. -- 第4版. -- オーム社, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086945",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "基礎からわかるTCP/IPネットワークコンピューティング入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086944",
+          "author": null,
+          "description": "TAC株式会社(情報処理講座)編著 ; 2025年度版. -- TAC株式会社出版事業部, 2024.8. -- (情報処理技術者試験). -- 巻号等：2025年度版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086944",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ネットワークスペシャリスト : all in oneパーフェクトマスター : NW",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086943",
+          "author": null,
+          "description": "瀬戸美月著 ; 令和7年度(2025年度). -- インプレス, 2024.9. -- (徹底攻略). -- 巻号等：令和7年度(2025年度)<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086943",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ネットワークスペシャリスト教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086942",
+          "author": null,
+          "description": "草野あけみ著. -- 改訂2版. -- エムディエヌコーポレーション.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086942",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "HTML+CSSコーディングの強化書 : プロの「引き出し」を増やす",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086941",
+          "author": null,
+          "description": "ダン・モール著 ; 高崎拓哉翻訳. -- ビー・エヌ・エヌ, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086941",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "デザインシステムの育て方 : 継続的な進化と改善のためのアプローチ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086938",
+          "author": null,
+          "description": "春日井敏之, 山岡雅博編著. -- 第2版. -- ミネルヴァ書房, 2024.8. -- (新しい教職教育講座 / 原清治 [ほか] 監修 ; 教職教育編11).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086938",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "生徒指導・進路指導",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086937",
+          "author": null,
+          "description": "金光秀和, 吉永明弘編. -- 昭和堂, 2024.9. -- (3STEPシリーズ ; 7).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086937",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "技術哲学 = Philosophy of Technology",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086935",
+          "author": null,
+          "description": "資格試験研究会編 ; 丸山大介執筆. -- 実務教育出版, 2023.1. -- (技術系新スーパー過去問ゼミ : 公務員試験).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086935",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "電気・電子・デジタル",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086932",
+          "author": null,
+          "description": "小守良雄著. -- 近代科学社Digital.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086932",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "MATLABで学ぶ物理現象の数値シミュレーション",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086930",
+          "author": null,
+          "description": "オーム社, 2023.11. -- (電気通信主任技術者試験全問題解答集 ; 23〜24年版共通編).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086930",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "伝送交換主任技術者線路主任技術者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086929",
+          "author": null,
+          "description": "溝上慎一著. -- 東信堂, 2023.7. -- (学びと成長の講話シリーズ ; 第4巻).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086929",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "インサイドアウト思考 : 創造的思考から個性的な学習・ライフの構築へ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086925",
+          "author": null,
+          "description": "デザインノート編集部編. -- 誠文堂新光社, 2022.5. -- (Designer's collection).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086925",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "究極のロゴデザイン : 精鋭クリエイティブディレクター、アートディレクターの思考と表現から学ぶ。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086903",
+          "author": null,
+          "description": "中井俊樹, 西野毅朗編著 ; 佐藤浩章, 竹中喜一, 上月翔太著. -- ナカニシヤ出版, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086903",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "大学FD入門 : 教育改善に取り組む人の必携ガイド",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086869",
+          "author": null,
+          "description": "東京大学工学教程編纂委員会編 ; 宮山勝 [ほか] 著. -- 丸善出版, 2024.7. -- (東京大学工学教程 / 東京大学工学教程編纂委員会編 . 基礎系化学 . 無機化学 = Inorganic chemistry ; 3).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086869",
+          "publishedOn": "2024-10-03T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "無機材料の構造と物性 = Structure and properties of inorganic materials",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087041",
+          "author": null,
+          "description": "2024年4集:秋号. -- 東洋経済新報社, 2024.10. -- 巻号等：2024年4集:秋号<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087041",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "会社四季報",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087040",
+          "author": null,
+          "description": "Huayi Chen, Atsushi Moriwaki. -- Birkhäuser, c2024. -- (Progress in mathematics ; v. 355).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087040",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Positivity in Arakelov geometry over Adelic curves : Hilbert-Samuel formula and equidistribution theorem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087039",
+          "author": null,
+          "description": "Christine Berkesch ... [et al.], editors ; : pbk. -- American Mathematical Society, c2024. -- (Proceedings of symposia in pure mathematics ; v. 110). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087039",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Open problems in algebraic combinatorics : Conference Open Problems in Algebraic Combinatorics, May 16-22, 2022, University of Minnesota, Twin Cities Minneapolis, Minnesota",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087038",
+          "author": null,
+          "description": "Mahir Bilen Can, Jörg Feldvoss, editors ; : pbk. -- American Mathematical Society, c2024. -- (Contemporary mathematics ; 804). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087038",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "A glimpse into geometric representation theory : virtual AMS special session Combinatorial and Geometric Representation Theory, November 20-21, 2021",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087037",
+          "author": null,
+          "description": "edited by Felix Fischer, Robert Johnson ; : pbk. -- Cambridge University Press, 2024. -- (London Mathematical Society lecture note series ; 493). -- 巻号等：: pbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087037",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Surveys in combinatorics 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086936",
+          "author": null,
+          "description": "原隆著. -- 裳華房, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086936",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "手を動かしてまなぶ群論",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086934",
+          "author": null,
+          "description": "中島能和著. -- 翔泳社, 2020.11. -- (Linux教科書)(Exam press).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086934",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "LinuCレベル2 : Version10.0対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086928",
+          "author": null,
+          "description": "稲永由紀著. -- 東信堂, 2024.2.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086928",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "日本の大学と地域社会との相関システムの形成 : その葛藤と調整",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086926",
+          "author": null,
+          "description": "ドン・ノーマン著 ; 安村通晃, 伊賀聡一郎, 岡本明訳. -- 新曜社, 2023.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086926",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "より良い世界のためのデザイン : 意味、持続可能性、人間性中心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086909",
+          "author": null,
+          "description": "河合晃監修. -- 普及版. -- シーエムシー出版, 2024.8. -- (CMCテクニカルライブラリー ; 840 . エレクトロニクスシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086909",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "最新フォトレジスト材料開発とプロセス最適化技術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086895",
+          "author": null,
+          "description": "森本茂雄, 真田雅之著. -- 改訂版. -- 科学情報出版, 2024.7. -- (設計技術シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086895",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "省エネモータの原理と設計法 : 永久磁石同期モータの基礎から設計・制御まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086874",
+          "author": null,
+          "description": "市川真樹著. -- ソシム, 2024.8.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086874",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "プレゼン資料改善術 : 資料作成研修講師が教える",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086871",
+          "author": null,
+          "description": "友納正裕著. -- 改訂2版. -- オーム社, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086871",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "SLAM入門 : ロボットの自己位置推定と地図構築の技術",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086870",
+          "author": null,
+          "description": "日本学術振興会R025先進薄膜界面機能創成委員会編集企画 ; 田畑仁, 吉田貞史, 近藤高志編著. -- 第4版. -- 丸善出版, 2024.7.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20086870",
+          "publishedOn": "2024-09-30T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "薄膜工学",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
