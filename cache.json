@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19711",
+          "author": "yatsuko",
+          "description": "Adobe Express は、Webブラウザやスマートフォンアプリで利用できるデザインツールです。テキストからの画像を生成できる生成AI「Adobe Firefly」の利用も可能です。 　illustratorや、P […]\n手軽にアドビ！Adobe Express/生成AI 紹介セミナー～Adobe MAX 最新情報～（11/25 オンライン開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/11/14/20241125_adobe_ex/",
+          "publishedOn": "2024-11-14T08:18:23.000Z",
+          "wordCount": 1248,
+          "title": "手軽にアドビ！Adobe Express/生成AI 紹介セミナー～Adobe MAX 最新情報～（11/25 オンライン開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19709",
           "author": "yatsuko",
           "description": "MATLAB & Simulink は世界中の教育機関、産業界や研究所等で幅広く利用されている科学技術計算、シミュレーションおよび実装用ソフトウェアです。本学では、MATLAB Campus-Wide Lice […]\nMATLAB＆Simulink　体験ワークショップ（鳩山・千住同時開催）のお知らせ（12/10） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/11/14/20241210_matlab_ws/",
           "publishedOn": "2024-11-14T03:22:36.000Z",
-          "wordCount": 1227,
+          "wordCount": 1233,
           "title": "MATLAB＆Simulink　体験ワークショップ（鳩山・千住同時開催）のお知らせ（12/10）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-09-17T09:35:10.000Z",
           "wordCount": 1204,
           "title": "卒業後の総合メディアセンター各種サービスの扱いについて",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19426",
-          "author": "katsumi",
-          "description": "下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]\n「Web of Science・EndNote Online」の講習会のお知らせ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/09/17/2024-web-of-science/",
-          "publishedOn": "2024-09-17T05:18:02.000Z",
-          "wordCount": 1205,
-          "title": "「Web of Science・EndNote Online」の講習会のお知らせ",
           "imageUrl": null
         }
       ]
