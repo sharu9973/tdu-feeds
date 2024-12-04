@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-12-04T04:15:37.775Z</updated>
+    <updated>2024-12-04T05:12:52.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【復旧】ネットワークの障害について（12/4）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19794</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/12/04/network-241204/"/>
+        <updated>2024-12-04T04:49:16.000Z</updated>
+        <summary type="html"><![CDATA[本日、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2024年12月4日(水)　9:20頃～11:30頃影　　響：キャンパス全体のインターネット接続障害原 […]
+【復旧】ネットワークの障害について（12/4） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lectures on differential geometry]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087263</id>
@@ -1003,17 +1014,6 @@ MATLAB＆Simulink　体験ワークショップ（鳩山・千住同時開催）
 paizaラーニング「無料クーポン」プレゼントについて（2024追加分） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19474</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/09/20/20240927_matlab_workshop/"/>
-        <updated>2024-09-20T06:14:56.000Z</updated>
-        <summary type="html"><![CDATA[MATLABは，エンジニア及び科学者が問題の本質に集中するための優れた計算環境を備えており、世界中の企業や研究機関において利用されています。加えて、多くの大学の講義や演習で用いられており、本学の学生や教職員は費用を負担 […]
-MATLAB入門ワークショップ「MATLAB ON RAMP Party」のお知らせ（9/27開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
