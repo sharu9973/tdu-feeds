@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2024-12-08T13:19:48.502Z</updated>
+    <updated>2024-12-08T14:11:05.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -15,6 +15,116 @@
 【復旧】ネットワークの障害について（12/4） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝日キーワード就職 : 最新時事用語&一般常識]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087277</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087277"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[朝日新聞出版編 ; 2026. -- 朝日新聞出版, 2024.11. -- 巻号等：2026<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coulomb interactions in particle beams]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087276</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087276"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guus Jansen ; edited by Martin Hÿtch, Peter W. Hawkes. -- Academic Press, an imprint of Elsevier, [2024]. -- (Advances in imaging and electron physics ; volume 230).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミトコンドリアトレーニング : 筋肉中心で考えるトレーニングサイエンス]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087193</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087193"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[八田秀雄編著. -- 市村出版, 2024.5.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスタリングAPIアーキテクチャ : モノリシックからマイクロサービスへとアーキテクチャを進化させるための実践的手法]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087186</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087186"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[James Gough, Daniel Bryant, Matthew Auburn著 ; 石川朝久訳. -- オライリー・ジャパン.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絵で見てわかるLinuxカーネルの仕組み]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087177</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087177"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[市川正美 [ほか] 著. -- 翔泳社, 2024.10.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityゲームプログラミング・バイブル : ゲームの開発現場で即実践できるスキルが身につく]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087176</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087176"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[森哲哉 [ほか] 著. -- 2nd generation. -- ボーンデジタル, 2021.6.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬渕磨理子の金融・経済ノート]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087175</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087175"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[馬渕磨理子著. -- 東急エージェンシー, 2024.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土木職公務員試験専門問題と解答]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087172</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087172"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米田昌弘著 ; 必修科目編. -- 第7版. -- 大学教育出版, 2024.10. -- 巻号等：必修科目編<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[植物の生態 : 生理機能を中心に]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087170</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087170"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寺島一郎著. -- 改訂版. -- 裳華房, 2024.10. -- (新・生命科学シリーズ / 太田次郎 [ほか] 編).<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たった2日でマスターできるiPhoneアプリ開発集中講座 : 2024-2025 SwiftUI対応 : Xcode 16|iOS 18|Swift 6.0|対応]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087124</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087124"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[藤治仁, 小林加奈子, 小林由憲著. -- ソシム, 2024.11.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定本OPアンプ回路の設計 : 再現性を重視した設計の基礎から応用まで]]></title>
+        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20003399</id>
+        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20003399"/>
+        <updated>2024-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岡村廸夫著. -- CQ出版, 1990.9.<図書>]]></summary>
+        <author>
+            <name>新着案内</name>
         </author>
     </entry>
     <entry>
