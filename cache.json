@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19821",
+          "author": "katsumi",
+          "description": "冬季休業期間中、以下の日程で窓口業務を停止いたします。また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、１月６日（月）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申 […]\n冬季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/12/25/2024_2025_service/",
+          "publishedOn": "2024-12-24T23:48:05.000Z",
+          "wordCount": 1146,
+          "title": "冬季休業期間中の窓口停止・各種申請の取扱いについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19794",
           "author": "yatsuko",
           "description": "本日、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2024年12月4日(水)　9:20頃～11:30頃影　　響：キャンパス全体のインターネット接続障害原 […]\n【復旧】ネットワークの障害について（12/4） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/12/04/network-241204/",
           "publishedOn": "2024-12-04T04:49:16.000Z",
-          "wordCount": 1130,
+          "wordCount": 1131,
           "title": "【復旧】ネットワークの障害について（12/4）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2024-10-01T07:57:27.000Z",
           "wordCount": 1126,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（10/31）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19450",
-          "author": "katsumi",
-          "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、P […]\npaizaラーニング「無料クーポン」プレゼントについて（2024追加分） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2024/10/01/paiza-coupon-2024-2/",
-          "publishedOn": "2024-10-01T07:01:43.000Z",
-          "wordCount": 1144,
-          "title": "paizaラーニング「無料クーポン」プレゼントについて（2024追加分）",
           "imageUrl": null
         }
       ]
