@@ -106,6 +106,196 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087361",
+          "author": null,
+          "description": "Galina Filipuk, editor ; : paperback. -- American Mathematical Society, [2024]. -- (Contemporary mathematics ; 807). -- 巻号等：: paperback<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087361",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Recent progress in special functions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087275",
+          "author": null,
+          "description": "角谷一成著 ; イエローテールコンピュータ編著 ; 令和07年. -- 技術評論社, 2024.12. -- 巻号等：令和07年<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087275",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "基本情報技術者合格教本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087273",
+          "author": null,
+          "description": "上原孝之著 ; 2025年版. -- 翔泳社, 2024.11. -- (情報処理教科書)(Exam press . 情報処理技術者試験学習書). -- 巻号等：2025年版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087273",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "情報処理安全確保支援士 : うかる! : 対応試験SC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087272",
+          "author": null,
+          "description": "五十嵐聡著 ; 令和07年「上期」. -- 技術評論社, 2024.12. -- 巻号等：令和07年「上期」<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087272",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ITパスポートパーフェクトラーニング過去問題集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087271",
+          "author": null,
+          "description": "藤沼知久著. -- 日刊工業新聞社, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087271",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "3次元設計手順の課題解決と3DAモデル・DTPDによるものづくり現場活用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087270",
+          "author": null,
+          "description": "石津優子, 堀川淳一郎著. -- 改訂第3版. -- ビー・エヌ・エヌ, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087270",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Parametric Design with Grasshopper : 建築/プロダクトのための、Grasshopperクックブック",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087269",
+          "author": null,
+          "description": "Civilユーザ会著. -- 第2版. -- 日経BP, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087269",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "土木技術者のためのRevit入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087268",
+          "author": null,
+          "description": "David Drysdale著 ; 中田秀基訳. -- オライリー・ジャパン, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087268",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Effective Rust : Rustコードを改善し、エコシステムを最大限に活用するための35項目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087267",
+          "author": null,
+          "description": "Aurélien Géron著 ; 長尾高弘訳. -- 第3版. -- オライリー・ジャパン, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087267",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "scikit-learn、Keras、TensorFlowによる実践機械学習",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087243",
+          "author": null,
+          "description": "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong著 ; 仲村智, 吉永尊洸訳. -- 共立出版, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087243",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "機械学習のための数学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087242",
+          "author": null,
+          "description": "武田育郎著. -- 改訂2版. -- オーム社, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087242",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "よくわかる水環境と水質",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087241",
+          "author": null,
+          "description": "B. Widom, 甲賀研一郎著. -- 裳華房, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087241",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "熱力学講義",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087239",
+          "author": null,
+          "description": "くつなりょうすけ著. -- 技術評論社, 2024.11. -- (Software design plusシリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087239",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ひみつのLinux通信 : UNIXコマンド実力養成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087238",
+          "author": null,
+          "description": "戸川望, 長谷川健人, 永田真一共著. -- オーム社, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087238",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ハードウェアトロイ検知 : 半導体設計情報に潜むハードウェア版マルウェアの見つけ方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087237",
+          "author": null,
+          "description": "瀧本はろか著. -- 翔泳社, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087237",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "UXリサーチの活かし方 : ユーザーの声を意思決定につなげるためにできること",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087236",
+          "author": null,
+          "description": "大賀英徳著 ; [2026年度版]. -- 実務教育出版, 2024.11. -- (公務員試験). -- 巻号等：[2026年度版]<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087236",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "現職人事が書いた「自己PR・志望動機・提出書類」の本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087235",
+          "author": null,
+          "description": "鶴長鎮一 [ほか] 著. -- 技術評論社, 2024.11. -- (図解即戦力 : 豊富な図解と丁寧な解説で、知識0でもわかりやすい!).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087235",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ITインフラのしくみと技術がこれ1冊でしっかりわかる教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087234",
+          "author": null,
+          "description": "Kirill Bobrov著. -- 翔泳社, 2024.11.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087234",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "なっとく!並行処理プログラミング : 逐次処理の鳥籠から飛び立ちスケールアウトを目指すすべての開発者のために",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087226",
+          "author": null,
+          "description": "岡田朋子著. -- 近代科学社Digital, 2024.10.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087226",
+          "publishedOn": "2025-01-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "数理・データサイエンス・AIのための数学基礎 : Excel演習付き",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087319",
           "author": null,
           "description": "中西正司, 上野千鶴子著. -- 増補新版. -- 岩波書店, 2024.11. -- (岩波新書 ; 新赤版 2042).<図書>",
