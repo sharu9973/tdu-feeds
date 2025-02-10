@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-02-10T00:57:43.635Z</updated>
+    <updated>2025-02-10T02:15:22.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[共通パスワード変更の停止のお知らせ（2/12）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19893</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/02/10/20250212_password/"/>
+        <updated>2025-02-10T01:55:54.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 作業日時2025年 2月12日（水） 9：00  ～  13：00※作業時間は前後する場合があります。　 作業 […]
+共通パスワード変更の停止のお知らせ（2/12） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>kfujita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[力道山 : 「プロレス神話」と戦後日本]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087416</id>
