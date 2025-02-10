@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19895",
+          "author": "kfujita",
+          "description": "学認を利用するサービスについて、メンテナンス作業を実施するため、以下に記載するサービスが一時的に利用できなくなります。 　作業日時：　　・2025年2月12日（水）9:00　～　13:00 　　・2025年2月13日（木 […]\n学認を利用するサービスのサービス停止について（2/12,2/13） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/02/10/2025021213_gakunin/",
+          "publishedOn": "2025-02-10T03:47:17.000Z",
+          "wordCount": 1142,
+          "title": "学認を利用するサービスのサービス停止について（2/12,2/13）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19893",
           "author": "kfujita",
           "description": "以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 作業日時2025年 2月12日（水） 9：00  ～  13：00※作業時間は前後する場合があります。　 作業 […]\n共通パスワード変更の停止のお知らせ（2/12） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/02/10/20250212_password/",
           "publishedOn": "2025-02-10T01:55:54.000Z",
-          "wordCount": 1132,
+          "wordCount": 1133,
           "title": "共通パスワード変更の停止のお知らせ（2/12）",
           "imageUrl": null
         },
