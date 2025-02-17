@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-02-17T13:20:37.304Z</updated>
+    <updated>2025-02-17T14:12:04.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -975,96 +975,6 @@ MATLAB入門セミナー開催のお知らせ（2/17開催） first appeared on 
         <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087312"/>
         <updated>2025-01-23T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Peter Atkins [ほか著] ; 渡辺正訳 ; 上. -- 第8版. -- 東京化学同人, 2024.11. -- 巻号等：上<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Semiconductor metasurfaces]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087405</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087405"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[edited by Martin Hafermann, Sarah Walden ; Part 2. -- Academic Press, an imprint of Elsevier, 2024. -- (Semiconductors and semimetals ; volume 117). -- 巻号等：Part 2<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in optics of charged particle analyzers]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087404</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087404"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mikhail Yavor ; edited by Martin Hÿtch, Peter W. Hawkes ; Part 1. -- Academic Press, an imprint of Elsevier, [2024]. -- (Advances in imaging and electron physics ; volume 232). -- 巻号等：Part 1<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[確率・統計 : 理工系基礎]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087357</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087357"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[服部哲弥著. -- 数研出版, 2024.11. -- (数研講座シリーズ).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感覚重視型技術の最前線 : 心地良さと意外性を生み出す技術]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087351</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087351"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[秋山庸子監修. -- 普及版. -- シーエムシー出版, 2024.12. -- (CMCテクニカルライブラリー ; 849 . 新材料・新素材シリーズシリーズ).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゼロから学ぶ実践マルチボディダイナミクス入門]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087346</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087346"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マルチボディダイナミクス協議会編 ; 井上剛志著. -- コロナ社, 2024.12.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 4制作テクニック大全 : 創造力・表現力・技巧力を高めるノード操作の技法]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087340</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087340"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[友著. -- SBクリエイティブ, 2024.12.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「もの」はどのようにつくられているのか? : プロダクトデザインのプロセス事典]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087324</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087324"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クリス・レフテリ著 ; 水原文訳. -- 改訂版. -- オライリー・ジャパン, 2024.11. -- (Make: Japan books).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[たった1日で基本が身に付く!Unity超入門]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087320</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087320"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リブロワークス著. -- 技術評論社, 2020.12.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シンギュラリティはより近く : 人類がAIと融合するとき]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087306</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087306"/>
-        <updated>2025-01-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[レイ・カーツワイル著 ; 高橋則明訳. -- NHK出版, 2024.11.<図書>]]></summary>
         <author>
             <name>新着案内</name>
         </author>
