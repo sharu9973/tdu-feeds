@@ -86,6 +86,16 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB00080902",
+          "author": null,
+          "description": "河田敬義著. -- 共立出版, 1992.3. -- (数学の歴史 : 現代数学はどのようにつくられたか / 伊東俊太郎 [ほか] 編 ; 7a . 19世紀の数学). -- 巻号等：7-a<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB00080902",
+          "publishedOn": "2025-03-07T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "整数論",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087441",
           "author": null,
           "description": "クジラ飛行机著 ; 杉山陽一著 ; 遠藤俊輔著. -- ソシム, 2025.1.<図書>",
