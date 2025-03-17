@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-03-17T11:10:49.546Z</updated>
+    <updated>2025-03-17T12:25:06.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[電子ブック利用方法の変更について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19973</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/03/17/20250317_mel/"/>
+        <updated>2025-03-17T12:08:41.000Z</updated>
+        <summary type="html"><![CDATA[これまで、「電子図書館」を通じて電子ブックをご利用いただいておりましたが、2025年4月1日より、新たに「Maruzen eBook Library」での提供へと変更になります。これまで「電子図書館」で閲覧できていた電 […]
+電子ブック利用方法の変更について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卒業後の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19953</id>
