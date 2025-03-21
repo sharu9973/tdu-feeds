@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-03-21T05:12:42.587Z</updated>
+    <updated>2025-03-21T06:19:21.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[システムメンテナンスに伴うUNIPA利用停止のお知らせ（3/20-23）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20012</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/03/21/202503_maintenance/"/>
+        <updated>2025-03-21T06:14:12.000Z</updated>
+        <summary type="html"><![CDATA[システムメンテナンス作業実施のため、以下の期間UNIPAのサービスを停止させていただきます。ご迷惑をお掛けいたしますが、ご理解ご協力宜しくお願い致します。 日時 2025年3月20日(木)午前3：00 〜 23日(日)午 […]
+システムメンテナンスに伴うUNIPA利用停止のお知らせ（3/20-23） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子ブック利用方法の変更について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19973</id>
