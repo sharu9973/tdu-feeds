@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-03-24T11:11:07.243Z</updated>
+    <updated>2025-03-24T12:25:51.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20041</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/03/24/202503_printsystem/"/>
+        <updated>2025-03-24T11:58:50.000Z</updated>
+        <summary type="html"><![CDATA[教育研究用プリントシステムの更新を行いました。 プリントシステムのリプレースに伴い、利用方法や利用できるサービスに変更がございます。また、印刷ポイントの年次更新を実施しました。 プリントシステムリプレースについて プリン […]
+教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20025</id>
@@ -301,17 +312,6 @@
 MATLAB入門セミナー開催のお知らせ（2/17開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=19821</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2024/12/25/2024_2025_service/"/>
-        <updated>2024-12-24T23:48:05.000Z</updated>
-        <summary type="html"><![CDATA[冬季休業期間中、以下の日程で窓口業務を停止いたします。また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、１月６日（月）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申 […]
-冬季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
