@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20066",
+          "author": "k-iwamoto",
+          "description": "本日、一部の学内システムへの接続が不安定となる障害が発生しております。システムへの接続時にエラーなどが発生する場合には、時間を空けてから再接続をお試しください。 発生日時：2025年3月26日(水)　8:50頃～影響内容 […]\n学内システムへの接続障害について（3/26） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/26/20250326shougai/",
+          "publishedOn": "2025-03-26T02:37:19.000Z",
+          "wordCount": 1129,
+          "title": "学内システムへの接続障害について（3/26）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20041",
           "author": "yatsuko",
           "description": "教育研究用プリントシステムの更新を行いました。 プリントシステムのリプレースに伴い、利用方法や利用できるサービスに変更がございます。また、印刷ポイントの年次更新を実施しました。 プリントシステムリプレースについて プリン […]\n教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/24/202503_printsystem/",
           "publishedOn": "2025-03-24T11:58:50.000Z",
-          "wordCount": 1158,
+          "wordCount": 1159,
           "title": "教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-）",
           "imageUrl": null
         },
