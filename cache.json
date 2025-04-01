@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20081",
+          "author": "katsumi",
+          "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python […]\npaizaラーニング「無料クーポン」プレゼントについて（2025） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/01/paiza-coupon-2025/",
+          "publishedOn": "2025-04-01T11:10:10.000Z",
+          "wordCount": 1133,
+          "title": "paizaラーニング「無料クーポン」プレゼントについて（2025）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20018",
           "author": "小此木俊宏",
           "description": "総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]\n図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/28/2025_library_guidance/",
           "publishedOn": "2025-03-28T07:08:12.000Z",
-          "wordCount": 1145,
+          "wordCount": 1146,
           "title": "図書館・図書閲覧室ガイダンスのお知らせ",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-02-10T01:55:54.000Z",
           "wordCount": 1131,
           "title": "共通パスワード変更の停止のお知らせ（2/12）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19888",
-          "author": "yatsuko",
-          "description": "MATLABは国内外の企業や研究機関で広く活用されているプログラミング言語です。 　本セミナーでは、MATLABの基礎を学ぶ入門コースを実施いたします。特に、研究室配属を控えた学生の皆様におすすめです。 　★オフライン […]\nMATLAB入門セミナー開催のお知らせ（2/17開催） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/02/10/202502_matlab/",
-          "publishedOn": "2025-02-09T15:43:36.000Z",
-          "wordCount": 1187,
-          "title": "MATLAB入門セミナー開催のお知らせ（2/17開催）",
           "imageUrl": null
         }
       ]
