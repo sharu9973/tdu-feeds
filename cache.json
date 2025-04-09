@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20624",
+          "author": "katsumi",
+          "description": "以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]\n利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/202504_soudan-service/",
+          "publishedOn": "2025-04-09T03:30:00.000Z",
+          "wordCount": 1124,
+          "title": "利用相談・プログラム相談のサービス開始について",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20651",
           "author": "yatsuko",
           "description": "昨日（4/8）、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2025年4月8日(火)　19:15頃～19:40頃影　　響：キャンパス全体のインターネット […]\n【復旧】ネットワークの障害について（4/8） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/network-250408/",
           "publishedOn": "2025-04-08T23:57:56.000Z",
-          "wordCount": 1127,
+          "wordCount": 1128,
           "title": "【復旧】ネットワークの障害について（4/8）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-03-17T12:08:41.000Z",
           "wordCount": 1127,
           "title": "電子ブック利用方法の変更について",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19953",
-          "author": "yatsuko",
-          "description": "卒業・修了年次生 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。以下のお知らせは抜粋になります。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。  […]\n卒業後の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/14/202503_graduation/",
-          "publishedOn": "2025-03-14T12:32:05.000Z",
-          "wordCount": 1194,
-          "title": "卒業後の総合メディアセンター各種サービスの扱いについて",
           "imageUrl": null
         }
       ]
