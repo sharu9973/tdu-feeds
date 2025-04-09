@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20084",
+          "author": "katsumi",
+          "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/paiza-rank-challenge2025/",
+          "publishedOn": "2025-04-09T08:05:15.000Z",
+          "wordCount": 1156,
+          "title": "プログラミング学習応援企画 paizaランクチャレンジ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20624",
           "author": "katsumi",
           "description": "以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]\n利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/202504_soudan-service/",
           "publishedOn": "2025-04-09T03:30:00.000Z",
-          "wordCount": 1124,
+          "wordCount": 1126,
           "title": "利用相談・プログラム相談のサービス開始について",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-03-21T06:14:12.000Z",
           "wordCount": 1130,
           "title": "システムメンテナンスに伴うUNIPA利用停止のお知らせ（3/20-23）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=19973",
-          "author": "小此木俊宏",
-          "description": "これまで、「電子図書館」を通じて電子ブックをご利用いただいておりましたが、2025年4月1日より、新たに「Maruzen eBook Library」での提供へと変更になります。これまで「電子図書館」で閲覧できていた電 […]\n電子ブック利用方法の変更について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/17/20250317_mel/",
-          "publishedOn": "2025-03-17T12:08:41.000Z",
-          "wordCount": 1127,
-          "title": "電子ブック利用方法の変更について",
           "imageUrl": null
         }
       ]
