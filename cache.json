@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20830",
+          "author": "yatsuko",
+          "description": "新入生のアカウントにはあらかじめパスワード（初期パスワード）を設定しています。 この初期パスワードの有効期限は、2025年4月20日（日）です。 セキュリティ上大変危険なため、有効期限を過ぎてもパスワード変更を行わなかっ […]\n新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/12/2025_password/",
+          "publishedOn": "2025-04-12T08:55:12.000Z",
+          "wordCount": 1145,
+          "title": "新入生 初期パスワードの有効期限について【4/20まで】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20084",
           "author": "katsumi",
           "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/paiza-rank-challenge2025/",
           "publishedOn": "2025-04-09T08:05:15.000Z",
-          "wordCount": 1156,
+          "wordCount": 1158,
           "title": "プログラミング学習応援企画 paizaランクチャレンジ",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-03-22T11:26:59.000Z",
           "wordCount": 1193,
           "title": "「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20012",
-          "author": "yatsuko",
-          "description": "システムメンテナンス作業実施のため、以下の期間UNIPAのサービスを停止させていただきます。ご迷惑をお掛けいたしますが、ご理解ご協力宜しくお願い致します。 日時 2025年3月20日(木)午前3：00 〜 23日(日)午 […]\nシステムメンテナンスに伴うUNIPA利用停止のお知らせ（3/20-23） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/21/202503_maintenance/",
-          "publishedOn": "2025-03-21T06:14:12.000Z",
-          "wordCount": 1130,
-          "title": "システムメンテナンスに伴うUNIPA利用停止のお知らせ（3/20-23）",
           "imageUrl": null
         }
       ]
