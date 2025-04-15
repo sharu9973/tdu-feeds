@@ -18,12 +18,32 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20960",
+          "author": "小此木俊宏",
+          "description": "2025年4月より、新たに「Maruzen eBook Library」を通じて、電子ブックの利用が可能になりました。「Maruzen eBook Library」は、丸善雄松堂が提供する学術機関向け電子ブックのプラッ […]\n「Maruzen eBook Library」での電子ブック利用開始のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_mel/",
+          "publishedOn": "2025-04-15T11:45:56.000Z",
+          "wordCount": 1144,
+          "title": "「Maruzen eBook Library」での電子ブック利用開始のお知らせ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20955",
+          "author": "小此木俊宏",
+          "description": "2025年4月より、「日経BP記事検索サービス」がリニューアルされ、さらに便利にご利用いただけるようになりました。これまで通り、「日経ビジネス」や「日経コンピュータ」といった専門情報誌の記事を検索・閲覧できるだけでなく […]\n「日経BP記事検索サービス」リニューアルのお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_nbp/",
+          "publishedOn": "2025-04-15T11:45:42.000Z",
+          "wordCount": 1126,
+          "title": "「日経BP記事検索サービス」リニューアルのお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20830",
           "author": "yatsuko",
           "description": "新入生のアカウントにはあらかじめパスワード（初期パスワード）を設定しています。 この初期パスワードの有効期限は、2025年4月20日（日）です。 セキュリティ上大変危険なため、有効期限を過ぎてもパスワード変更を行わなかっ […]\n新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/12/2025_password/",
           "publishedOn": "2025-04-12T08:55:12.000Z",
-          "wordCount": 1145,
+          "wordCount": 1146,
           "title": "新入生 初期パスワードの有効期限について【4/20まで】",
           "imageUrl": null
         },
@@ -95,26 +115,6 @@
           "publishedOn": "2025-03-26T02:37:19.000Z",
           "wordCount": 1128,
           "title": "学内システムへの接続障害について（3/26）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20041",
-          "author": "yatsuko",
-          "description": "教育研究用プリントシステムの更新を行いました。 プリントシステムのリプレースに伴い、利用方法や利用できるサービスに変更がございます。また、印刷ポイントの年次更新を実施しました。 プリントシステムリプレースについて プリン […]\n教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/24/202503_printsystem/",
-          "publishedOn": "2025-03-24T11:58:50.000Z",
-          "wordCount": 1157,
-          "title": "教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20025",
-          "author": "yatsuko",
-          "description": "Adobe Express は、Webブラウザやスマートフォンアプリで利用できるデザインツールです。テキストからの画像を生成できる生成AI「Adobe Firefly」の利用も可能です。 　本セミナーでは、現役のイラス […]\n「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/22/202503_adobe/",
-          "publishedOn": "2025-03-22T11:26:59.000Z",
-          "wordCount": 1193,
-          "title": "「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住）",
           "imageUrl": null
         }
       ]

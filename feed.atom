@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-04-15T11:11:21.403Z</updated>
+    <updated>2025-04-15T12:25:40.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Maruzen eBook Library」での電子ブック利用開始のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20960</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_mel/"/>
+        <updated>2025-04-15T11:45:56.000Z</updated>
+        <summary type="html"><![CDATA[2025年4月より、新たに「Maruzen eBook Library」を通じて、電子ブックの利用が可能になりました。「Maruzen eBook Library」は、丸善雄松堂が提供する学術機関向け電子ブックのプラッ […]
+「Maruzen eBook Library」での電子ブック利用開始のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日経BP記事検索サービス」リニューアルのお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20955</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_nbp/"/>
+        <updated>2025-04-15T11:45:42.000Z</updated>
+        <summary type="html"><![CDATA[2025年4月より、「日経BP記事検索サービス」がリニューアルされ、さらに便利にご利用いただけるようになりました。これまで通り、「日経ビジネス」や「日経コンピュータ」といった専門情報誌の記事を検索・閲覧できるだけでなく […]
+「日経BP記事検索サービス」リニューアルのお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新入生 初期パスワードの有効期限について【4/20まで】]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20830</id>
@@ -732,28 +754,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2025�
 学内システムへの接続障害について（3/26） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>k-iwamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20041</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/03/24/202503_printsystem/"/>
-        <updated>2025-03-24T11:58:50.000Z</updated>
-        <summary type="html"><![CDATA[教育研究用プリントシステムの更新を行いました。 プリントシステムのリプレースに伴い、利用方法や利用できるサービスに変更がございます。また、印刷ポイントの年次更新を実施しました。 プリントシステムリプレースについて プリン […]
-教育研究用プリントシステムリプレースと年次更新のお知らせ（3/20-） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20025</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/03/22/202503_adobe/"/>
-        <updated>2025-03-22T11:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Express は、Webブラウザやスマートフォンアプリで利用できるデザインツールです。テキストからの画像を生成できる生成AI「Adobe Firefly」の利用も可能です。 　本セミナーでは、現役のイラス […]
-「Adobe Expressで自己紹介カードを作ってみよう！」Adobeワークショップ開催のお知らせ（3/27開催＠千住） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
     <entry>
