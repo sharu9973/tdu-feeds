@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-04-18T08:17:14.334Z</updated>
+    <updated>2025-04-18T09:13:40.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows10のサポート終了について]]></title>
+        <id>https://www.csirt.dendai.ac.jp/csirt/?p=20480</id>
+        <link href="https://www.csirt.dendai.ac.jp/csirt/public/notice/windows10%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/"/>
+        <updated>2025-04-18T09:14:21.000Z</updated>
+        <summary type="html"><![CDATA[2025年10月14日をもってMicrosoft社によるWindows10の延長サポートが終了いたします。延長サポート終了以降は、セキュリティ更新プログラムの提供が無くなり、セキュリティの脆弱性に対するリスクが高まります […]
+Windows10のサポート終了について first appeared on TDU-CSIRT.]]></summary>
+        <author>
+            <name>KanekoManami</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Maruzen eBook Library」での電子ブック利用開始のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20960</id>

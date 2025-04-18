@@ -10,7 +10,18 @@
       "title": "お知らせ | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.csirt.dendai.ac.jp/csirt/?p=20480",
+          "author": "KanekoManami",
+          "description": "2025年10月14日をもってMicrosoft社によるWindows10の延長サポートが終了いたします。延長サポート終了以降は、セキュリティ更新プログラムの提供が無くなり、セキュリティの脆弱性に対するリスクが高まります […]\nWindows10のサポート終了について first appeared on TDU-CSIRT.",
+          "link": "https://www.csirt.dendai.ac.jp/csirt/public/notice/windows10%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+          "publishedOn": "2025-04-18T09:14:21.000Z",
+          "wordCount": 1195,
+          "title": "Windows10のサポート終了について",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "総合メディアセンター",
