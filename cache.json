@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21330",
+          "author": "katsumi",
+          "description": "MATLABは、国内外の企業や研究機関で幅広く活用されているプログラミング言語です。 　学科によっては、授業で扱う機会が少なく、研究室に配属されてから使い始める学生も少なくありません。実験や実習のデータ整理やグラフ作成 […]\nMATLAB入門セミナー開催のお知らせ（5/16開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/07/202505_matlab/",
+          "publishedOn": "2025-05-07T07:48:40.000Z",
+          "wordCount": 1199,
+          "title": "MATLAB入門セミナー開催のお知らせ（5/16開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20960",
           "author": "小此木俊宏",
           "description": "2025年4月より、新たに「Maruzen eBook Library」を通じて、電子ブックの利用が可能になりました。「Maruzen eBook Library」は、丸善雄松堂が提供する学術機関向け電子ブックのプラッ […]\n「Maruzen eBook Library」での電子ブック利用開始のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_mel/",
           "publishedOn": "2025-04-15T11:45:56.000Z",
-          "wordCount": 1148,
+          "wordCount": 1149,
           "title": "「Maruzen eBook Library」での電子ブック利用開始のお知らせ",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2025-03-28T07:08:12.000Z",
           "wordCount": 1150,
           "title": "図書館・図書閲覧室ガイダンスのお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20066",
-          "author": "k-iwamoto",
-          "description": "本日、一部の学内システムへの接続が不安定となる障害が発生しております。システムへの接続時にエラーなどが発生する場合には、時間を空けてから再接続をお試しください。 発生日時：2025年3月26日(水)　8:50頃～影響内容 […]\n学内システムへの接続障害について（3/26） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/26/20250326shougai/",
-          "publishedOn": "2025-03-26T02:37:19.000Z",
-          "wordCount": 1132,
-          "title": "学内システムへの接続障害について（3/26）",
           "imageUrl": null
         }
       ]
