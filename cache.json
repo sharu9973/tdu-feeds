@@ -136,6 +136,126 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087658",
+          "author": null,
+          "description": "高橋源一郎 [著]. -- 岩波書店, 2025.4. -- (岩波新書 ; 新赤版 2062 . 高橋源一郎の飛ぶ教室 ; 2).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087658",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ラジオの、光と闇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087657",
+          "author": null,
+          "description": "石川幹子 [著]. -- 岩波書店, 2025.4. -- (岩波新書 ; 新赤版 2060).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087657",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "緑地と文化 : 社会的共通資本としての杜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087656",
+          "author": null,
+          "description": "白石正明 [著]. -- 岩波書店, 2025.4. -- (岩波新書 ; 新赤版 2063).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087656",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ケアと編集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087655",
+          "author": null,
+          "description": "中村隆之 [著]. -- 岩波書店, 2025.4. -- (岩波新書 ; 新赤版 2061).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087655",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ブラック・カルチャー : 大西洋を旅する声と音",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087639",
+          "author": null,
+          "description": "中島章夫, 福長一義, 佐藤秀幸編集. -- 医歯薬出版, 2025.3. -- (最新臨床工学講座 / 日本臨床工学技士教育施設協議会監修).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087639",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "医用電子工学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087638",
+          "author": null,
+          "description": "矢野将文著 ; 朝堀響季イラスト. -- 化学同人, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087638",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "トコトンやさしい有機化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087637",
+          "author": null,
+          "description": "村上能規 [ほか] 共著. -- 森北出版, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087637",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "例題で学ぶ物理化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087628",
+          "author": null,
+          "description": "山岡滉治 [著]. -- 秀和システム, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087628",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "開発系エンジニアのためのGit/GitHub絵とき入門 : 定番技術の基本をビジュアルで理解する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087627",
+          "author": null,
+          "description": "大西康夫, 小川順編. -- 第4版. -- 文永堂出版, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087627",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "応用微生物学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087626",
+          "author": null,
+          "description": "北田俊輔著. -- インプレス, 2025.3. -- (機械学習実践シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087626",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Pythonで学ぶ画像生成 = Image generation with Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087605",
+          "author": null,
+          "description": "Peter Atkins [ほか] 著 ; 稲葉章, 中川敦史訳. -- 第3版. -- 東京化学同人, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087605",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "アトキンス生命科学のための物理化学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087596",
+          "author": null,
+          "description": "小川翔大, 久野弘幸編著. -- ナカニシヤ出版, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087596",
+          "publishedOn": "2025-05-08T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "キャリアを支える教職入門 : ワークで探るこれからの教師と学校",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087654",
           "author": null,
           "description": "Daniel Orr, Joshua Jeishing Wen, editors ; : paperback. -- American Mathematical Society, [2025]. -- (Contemporary mathematics ; 815). -- 巻号等：: paperback<図書>",
