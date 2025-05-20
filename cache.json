@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21832",
+          "author": "katsumi",
+          "description": "現在（5/19より継続中）、MATLAB & Simulinkをはじめとする MathWorks のネットワーク、システム、アプリケーションなどのサービスが一時的に利用できない状況が続いており、MathWorks […]\nMathWorksサービス障害について（5/19～） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/20/20250519_mathworks_service/",
+          "publishedOn": "2025-05-20T07:19:54.000Z",
+          "wordCount": 1168,
+          "title": "MathWorksサービス障害について（5/19～）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21330",
           "author": "katsumi",
           "description": "MATLABは、国内外の企業や研究機関で幅広く活用されているプログラミング言語です。 　学科によっては、授業で扱う機会が少なく、研究室に配属されてから使い始める学生も少なくありません。実験や実習のデータ整理やグラフ作成 […]\nMATLAB入門セミナー開催のお知らせ（5/16開催） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/07/202505_matlab/",
           "publishedOn": "2025-05-07T07:48:40.000Z",
-          "wordCount": 1219,
+          "wordCount": 1222,
           "title": "MATLAB入門セミナー開催のお知らせ（5/16開催）",
           "imageUrl": null
         },
@@ -44,7 +54,7 @@
           "description": "2025年4月より、新たに「Maruzen eBook Library」を通じて、電子ブックの利用が可能になりました。「Maruzen eBook Library」は、丸善雄松堂が提供する学術機関向け電子ブックのプラッ […]\n「Maruzen eBook Library」での電子ブック利用開始のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_mel/",
           "publishedOn": "2025-04-15T11:45:56.000Z",
-          "wordCount": 1149,
+          "wordCount": 1151,
           "title": "「Maruzen eBook Library」での電子ブック利用開始のお知らせ",
           "imageUrl": null
         },
@@ -54,7 +64,7 @@
           "description": "2025年4月より、「日経BP記事検索サービス」がリニューアルされ、さらに便利にご利用いただけるようになりました。これまで通り、「日経ビジネス」や「日経コンピュータ」といった専門情報誌の記事を検索・閲覧できるだけでなく […]\n「日経BP記事検索サービス」リニューアルのお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_nbp/",
           "publishedOn": "2025-04-15T11:45:42.000Z",
-          "wordCount": 1130,
+          "wordCount": 1132,
           "title": "「日経BP記事検索サービス」リニューアルのお知らせ",
           "imageUrl": null
         },
@@ -64,7 +74,7 @@
           "description": "新入生のアカウントにはあらかじめパスワード（初期パスワード）を設定しています。 この初期パスワードの有効期限は、2025年4月20日（日）です。 セキュリティ上大変危険なため、有効期限を過ぎてもパスワード変更を行わなかっ […]\n新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/12/2025_password/",
           "publishedOn": "2025-04-12T08:55:12.000Z",
-          "wordCount": 1150,
+          "wordCount": 1152,
           "title": "新入生 初期パスワードの有効期限について【4/20まで】",
           "imageUrl": null
         },
@@ -74,7 +84,7 @@
           "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/paiza-rank-challenge2025/",
           "publishedOn": "2025-04-09T08:05:15.000Z",
-          "wordCount": 1162,
+          "wordCount": 1164,
           "title": "プログラミング学習応援企画 paizaランクチャレンジ",
           "imageUrl": null
         },
@@ -84,7 +94,7 @@
           "description": "以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]\n利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/202504_soudan-service/",
           "publishedOn": "2025-04-09T03:30:00.000Z",
-          "wordCount": 1130,
+          "wordCount": 1132,
           "title": "利用相談・プログラム相談のサービス開始について",
           "imageUrl": null
         },
@@ -94,7 +104,7 @@
           "description": "昨日（4/8）、ネットワーク接続の障害が発生いたしました。現在は、復旧しております。 障害内容：ネットワーク接続の障害発生日時：2025年4月8日(火)　19:15頃～19:40頃影　　響：キャンパス全体のインターネット […]\n【復旧】ネットワークの障害について（4/8） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/network-250408/",
           "publishedOn": "2025-04-08T23:57:56.000Z",
-          "wordCount": 1132,
+          "wordCount": 1134,
           "title": "【復旧】ネットワークの障害について（4/8）",
           "imageUrl": null
         },
@@ -104,7 +114,7 @@
           "description": "ネットワーク機器について緊急メンテナンス作業を行います。 作業中、学内のネットワーク通信が不安定となる場合があります。 ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年4月2日（水）22: […]\nネットワークメンテナンス作業のお知らせ（4/2） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/02/networkmaintenance-20250402/",
           "publishedOn": "2025-04-02T04:58:36.000Z",
-          "wordCount": 1141,
+          "wordCount": 1143,
           "title": "ネットワークメンテナンス作業のお知らせ（4/2）",
           "imageUrl": null
         },
@@ -114,18 +124,8 @@
           "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python […]\npaizaラーニング「無料クーポン」プレゼントについて（2025） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/01/paiza-coupon-2025/",
           "publishedOn": "2025-04-01T11:10:10.000Z",
-          "wordCount": 1138,
+          "wordCount": 1140,
           "title": "paizaラーニング「無料クーポン」プレゼントについて（2025）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20018",
-          "author": "小此木俊宏",
-          "description": "総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]\n図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/03/28/2025_library_guidance/",
-          "publishedOn": "2025-03-28T07:08:12.000Z",
-          "wordCount": 1150,
-          "title": "図書館・図書閲覧室ガイダンスのお知らせ",
           "imageUrl": null
         }
       ]
