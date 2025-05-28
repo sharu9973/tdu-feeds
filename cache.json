@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21953",
+          "author": "kfujita",
+          "description": "学内VPNについて、機器のメンテナンスを行います。作業中、学内VPNに接続できなくなります。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年6月3日（火）　7:30　～　8:30　（予定） […]\n学内VPNメンテナンス作業のお知らせ（6/3） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/28/vpnmaintenance-20250603/",
+          "publishedOn": "2025-05-28T06:53:04.000Z",
+          "wordCount": 1140,
+          "title": "学内VPNメンテナンス作業のお知らせ（6/3）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21849",
           "author": "m_hasebe",
           "description": "ネットワーク機器のメンテナンス作業を行います。作業中は建屋・フロアごとにネットワーク停止が発生します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　＜埼玉鳩山キャンパス＞　　　　　2025年 5月 […]\nネットワークメンテナンス作業のお知らせ（5/26～） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/21/networkmaintenance-20250526/",
           "publishedOn": "2025-05-21T00:40:01.000Z",
-          "wordCount": 1155,
+          "wordCount": 1156,
           "title": "ネットワークメンテナンス作業のお知らせ（5/26～）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2025-04-08T23:57:56.000Z",
           "wordCount": 1134,
           "title": "【復旧】ネットワークの障害について（4/8）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20163",
-          "author": "k-iwamoto",
-          "description": "ネットワーク機器について緊急メンテナンス作業を行います。 作業中、学内のネットワーク通信が不安定となる場合があります。 ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年4月2日（水）22: […]\nネットワークメンテナンス作業のお知らせ（4/2） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/02/networkmaintenance-20250402/",
-          "publishedOn": "2025-04-02T04:58:36.000Z",
-          "wordCount": 1143,
-          "title": "ネットワークメンテナンス作業のお知らせ（4/2）",
           "imageUrl": null
         }
       ]

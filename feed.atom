@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-05-28T06:19:51.703Z</updated>
+    <updated>2025-05-28T07:13:34.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学内VPNメンテナンス作業のお知らせ（6/3）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=21953</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/05/28/vpnmaintenance-20250603/"/>
+        <updated>2025-05-28T06:53:04.000Z</updated>
+        <summary type="html"><![CDATA[学内VPNについて、機器のメンテナンスを行います。作業中、学内VPNに接続できなくなります。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年6月3日（火）　7:30　～　8:30　（予定） […]
+学内VPNメンテナンス作業のお知らせ（6/3） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>kfujita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネットワークメンテナンス作業のお知らせ（5/26～）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=21849</id>
@@ -464,17 +475,6 @@ Windows10のサポート終了について first appeared on TDU-CSIRT.]]></summ
 【復旧】ネットワークの障害について（4/8） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネットワークメンテナンス作業のお知らせ（4/2）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20163</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/02/networkmaintenance-20250402/"/>
-        <updated>2025-04-02T04:58:36.000Z</updated>
-        <summary type="html"><![CDATA[ネットワーク機器について緊急メンテナンス作業を行います。 作業中、学内のネットワーク通信が不安定となる場合があります。 ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年4月2日（水）22: […]
-ネットワークメンテナンス作業のお知らせ（4/2） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>k-iwamoto</name>
         </author>
     </entry>
 </feed>
