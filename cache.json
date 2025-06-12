@@ -136,6 +136,206 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087675",
+          "author": null,
+          "description": "山中勇毅著. -- 日本評論社, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087675",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "セガ的基礎線形代数講座 = Sega-style basic linear algebra course",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087674",
+          "author": null,
+          "description": "村田孝一著. -- オーム社, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087674",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "配電設備ビギナーズ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087672",
+          "author": null,
+          "description": "長松昭男, 長松昌男共著. -- コロナ社, 2025.5.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087672",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "現場で役立つ応用力を養う工業力学入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087671",
+          "author": null,
+          "description": "アルゴリズムデザインラボ [ほか] 著. -- エクスナレッジ, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087671",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "建築デザインのためのGrasshopper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087670",
+          "author": null,
+          "description": "小笠原種高著. -- 改訂2版. -- 技術評論社, 2025.5. -- (図解即戦力 : 豊富な図解と丁寧な解説で、知識0でもわかりやすい!).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087670",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Amazon Web Services AWSのしくみと技術がこれ1冊でしっかりわかる教科書",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087669",
+          "author": null,
+          "description": "森永卓郎著. -- 三五館シンシャ.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087669",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ザイム真理教 : それは信者8000万人の巨大カルト",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087667",
+          "author": null,
+          "description": "ヴイエムウェア株式会社, Broadcom著. -- 翔泳社, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087667",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "VMware vSphere徹底入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087664",
+          "author": null,
+          "description": "神崎洋治著. -- 秀和システム, 2025.4. -- (How-nual図解入門).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087664",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "最新AI技術がよ〜くわかる本 : 生成AIの登場で社会が変わった",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087663",
+          "author": null,
+          "description": "三輪賢一著. -- 改訂第5版. -- 技術評論社, 2025.5.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087663",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "TCP/IPネットワークステップアップラーニング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087662",
+          "author": null,
+          "description": "吉田大海著. -- CQ出版, 2025.5. -- (画像処理シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087662",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "コピペで動く初めてのOpenCV画像処理 : Windowsパソコンで始める",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087661",
+          "author": null,
+          "description": "常田裕士著. -- CQ出版社, 2025.5. -- (ツール活用シリーズ).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087661",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "定番プリント基板設計KiCad入門 : 無償でプロ並み!DVD付き! 回路設計//配線パターン設計/製造データ出力もOK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087660",
+          "author": null,
+          "description": "阪東恭一著 ; '27年版. -- 成美堂出版, 2025.5. -- 巻号等：'27年版<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087660",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "就職試験これだけ覚えるSPI高得点のコツ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087659",
+          "author": null,
+          "description": "後閑哲也著. -- 技術評論社, 2025.5.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087659",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ラズパイPico W本格入門 : with MIT App Inventor2 : Pico W/Pico 2W対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087651",
+          "author": null,
+          "description": "狩野祐東著. -- 改訂新版. -- 技術評論社, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087651",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "HTML&CSSデザインレシピ集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087650",
+          "author": null,
+          "description": "田中正史著. -- 改訂新版. -- 技術評論社, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087650",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "はじめてでもできるAutodesk Fusion入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087649",
+          "author": null,
+          "description": "村山直紀著. -- マイナビ出版, 2025.4. -- (Compass examination).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087649",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "こう書く!セキスペ情報処理安全確保支援士",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087648",
+          "author": null,
+          "description": "渋谷宣亮, 中地功貴 [著]. -- 技術評論社, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087648",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "「VRならでは」の体験を作るUnity+VRゲーム開発ガイド",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087647",
+          "author": null,
+          "description": "森田鉄也, 清田将吾, あ～る著. -- 朝日新聞出版, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087647",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "TOEIC L&R test言い換え超特急正解の決め手77 : 新形式対応",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087645",
+          "author": null,
+          "description": "佐藤隆英著. -- 講談社, 2025.4. -- (電気電子情報ビギナーズコース).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087645",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ディジタル回路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087632",
+          "author": null,
+          "description": "Dan Vanderkam著 ; 今村謙士訳. -- 第2版. -- オライリー・ジャパン, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087632",
+          "publishedOn": "2025-06-05T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Effective TypeScript : 型システムの力を最大限に引き出す83項目",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087690",
           "author": null,
           "description": "内務省研究会編. -- 講談社, 2025.4. -- (講談社現代新書 ; 2772).<図書>",
@@ -213,16 +413,6 @@
           "publishedOn": "2025-05-22T15:00:00.000Z",
           "wordCount": 3,
           "title": "生活機器・空間におけるUX向上のためのデザイン人間工学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087632",
-          "author": null,
-          "description": "Dan Vanderkam著 ; 今村謙士訳. -- 第2版. -- オライリー・ジャパン, 2025.4.<図書>",
-          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087632",
-          "publishedOn": "2025-05-22T15:00:00.000Z",
-          "wordCount": 3,
-          "title": "Effective TypeScript : 型システムの力を最大限に引き出す83項目",
           "imageUrl": null
         },
         {
