@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22575",
+          "author": "小此木俊宏",
+          "description": "本日（7/1）、18：30頃より蔵書検索（WebOPAC）にアクセスしようとするとエラー画面が表示される障害が発生しております。 障害内容：蔵書検索（WebOPAC）にアクセスできない発生日時：2025年7月1日(火)　 […]\n蔵書検索（WebOPAC）の障害について（7/1） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/07/01/20250701_webopac_shougai/",
+          "publishedOn": "2025-07-01T11:19:44.000Z",
+          "wordCount": 1130,
+          "title": "蔵書検索（WebOPAC）の障害について（7/1）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22053",
           "author": "m_hasebe",
           "description": "東京千住キャンパスのネットワーク機器のメンテナンス作業を行います。作業中は建屋・フロアごとにネットワーク停止が発生します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2025年 6月 9日（月） […]\n【東京千住キャンパス】ネットワークメンテナンス作業のお知らせ（6/9～） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/06/03/networkmaintenance-20250609/",
           "publishedOn": "2025-06-03T02:03:45.000Z",
-          "wordCount": 1145,
+          "wordCount": 1146,
           "title": "【東京千住キャンパス】ネットワークメンテナンス作業のお知らせ（6/9～）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2025-04-12T08:55:12.000Z",
           "wordCount": 1152,
           "title": "新入生 初期パスワードの有効期限について【4/20まで】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=20084",
-          "author": "katsumi",
-          "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/paiza-rank-challenge2025/",
-          "publishedOn": "2025-04-09T08:05:15.000Z",
-          "wordCount": 1164,
-          "title": "プログラミング学習応援企画 paizaランクチャレンジ",
           "imageUrl": null
         }
       ]

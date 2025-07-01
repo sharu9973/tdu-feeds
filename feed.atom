@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-07-01T11:12:33.868Z</updated>
+    <updated>2025-07-01T12:28:10.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[蔵書検索（WebOPAC）の障害について（7/1）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=22575</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/07/01/20250701_webopac_shougai/"/>
+        <updated>2025-07-01T11:19:44.000Z</updated>
+        <summary type="html"><![CDATA[本日（7/1）、18：30頃より蔵書検索（WebOPAC）にアクセスしようとするとエラー画面が表示される障害が発生しております。 障害内容：蔵書検索（WebOPAC）にアクセスできない発生日時：2025年7月1日(火)　 […]
+蔵書検索（WebOPAC）の障害について（7/1） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[和菓子の京都]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087763</id>
@@ -684,17 +695,6 @@ Windows10のサポート終了について first appeared on TDU-CSIRT.]]></summ
 新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プログラミング学習応援企画 paizaランクチャレンジ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20084</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/09/paiza-rank-challenge2025/"/>
-        <updated>2025-04-09T08:05:15.000Z</updated>
-        <summary type="html"><![CDATA[有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]
-プログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
