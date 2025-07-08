@@ -136,6 +136,486 @@
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
         {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088616",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088616",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大24 歴代名詞選",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088615",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088615",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大23 王漁洋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088614",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088614",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大22 清詩選",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088613",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088613",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大21 高青邱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088612",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088612",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大20 元好問",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088611",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088611",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大19 陸游",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088610",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088610",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大18 黄山谷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088609",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088609",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大17 蘇東坡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088608",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088608",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大16 宋詩選",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088607",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088607",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大15 魚玄機,薛濤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088606",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088606",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大14 杜牧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088605",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088605",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大13 李賀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088604",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088604",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大12 白楽天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088603",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088603",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大11 韓愈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088602",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088602",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大10 王維",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088601",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088601",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系9 杜甫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088600",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088600",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系8 李白",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088599",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088599",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系7 唐詩選(下)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088598",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088598",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系6 唐詩選(上)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088597",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088597",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系5 古詩源(下)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088596",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088596",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系4 古詩源(上)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088595",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088595",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系3 楚辞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088594",
+          "author": null,
+          "description": "-- 集英社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088594",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "漢詩大系2 詩経(下)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088556",
+          "author": null,
+          "description": "-- 中央公論社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088556",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "世界の名著47 デュルケーム,ジンメル",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088431",
+          "author": null,
+          "description": "関沢 新一 -- ノーベル書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088431",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "滅びゆく蒸気機関車",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088430",
+          "author": null,
+          "description": "ヴァレリー,ポール 佐藤正彰他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088430",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集4 我がファウスト",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088428",
+          "author": null,
+          "description": "金田一 京助編 -- 三省堂. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088428",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "辞海 縮刷版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088422",
+          "author": null,
+          "description": "ヴァレリー,ポール 寺田透他訳 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088422",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集12 現代世界の考察",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088417",
+          "author": null,
+          "description": "諸橋 轍次 -- 大修館書店. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088417",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "大漢和辭典 索引 縮寫版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088394",
+          "author": null,
+          "description": "簡野 道明 -- 角川書店. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088394",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "字源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088377",
+          "author": null,
+          "description": "樋口 清之 -- 人物往来社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088377",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "史蹟国分寺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088319",
+          "author": null,
+          "description": "ヴァレリー,ポール 小林秀雄他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088319",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集2 テスト氏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088295",
+          "author": null,
+          "description": "宇野 精一他編 -- 東京大学出版会. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088295",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "講座東洋思想7 イスラムの思想",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088264",
+          "author": null,
+          "description": "ヴァレリー,ポール 佐藤正彰他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088264",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集8 作家論",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088217",
+          "author": null,
+          "description": "岩田 九郎 -- 明治書院. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088217",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "芭蕉俳句大成 諸注評釈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088185",
+          "author": null,
+          "description": "宇野 精一他編 -- 東京大学出版会. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088185",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "講座東洋思想10 東洋思想の日本的展開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088184",
+          "author": null,
+          "description": "宇野 精一他編 -- 東京大学出版会. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088184",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "講座東洋思想1 インド思想",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088161",
+          "author": null,
+          "description": "ヴァレリー,ポール 菅野昭正他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088161",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集5 レオナルド・ダ・ヴィンチ論",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088150",
+          "author": null,
+          "description": "ヴァレリー,ポール 野田又一他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088150",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集9 哲学論考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088149",
+          "author": null,
+          "description": "ヴァレリー,ポール 伊吹武彦他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088149",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集7 マラルメ論叢",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088139",
+          "author": null,
+          "description": "ヴァレリー,ポール 吉田健一他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088139",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集10 芸術論集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088130",
+          "author": null,
+          "description": "ヴァレリー,ポール 佐藤正彰他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088130",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集11 文明批評",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088118",
+          "author": null,
+          "description": "ヴァレリー,ポール 佐藤正彰他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088118",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集6 詩について",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088117",
+          "author": null,
+          "description": "ヴァレリー,ポール 伊吹武彦他 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088117",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集3 対話篇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088116",
+          "author": null,
+          "description": "ヴァレリー,ポール 鈴木信太郎 -- 筑摩書房. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088116",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ヴァレリー全集1 詩集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088080",
+          "author": null,
+          "description": "江口 朴郎編 -- 中央公論社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088080",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "世界の名著52 レーニン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088079",
+          "author": null,
+          "description": "金谷 治編 -- 中央公論社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088079",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "世界の名著10 諸子百家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088067",
+          "author": null,
+          "description": "柴田 治三郎 -- 中央公論社. -- 仮出版者.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20088067",
+          "publishedOn": "2025-07-01T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "世界の名著45 ブルクハルト",
+          "imageUrl": null
+        },
+        {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087771",
           "author": null,
           "description": "Mikhail Yavor ; edited by Martin Hÿtch, Peter W. Hawkes ; Part 2. -- Academic Press, an imprint of Elsevier, [2025]. -- (Advances in imaging and electron physics ; volume 233). -- 巻号等：Part 2<図書>",
