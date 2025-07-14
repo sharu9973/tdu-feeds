@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-07-13T23:14:29.081Z</updated>
+    <updated>2025-07-14T01:13:58.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -763,28 +763,6 @@ MATLAB入門セミナー開催のお知らせ（5/16開催） first appeared on 
 Windows10のサポート終了について first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>KanekoManami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Maruzen eBook Library」での電子ブック利用開始のお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20960</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_mel/"/>
-        <updated>2025-04-15T11:45:56.000Z</updated>
-        <summary type="html"><![CDATA[2025年4月より、新たに「Maruzen eBook Library」を通じて、電子ブックの利用が可能になりました。「Maruzen eBook Library」は、丸善雄松堂が提供する学術機関向け電子ブックのプラッ […]
-「Maruzen eBook Library」での電子ブック利用開始のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「日経BP記事検索サービス」リニューアルのお知らせ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=20955</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/04/15/20250415_nbp/"/>
-        <updated>2025-04-15T11:45:42.000Z</updated>
-        <summary type="html"><![CDATA[2025年4月より、「日経BP記事検索サービス」がリニューアルされ、さらに便利にご利用いただけるようになりました。これまで通り、「日経ビジネス」や「日経コンピュータ」といった専門情報誌の記事を検索・閲覧できるだけでなく […]
-「日経BP記事検索サービス」リニューアルのお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
         </author>
     </entry>
 </feed>
