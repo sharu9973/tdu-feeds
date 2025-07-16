@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-07-16T21:14:18.017Z</updated>
+    <updated>2025-07-16T22:14:12.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -632,17 +632,6 @@ MathWorksサービス障害について（5/19～） first appeared on 総合メ
 MATLAB入門セミナー開催のお知らせ（5/16開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows10のサポート終了について]]></title>
-        <id>https://www.csirt.dendai.ac.jp/csirt/?p=20480</id>
-        <link href="https://www.csirt.dendai.ac.jp/csirt/public/notice/windows10%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e7%b5%82%e4%ba%86%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/"/>
-        <updated>2025-04-18T09:14:21.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月14日をもってMicrosoft社によるWindows10の延長サポートが終了いたします。延長サポート終了以降は、セキュリティ更新プログラムの提供が無くなり、セキュリティの脆弱性に対するリスクが高まります […]
-Windows10のサポート終了について first appeared on TDU-CSIRT.]]></summary>
-        <author>
-            <name>KanekoManami</name>
         </author>
     </entry>
 </feed>
