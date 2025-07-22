@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-07-22T07:18:09.317Z</updated>
+    <updated>2025-07-22T08:20:50.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プリントシステムメンテナンスについて（8/19、20）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=22907</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/07/22/20250819_20_printsystem/"/>
+        <updated>2025-07-22T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]
+プリントシステムメンテナンスについて（8/19、20） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戦争と法 : 命と暮らしは守られるのか]]></title>
         <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20111810</id>

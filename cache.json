@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22907",
+          "author": "yatsuko",
+          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（8/19、20） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/07/22/20250819_20_printsystem/",
+          "publishedOn": "2025-07-22T07:36:28.000Z",
+          "wordCount": 1167,
+          "title": "プリントシステムメンテナンスについて（8/19、20）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22795",
           "author": "小此木俊宏",
           "description": "総合メディアセンターでは現在、図書館業務システムの更新作業を進めており、8月中にシステム移行を予定しております。これに伴い、以下の通り一部の図書サービスの受付を停止させていただきますので、ご利用を予定されている方は、該当 […]\n図書館業務システム更新に伴うお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/07/08/library_koushin/",
           "publishedOn": "2025-07-08T00:41:24.000Z",
-          "wordCount": 1140,
+          "wordCount": 1141,
           "title": "図書館業務システム更新に伴うお知らせ",
           "imageUrl": null
         },
