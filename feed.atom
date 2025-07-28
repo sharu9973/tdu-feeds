@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-07-28T13:35:20.527Z</updated>
+    <updated>2025-07-28T14:17:22.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -557,126 +557,6 @@
 【復旧】蔵書検索（WebOPAC）の障害について（7/1） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advances in optics of charged particle analyzers]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087771</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087771"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mikhail Yavor ; edited by Martin Hÿtch, Peter W. Hawkes ; Part 2. -- Academic Press, an imprint of Elsevier, [2025]. -- (Advances in imaging and electron physics ; volume 233). -- 巻号等：Part 2<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morse homology with differential graded coefficients]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087770</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087770"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jean-François Barraud [and three others]. -- Birkhäuser, [2025]. -- (Progress in mathematics ; volume 360 . The virtual series on symplectic geometry).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classical hypergeometric functions and generalizations : Minisymposium on All Things Hypergeometric, q-series and Generalizations, 16th International Symposium on Orthogonal Polynomials, Special Functions and Applications (OPSFA-16), June 13-17, 2022, Centre de Recherches Mathématiques, Montréal, Québec, Canada : AMS Special Session on Hypergeometric Functions and q-series, 2022 AMS Fall Western Sectional Meeting, October 22-23, 2022, University of Utah, Salt Lake City, Utah : AMS Special Session on Hypergeometric Functions, q-series and Generalizations, 2023 AMS Spring Eastern Virtual Sectional Meeting, April 1-2, 2023]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087769</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087769"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Howard S. Cohl, Roberto S. Costas-Santos, Robert S. Maier, editors ; : paperback. -- American Mathematical Society, [2025]. -- (Contemporary mathematics ; 818). -- 巻号等：: paperback<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From representation theory to mathematical physics and back : workshop in honor of Igor Frenkel's 70th birthday, from representation theory to mathematical physics and back, May 31-June 4, 2022, Simons Center for Geometry and Physics, Stony Brook, New York]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087768</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087768"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mikhail Khovanov, Joshua Sussan, Anton Zeitlin, editors. -- American Mathematical Society, [2025]. -- (Contemporary mathematics ; 817).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基礎からの化学熱力学]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087718</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087718"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日秋俊彦, 清水繁, 児玉大輔著 ; 日秋俊彦編集. -- 朝倉書店, 2025.5.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[すぐわかる複素解析]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087716</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087716"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[石村園子, 畑宏明, 四之宮佳彦著. -- 改訂新版. -- 東京図書, 2025.5.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITコンサルティングの基本 : この1冊ですべてわかる]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087705</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087705"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[克元亮編著. -- 新版. -- 日本実業出版社, 2021.5.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防衛産業の地政学 : これからの世界情勢を読み解くための必須教養]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087704</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087704"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小野圭司著. -- かんき出版, 2025.2.<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythonのキホンがわかる本 : 基本からアプリ開発まで!]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087701</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087701"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[立山秀利, 永岡昌也, 原田英生著 ; 日経ソフトウエア編. -- 日経BP, 2025.6. -- (日経BPパソコンベストムック).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ここがポイント!理解しよう電磁気学]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087699</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087699"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[波場直之, 清水康弘, 山田敏史共著. -- 数理工学社, 2025.4. -- (ライブラリ物理を理解しよう ; 3).<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web面接 : オンライン面接の心得]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087695</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087695"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[才木弓加著 ; ['27]. -- マイナビ出版, [2025.4]. -- (内定獲得のメソッド). -- 巻号等：['27]<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面接自己PR志望動機]]></title>
-        <id>https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087694</id>
-        <link href="https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&amp;ufi_locale=ja&amp;hidden_return_link=true&amp;pkey=BB20087694"/>
-        <updated>2025-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[才木弓加著 ; ['27]. -- マイナビ出版, 2025.4. -- (内定獲得のメソッド). -- 巻号等：['27]<図書>]]></summary>
-        <author>
-            <name>新着案内</name>
         </author>
     </entry>
     <entry>
