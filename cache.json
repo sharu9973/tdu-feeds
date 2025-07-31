@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22927",
+          "author": "yatsuko",
+          "description": "以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・カラー大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。  […]\nプリントシステム停止のお知らせ（8/7～19） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/07/31/202507_printsystem/",
+          "publishedOn": "2025-07-31T13:11:16.000Z",
+          "wordCount": 1166,
+          "title": "プリントシステム停止のお知らせ（8/7～19）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=22907",
           "author": "yatsuko",
           "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（8/19、20） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/07/22/20250819_20_printsystem/",
           "publishedOn": "2025-07-22T07:36:28.000Z",
-          "wordCount": 1167,
+          "wordCount": 1168,
           "title": "プリントシステムメンテナンスについて（8/19、20）",
           "imageUrl": null
         },
@@ -114,6 +124,116 @@
       "feedUrl": "https://lib.mrcl.dendai.ac.jp/webopac/newexe.do?REQTP=RSS&locale=ja&gcattp=bk",
       "siteUrl": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=newexe&ufi_locale=ja&target=999&gcattp%5B%5D=bk",
       "articles": [
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20156360",
+          "author": null,
+          "description": "editor-in-chief, John R. Rumble ; associate editors, Thomas J. Bruno, Donald R. Burgess, Jr., Leah R. McEwen ; 106th edition : 2025-2026 : hbk. -- CRC Press, 2025. -- 巻号等：106th edition : 2025-2026 : hbk<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20156360",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "CRC handbook of chemistry and physics : a ready-reference book of chemical and physical data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087795",
+          "author": null,
+          "description": "Razi Rais [ほか] 著 ; 鈴木研吾訳. -- 第2版. -- オライリー・ジャパン, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087795",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ゼロトラストネットワーク : 境界防御の限界を超えるためのセキュアなシステム設計",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087794",
+          "author": null,
+          "description": "J. Morris Chang, Di Zhuang, Dumindu Samaraweera著 ; 高橋翼 [ほか] 訳. -- 共立出版, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087794",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "機械学習のためのプライバシー保護",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087793",
+          "author": null,
+          "description": "五十嵐聡著 ; 令和07年<下期>. -- 技術評論社, 2025.7. -- 巻号等：令和07年<下期><図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087793",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ITパスポートパーフェクトラーニング過去問題集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087792",
+          "author": null,
+          "description": "Ryan Mitchell著 ; 嶋田健志、新井翔太訳. -- 第3版. -- オライリー・ジャパン, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087792",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "PythonによるWebスクレイピング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087791",
+          "author": null,
+          "description": "インガ・ストルムケ [著] ; 羽根由訳. -- 誠文堂新光社, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087791",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "考える機械たち : 歴史, 仕組み, 倫理 : そして, AIは意思をもつのか?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087784",
+          "author": null,
+          "description": "吉田寛 [ほか] 編. -- フィルムアート社, 2025.6. -- (「クリティカル・ワード」).<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087784",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "ゲームスタディーズ : 遊びから文化と社会を考える = Critical words for game studies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087746",
+          "author": null,
+          "description": "横山良平著. -- 近代科学社Digital, 2025.4.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087746",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "Cによる理工系解析の数値計算 : 基礎からの展開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087742",
+          "author": null,
+          "description": "Jay Alammar, Maarten Grootendorst著 ; 中山光樹訳. -- オライリー・ジャパン, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087742",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "直感LLM : ハンズオンで動かして学ぶ大規模言語モデル入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087737",
+          "author": null,
+          "description": "群馬大学理工学部基盤部門 [ほか] 共著. -- 第2版. -- 学術図書出版社, 2025.3.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087737",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "微分積分学入門",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087734",
+          "author": null,
+          "description": "岡田康孝著. -- 東京図書出版, 2025.6.<図書>",
+          "link": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087734",
+          "publishedOn": "2025-07-24T15:00:00.000Z",
+          "wordCount": 3,
+          "title": "人間の五感とセンサ",
+          "imageUrl": null
+        },
         {
           "id": "https://lib.mrcl.dendai.ac.jp/webopac/ufirdi.do?ufi_target=catdbl&ufi_locale=ja&hidden_return_link=true&pkey=BB20087767",
           "author": null,
