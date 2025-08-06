@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-08-06T03:39:36.073Z</updated>
+    <updated>2025-08-06T04:39:00.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学生向け「学園祭ポスター・チラシを作ってみよう！」Adobeワークショップ開催のお知らせ（9/12開催＠千住）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23028</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/08/06/202509_adobe/"/>
+        <updated>2025-08-06T04:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Adobe製品を使って、学園祭用のポスター・チラシを作成するワークショップを開催します。ブラウザで利用可能な「Adobe Express」の様々な機能の紹介や活用方法、生成AIによる画像生成も交えて体験いただきます。ま […]
+学生向け「学園祭ポスター・チラシを作ってみよう！」Adobeワークショップ開催のお知らせ（9/12開催＠千住） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プリントシステム停止のお知らせ（8/7～19）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=22927</id>
