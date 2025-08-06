@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23035",
+          "author": "katsumi",
+          "description": "夏季休業期間中、以下の日程で窓口業務を停止いたします。 また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、８月１９日（火）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願 […]\n夏季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/08/06/2025_summer/",
+          "publishedOn": "2025-08-06T08:10:30.000Z",
+          "wordCount": 1151,
+          "title": "夏季休業期間中の窓口停止・各種申請の取扱いについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23028",
           "author": "yatsuko",
           "description": "Adobe製品を使って、学園祭用のポスター・チラシを作成するワークショップを開催します。ブラウザで利用可能な「Adobe Express」の様々な機能の紹介や活用方法、生成AIによる画像生成も交えて体験いただきます。ま […]\n学生向け「学園祭ポスター・チラシを作ってみよう！」Adobeワークショップ開催のお知らせ（9/12開催＠千住） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/08/06/202509_adobe/",
           "publishedOn": "2025-08-06T04:24:02.000Z",
-          "wordCount": 1189,
+          "wordCount": 1190,
           "title": "学生向け「学園祭ポスター・チラシを作ってみよう！」Adobeワークショップ開催のお知らせ（9/12開催＠千住）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-05-21T00:40:01.000Z",
           "wordCount": 1156,
           "title": "ネットワークメンテナンス作業のお知らせ（5/26～）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=21832",
-          "author": "katsumi",
-          "description": "現在（5/19より継続中）、MATLAB & Simulinkをはじめとする MathWorks のネットワーク、システム、アプリケーションなどのサービスが一時的に利用できない状況が続いており、MathWorks […]\nMathWorksサービス障害について（5/19～） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/05/20/20250519_mathworks_service/",
-          "publishedOn": "2025-05-20T07:19:54.000Z",
-          "wordCount": 1172,
-          "title": "MathWorksサービス障害について（5/19～）",
           "imageUrl": null
         }
       ]
