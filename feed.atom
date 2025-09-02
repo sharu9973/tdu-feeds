@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-09-02T13:25:04.176Z</updated>
+    <updated>2025-09-02T14:13:22.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[ネットワーク、サーバ等の障害について（9/1）]]></title>
+        <title type="html"><![CDATA[【復旧】ネットワーク、サーバ等の障害について（9/1）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23241</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/09/02/network-250901/"/>
         <updated>2025-09-01T15:04:42.000Z</updated>
-        <summary type="html"><![CDATA[9/1(月)20:50頃より、ネットワーク、サーバ等の障害が発生しております。一部のサービスは復旧しておりますが、影響が継続しているサービスがあり、復旧作業を進めております。※サービス復旧の状況に応じて情報を順次更新いた […]
-ネットワーク、サーバ等の障害について（9/1） first appeared on 総合メディアセンター.]]></summary>
+        <summary type="html"><![CDATA[9/1(月)20:50頃より、ネットワーク、サーバ等の障害が発生しました。 障害内容：ネットワーク、サーバ等の障害発生日時：2025年9月1日(月)　20:50頃～　　　　　9月2日(火)　18:00頃　※全てのサービス […]
+【復旧】ネットワーク、サーバ等の障害について（9/1） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
