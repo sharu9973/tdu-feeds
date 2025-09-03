@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-09-03T11:11:12.130Z</updated>
+    <updated>2025-09-03T12:26:05.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[視聴覚設備（東京千住キャンパス）一覧更新（9/1）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23317</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/09/03/network-250901-2/"/>
+        <updated>2025-09-03T11:59:25.000Z</updated>
+        <summary type="html"><![CDATA[東京千住キャンパスでは、令和6年度～令和7年度にかけて視聴覚設備の更新を行っております。この8月に、2号館9階10階と5号館の教室・ゼミ室の更新が完了しました。使用方法が、前期と異なる場合がありますので、各教室の設備一覧 […]
+視聴覚設備（東京千住キャンパス）一覧更新（9/1） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>takahito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【復旧】ネットワーク、サーバ等の障害について（9/1）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23241</id>
