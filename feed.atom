@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-11-03T21:13:19.367Z</updated>
+    <updated>2025-11-03T22:13:56.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -92,17 +92,6 @@
 【復旧】ネットワーク、サーバ等の障害について（9/1） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏季休業期間中の図書の返却について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23045</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/08/06/bookpost_20250809-0819/"/>
-        <updated>2025-08-06T09:26:41.000Z</updated>
-        <summary type="html"><![CDATA[夏季休業期間中の図書の返却については、風除室に設置してあるブックポストで受付けます。東京千住キャンパスの場合、風除室へは身分証をリーダーにかざして入室してください。ただし、以下の日程は電気設備年次点検等による停電作業の影 […]
-夏季休業期間中の図書の返却について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
         </author>
     </entry>
 </feed>
