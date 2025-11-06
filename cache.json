@@ -18,12 +18,32 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23805",
+          "author": "yatsuko",
+          "description": "高機能数値計算ソフトウェア MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。 今回は、4大学のMATLAB学生アンバサダーが合同で、オンラインで講習会を開催 […]\nMATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251119_matlab/",
+          "publishedOn": "2025-11-06T12:54:23.000Z",
+          "wordCount": 1180,
+          "title": "MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23808",
+          "author": "yatsuko",
+          "description": "【機械学習入門セミナー】MATLABで始める機械学習 画像認識、自然言語処理、予測分析など、様々な分野で活用されている機械学習。 本セミナーでは、MATLABを使って機械学習の基礎を学びます。 機械学習の概要説明の後は、 […]\nMATLAB機械学習入門セミナー開催のお知らせ（11/21開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251121_matlab_seminar/",
+          "publishedOn": "2025-11-06T12:40:30.000Z",
+          "wordCount": 1194,
+          "title": "MATLAB機械学習入門セミナー開催のお知らせ（11/21開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23616",
           "author": "yatsuko",
           "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用が不安定になる場合があります。　 […]\nプリントシステムメンテナンスについて（10/15） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/10/08/20251015_printsystem/",
           "publishedOn": "2025-10-08T12:23:30.000Z",
-          "wordCount": 1166,
+          "wordCount": 1167,
           "title": "プリントシステムメンテナンスについて（10/15）",
           "imageUrl": null
         },

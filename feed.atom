@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-11-06T12:28:49.255Z</updated>
+    <updated>2025-11-06T13:27:21.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23805</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251119_matlab/"/>
+        <updated>2025-11-06T12:54:23.000Z</updated>
+        <summary type="html"><![CDATA[高機能数値計算ソフトウェア MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。 今回は、4大学のMATLAB学生アンバサダーが合同で、オンラインで講習会を開催 […]
+MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MATLAB機械学習入門セミナー開催のお知らせ（11/21開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23808</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251121_matlab_seminar/"/>
+        <updated>2025-11-06T12:40:30.000Z</updated>
+        <summary type="html"><![CDATA[【機械学習入門セミナー】MATLABで始める機械学習 画像認識、自然言語処理、予測分析など、様々な分野で活用されている機械学習。 本セミナーでは、MATLABを使って機械学習の基礎を学びます。 機械学習の概要説明の後は、 […]
+MATLAB機械学習入門セミナー開催のお知らせ（11/21開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プリントシステムメンテナンスについて（10/15）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23616</id>
