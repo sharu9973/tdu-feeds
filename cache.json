@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23942",
+          "author": "yatsuko",
+          "description": "本学は、Mathematicaのサイトライセンス契約を結んでいます。東京電機大学に在籍する、みなさんは最新版のMathematicaを利用することができます。　今回の講座はMathematicaを使って，AIの基本技術で […]\nMathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/03/20251217_mathematica/",
+          "publishedOn": "2025-12-03T01:26:04.000Z",
+          "wordCount": 1197,
+          "title": "Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23878",
           "author": "m_hasebe",
           "description": "総合メディアセンターで提供しているVPNサービスについて、セキュリティの一層の強化のため、二要素認証を必須化いたします。 VPNの二要素認証化　実施予定日：2025年12月1日（月）13時以降～ 詳細はVPNのページを参 […]\nVPNのセキュリティ強化（二要素認証の必須化）について（12/1～） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/18/networkmaintenance-20251118/",
           "publishedOn": "2025-11-18T11:25:55.000Z",
-          "wordCount": 1130,
+          "wordCount": 1131,
           "title": "VPNのセキュリティ強化（二要素認証の必須化）について（12/1～）",
           "imageUrl": null
         },

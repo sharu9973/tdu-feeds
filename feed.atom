@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-12-03T01:08:26.117Z</updated>
+    <updated>2025-12-03T03:12:46.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23942</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/03/20251217_mathematica/"/>
+        <updated>2025-12-03T01:26:04.000Z</updated>
+        <summary type="html"><![CDATA[本学は、Mathematicaのサイトライセンス契約を結んでいます。東京電機大学に在籍する、みなさんは最新版のMathematicaを利用することができます。　今回の講座はMathematicaを使って，AIの基本技術で […]
+Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VPNのセキュリティ強化（二要素認証の必須化）について（12/1～）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23878</id>
