@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "注意喚起情報 | TDU-CSIRT",
+      "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/heads-up/feed/",
+      "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
+      "articles": []
+    },
+    {
       "title": "お知らせ | TDU-CSIRT",
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
@@ -27,7 +33,7 @@
           "description": "以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 以上、ご迷惑をおかけいたしますが、ご理解ご協力をお願いいたします。  \n共通パスワード変更の停止のお知らせ（12/16） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/10/20251216_password/",
           "publishedOn": "2025-12-10T00:39:50.000Z",
-          "wordCount": null,
+          "wordCount": 1134,
           "title": "共通パスワード変更の停止のお知らせ（12/16）",
           "imageUrl": null
         },
@@ -107,7 +113,7 @@
           "description": "下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]\n「Web of Science・EndNote Online」講習会の開催について（10/21） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/09/30/2025-web-of-science/",
           "publishedOn": "2025-09-30T09:05:59.000Z",
-          "wordCount": null,
+          "wordCount": 1206,
           "title": "「Web of Science・EndNote Online」講習会の開催について（10/21）",
           "imageUrl": null
         }
