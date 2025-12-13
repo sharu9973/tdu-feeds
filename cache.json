@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23991",
+          "author": "katsumi",
+          "description": "現在、ネットワーク機器の負荷増大による通信の遅れが発生しています。 障害の復旧見込みは未定となっております。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から影　　響：本学 […]\nネットワークの障害について（12/13） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/13/network-251213/",
+          "publishedOn": "2025-12-13T02:04:39.000Z",
+          "wordCount": 1134,
+          "title": "ネットワークの障害について（12/13）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23988",
           "author": "m_hasebe",
           "description": "以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 以上、ご迷惑をおかけいたしますが、ご理解ご協力をお願いいたします。  \n共通パスワード変更の停止のお知らせ（12/16） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/10/20251216_password/",
           "publishedOn": "2025-12-10T00:39:50.000Z",
-          "wordCount": 1133,
+          "wordCount": 1134,
           "title": "共通パスワード変更の停止のお知らせ（12/16）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-09-30T09:05:59.000Z",
           "wordCount": 1206,
           "title": "「Web of Science・EndNote Online」講習会の開催について（10/21）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23442",
-          "author": "小此木俊宏",
-          "description": "総合メディアセンターでは、以下の通り「IEEE Xplore」のトレーニングセッションを対面とZoomのハイブリッドで開催いたします。 「IEEE Xplore」は、IEEE（米国電気電子学会）およびIET（英国工学技術 […]\n「IEEE Xplore」トレーニングセッションの開催について（10/3） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/09/19/ieee-xplore-trainingsession_20251003/",
-          "publishedOn": "2025-09-19T06:53:25.000Z",
-          "wordCount": 1202,
-          "title": "「IEEE Xplore」トレーニングセッションの開催について（10/3）",
           "imageUrl": null
         }
       ]
