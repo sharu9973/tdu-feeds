@@ -11,6 +11,113 @@
       "feedUrl": "https://www.csirt.dendai.ac.jp/csirt/category/public/notice/feed/",
       "siteUrl": "https://www.csirt.dendai.ac.jp/csirt",
       "articles": []
+    },
+    {
+      "title": "総合メディアセンター",
+      "feedUrl": "https://www.mrcl.dendai.ac.jp/mrcl/feed/",
+      "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
+      "articles": [
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23991",
+          "author": "katsumi",
+          "description": "現在、ネットワーク機器の負荷増大による通信の遅れが発生しています。 障害の復旧見込みは未定となっております。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から影　　響：本学 […]\nネットワークの障害について（12/13） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/13/network-251213/",
+          "publishedOn": "2025-12-13T02:04:39.000Z",
+          "wordCount": 1134,
+          "title": "ネットワークの障害について（12/13）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23988",
+          "author": "m_hasebe",
+          "description": "以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 以上、ご迷惑をおかけいたしますが、ご理解ご協力をお願いいたします。  \n共通パスワード変更の停止のお知らせ（12/16） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/10/20251216_password/",
+          "publishedOn": "2025-12-10T00:39:50.000Z",
+          "wordCount": 1134,
+          "title": "共通パスワード変更の停止のお知らせ（12/16）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23982",
+          "author": "yatsuko",
+          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用が不安定になる場合があります。　 […]\nプリントシステムメンテナンスについて（12/16） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/09/20251216_printsystem/",
+          "publishedOn": "2025-12-09T00:50:54.000Z",
+          "wordCount": 1164,
+          "title": "プリントシステムメンテナンスについて（12/16）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23942",
+          "author": "yatsuko",
+          "description": "本学は、Mathematicaのサイトライセンス契約を結んでいます。東京電機大学に在籍する、みなさんは最新版のMathematicaを利用することができます。　今回の講座はMathematicaを使って，AIの基本技術で […]\nMathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/03/20251217_mathematica/",
+          "publishedOn": "2025-12-03T01:26:04.000Z",
+          "wordCount": 1198,
+          "title": "Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23878",
+          "author": "m_hasebe",
+          "description": "総合メディアセンターで提供しているVPNサービスについて、セキュリティの一層の強化のため、二要素認証を必須化いたします。 VPNの二要素認証化　実施予定日：2025年12月1日（月）13時以降～ 詳細はVPNのページを参 […]\nVPNのセキュリティ強化（二要素認証の必須化）について（12/1～） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/18/networkmaintenance-20251118/",
+          "publishedOn": "2025-11-18T11:25:55.000Z",
+          "wordCount": 1131,
+          "title": "VPNのセキュリティ強化（二要素認証の必須化）について（12/1～）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23805",
+          "author": "yatsuko",
+          "description": "高機能数値計算ソフトウェア MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。 今回は、4大学のMATLAB学生アンバサダーが合同で、オンラインで講習会を開催 […]\nMATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251119_matlab/",
+          "publishedOn": "2025-11-06T12:54:23.000Z",
+          "wordCount": 1181,
+          "title": "MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23808",
+          "author": "yatsuko",
+          "description": "【機械学習入門セミナー】MATLABで始める機械学習 画像認識、自然言語処理、予測分析など、様々な分野で活用されている機械学習。 本セミナーでは、MATLABを使って機械学習の基礎を学びます。 機械学習の概要説明の後は、 […]\nMATLAB機械学習入門セミナー開催のお知らせ（11/21開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251121_matlab_seminar/",
+          "publishedOn": "2025-11-06T12:40:30.000Z",
+          "wordCount": 1194,
+          "title": "MATLAB機械学習入門セミナー開催のお知らせ（11/21開催）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23616",
+          "author": "yatsuko",
+          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用が不安定になる場合があります。　 […]\nプリントシステムメンテナンスについて（10/15） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/10/08/20251015_printsystem/",
+          "publishedOn": "2025-10-08T12:23:30.000Z",
+          "wordCount": 1167,
+          "title": "プリントシステムメンテナンスについて（10/15）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23625",
+          "author": "小此木俊宏",
+          "description": "本学が契約している電子ジャーナル「IEEE Xplore」を提供するIEEEおよび丸善雄松堂共催によるシンポジウムがオンラインで開催されます。 　　★IEEE 論文執筆 オープンアクセス シンポジウム（ポスター） 論文 […]\n「IEEE 論文執筆 オープンアクセス シンポジウム」の開催について（10/21） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/10/06/20251021_ieee-openaccess-symposium/",
+          "publishedOn": "2025-10-06T09:37:01.000Z",
+          "wordCount": 1194,
+          "title": "「IEEE 論文執筆 オープンアクセス シンポジウム」の開催について（10/21）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23566",
+          "author": "小此木俊宏",
+          "description": "下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]\n「Web of Science・EndNote Online」講習会の開催について（10/21） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/09/30/2025-web-of-science/",
+          "publishedOn": "2025-09-30T09:05:59.000Z",
+          "wordCount": 1206,
+          "title": "「Web of Science・EndNote Online」講習会の開催について（10/21）",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
