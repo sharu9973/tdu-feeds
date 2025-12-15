@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2025-12-14T23:13:27.354Z</updated>
+    <updated>2025-12-15T01:12:23.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[ネットワークの障害について（12/13）]]></title>
+        <title type="html"><![CDATA[【継続】ネットワークの障害について（12/13～）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23991</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/13/network-251213/"/>
         <updated>2025-12-13T02:04:39.000Z</updated>
-        <summary type="html"><![CDATA[現在、ネットワーク機器の負荷増大による通信の遅れが発生しています。 障害の復旧見込みは未定となっております。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から影　　響：本学 […]
-ネットワークの障害について（12/13） first appeared on 総合メディアセンター.]]></summary>
+        <summary type="html"><![CDATA[現在、ネットワーク機器の負荷増大による通信の遅れが発生しています。 障害の復旧見込みは未定となっております。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から 　　　　　2 […]
+【継続】ネットワークの障害について（12/13～） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
