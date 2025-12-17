@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24016",
+          "author": "yatsuko",
+          "description": "12/17 10時頃よりBoxで障害が起き、利用できない状態が発生しておりました。 障害内容：Boxへのログイン、ブラウザからのアクセス不具合発生日時：2025年12月17日(水)　10時頃から 　　　　　2025年12 […]\n【復旧】Boxの障害について（12/17） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/17/network-251213-2/",
+          "publishedOn": "2025-12-17T05:08:04.000Z",
+          "wordCount": 1134,
+          "title": "【復旧】Boxの障害について（12/17）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23991",
           "author": "katsumi",
           "description": "12/13（土）より、ネットワーク機器の負荷増大による通信の遅れが発生していました。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から 　　　　　2025年12月15日(月 […]\n【続報】ネットワークの障害について（12/13～） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/12/13/network-251213/",
           "publishedOn": "2025-12-13T02:04:39.000Z",
-          "wordCount": 1143,
+          "wordCount": 1144,
           "title": "【続報】ネットワークの障害について（12/13～）",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2025-10-06T09:37:01.000Z",
           "wordCount": 1194,
           "title": "「IEEE 論文執筆 オープンアクセス シンポジウム」の開催について（10/21）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=23566",
-          "author": "小此木俊宏",
-          "description": "下記の通り、「Web of Science・EndNote Online」の講習会をオンライン（WebEx）にて開催いたします。 　Web of Scienceは、インパクトファクターが付与されている厳選されたジャーナ […]\n「Web of Science・EndNote Online」講習会の開催について（10/21） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2025/09/30/2025-web-of-science/",
-          "publishedOn": "2025-09-30T09:05:59.000Z",
-          "wordCount": 1206,
-          "title": "「Web of Science・EndNote Online」講習会の開催について（10/21）",
           "imageUrl": null
         }
       ]
