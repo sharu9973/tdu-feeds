@@ -2,43 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-01-27T16:22:18.912Z</updated>
+    <updated>2026-01-27T17:23:19.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[【障害】ネットワークの障害について（1/27～）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24107</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/01/27/network-260127/"/>
-        <updated>2026-01-27T08:34:36.000Z</updated>
-        <summary type="html"><![CDATA[1/27（火）13：52ごろより、ネットワーク接続の障害が発生しております。 障害内容：ネットワーク接続不具合発生日時：2026年1月27日(火)　13:52ごろから 　　　　　2026年1月27日(火)　16:00頃よ […]
-【障害】ネットワークの障害について（1/27～） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24057</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/26/2025_2026_service/"/>
-        <updated>2025-12-26T04:14:01.000Z</updated>
-        <summary type="html"><![CDATA[冬季休業期間中、以下の日程で窓口業務を停止いたします。また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、１月７日（水）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申 […]
-冬季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【東京千住キャンパス】無線LANシステムメンテナンス作業のお知らせ（1/6）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24043</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/26/networkmaintenance-20260106/"/>
-        <updated>2025-12-26T01:35:10.000Z</updated>
-        <summary type="html"><![CDATA[東京千住キャンパスの無線LANシステムのメンテナンス作業を行います。作業中は無線ネットワーク停止が発生します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　2026年1月6日（火）午前1時頃 内　 […]
-【東京千住キャンパス】無線LANシステムメンテナンス作業のお知らせ（1/6） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>m_hasebe</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe AcrobatおよびReaderの脆弱性（APSB25-119）に関する注意喚起]]></title>
         <id>https://www.csirt.dendai.ac.jp/csirt/?p=21247</id>
@@ -48,83 +15,6 @@
 Adobe AcrobatおよびReaderの脆弱性（APSB25-119）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>KanekoManami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧】Boxの障害について（12/17）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24016</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/17/network-251213-2/"/>
-        <updated>2025-12-17T05:08:04.000Z</updated>
-        <summary type="html"><![CDATA[12/17 10時頃よりBoxで障害が起き、利用できない状態が発生しておりました。 障害内容：Boxへのログイン、ブラウザからのアクセス不具合発生日時：2025年12月17日(水)　10時頃から 　　　　　2025年12 […]
-【復旧】Boxの障害について（12/17） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【続報】ネットワークの障害について（12/13～）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23991</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/13/network-251213/"/>
-        <updated>2025-12-13T02:04:39.000Z</updated>
-        <summary type="html"><![CDATA[12/13（土）より、ネットワーク機器の負荷増大による通信の遅れが発生していました。 障害内容：ネットワーク接続の負荷による通信の遅れ発生日時：2025年12月13日(土)　未明から 　　　　　2025年12月15日(月 […]
-【続報】ネットワークの障害について（12/13～） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共通パスワード変更の停止のお知らせ（12/16）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23988</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/10/20251216_password/"/>
-        <updated>2025-12-10T00:39:50.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、ID管理システムのメンテナンス作業の実施に伴い、共通パスワードの変更が行えなくなります。 以上、ご迷惑をおかけいたしますが、ご理解ご協力をお願いいたします。  
-共通パスワード変更の停止のお知らせ（12/16） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>m_hasebe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリントシステムメンテナンスについて（12/16）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23982</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/09/20251216_printsystem/"/>
-        <updated>2025-12-09T00:50:54.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用が不安定になる場合があります。　 […]
-プリントシステムメンテナンスについて（12/16） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23942</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/03/20251217_mathematica/"/>
-        <updated>2025-12-03T01:26:04.000Z</updated>
-        <summary type="html"><![CDATA[本学は、Mathematicaのサイトライセンス契約を結んでいます。東京電機大学に在籍する、みなさんは最新版のMathematicaを利用することができます。　今回の講座はMathematicaを使って，AIの基本技術で […]
-Mathematicaを使った機械学習～AIの仕組みを体験しよう～（12/17開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VPNのセキュリティ強化（二要素認証の必須化）について（12/1～）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23878</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/11/18/networkmaintenance-20251118/"/>
-        <updated>2025-11-18T11:25:55.000Z</updated>
-        <summary type="html"><![CDATA[総合メディアセンターで提供しているVPNサービスについて、セキュリティの一層の強化のため、二要素認証を必須化いたします。 VPNの二要素認証化　実施予定日：2025年12月1日（月）13時以降～ 詳細はVPNのページを参 […]
-VPNのセキュリティ強化（二要素認証の必須化）について（12/1～） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>m_hasebe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=23805</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/11/06/20251119_matlab/"/>
-        <updated>2025-11-06T12:54:23.000Z</updated>
-        <summary type="html"><![CDATA[高機能数値計算ソフトウェア MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。 今回は、4大学のMATLAB学生アンバサダーが合同で、オンラインで講習会を開催 […]
-MATLABで数式の計算をしてみよう！オンライン講習会のお知らせ（11/19） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
