@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24159",
+          "author": "yatsuko",
+          "description": "修了・卒業予定者 各位 　総合メディアセンターが提供する各種サービスに関して、卒業後の扱い等をお知らせします。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。 詳細はこちら ⇒卒業後の総合メデ […]\n修了生・卒業生の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/02/10/202603_graduation/",
+          "publishedOn": "2026-02-10T14:25:35.000Z",
+          "wordCount": 1286,
+          "title": "修了生・卒業生の総合メディアセンター各種サービスの扱いについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24107",
           "author": "yatsuko",
           "description": "1/27（火）13：52ごろより、ネットワーク接続の障害が発生しております。 障害内容：ネットワーク接続不具合発生日時：2026年1月27日(火)　13:52ごろから 　　　　　2026年1月27日(火)　16:00頃よ […]\n【復旧】ネットワークの障害について（1/27～） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/01/27/network-260127/",
           "publishedOn": "2026-01-27T08:34:36.000Z",
-          "wordCount": 1217,
+          "wordCount": 1218,
           "title": "【復旧】ネットワークの障害について（1/27～）",
           "imageUrl": null
         },
