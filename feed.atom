@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-02-19T04:13:51.649Z</updated>
+    <updated>2026-02-19T05:54:23.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無線LANシステムメンテナンス作業のお知らせ（3/4,10）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24211</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/02/19/networkmaintenance-20260304/"/>
+        <updated>2026-02-19T04:27:40.000Z</updated>
+        <summary type="html"><![CDATA[東京小金井キャンパスおよび埼玉鳩山キャンパスの無線LANシステムのメンテナンス作業を行います。作業中は無線ネットワーク停止が発生します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　東京小金井キャ […]
+無線LANシステムメンテナンス作業のお知らせ（3/4,10） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>m_hasebe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修了生・卒業生の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24159</id>
