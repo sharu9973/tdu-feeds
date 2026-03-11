@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24293",
+          "author": "yatsuko",
+          "description": "マイクロソフト社の方針変更に伴い、2024年8月より本学全体で使用できるストレージの総容量に制限が課せられています。本学全体で使用できるストレージを確保するため、3月21日（土）Microsoftアカウントで利用できるO […]\nMicrosoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/03/11/202603microsoft365_onedrive/",
+          "publishedOn": "2026-03-11T00:40:04.000Z",
+          "wordCount": 1262,
+          "title": "Microsoft 365 – OneDrive上限容量変更について",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24305",
           "author": "yatsuko",
           "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（3/16、17） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/03/04/20250316_17_printsystem/",
           "publishedOn": "2026-03-04T04:57:18.000Z",
-          "wordCount": 1258,
+          "wordCount": 1262,
           "title": "プリントシステムメンテナンスについて（3/16、17）",
           "imageUrl": null
         },
