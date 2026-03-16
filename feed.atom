@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-03-16T17:04:39.348Z</updated>
+    <updated>2026-03-16T18:52:59.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -103,17 +103,6 @@ MATLAB機械学習入門セミナー開催のお知らせ（3/6開催） first a
 Adobe AcrobatおよびReaderの脆弱性（APSB25-119）に関する注意喚起 first appeared on TDU-CSIRT.]]></summary>
         <author>
             <name>KanekoManami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧】Boxの障害について（12/17）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24016</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/17/network-251213-2/"/>
-        <updated>2025-12-17T05:08:04.000Z</updated>
-        <summary type="html"><![CDATA[12/17 10時頃よりBoxで障害が起き、利用できない状態が発生しておりました。 障害内容：Boxへのログイン、ブラウザからのアクセス不具合発生日時：2025年12月17日(水)　10時頃から 　　　　　2025年12 […]
-【復旧】Boxの障害について（12/17） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
