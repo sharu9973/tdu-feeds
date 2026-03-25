@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-03-25T16:03:53.743Z</updated>
+    <updated>2026-03-25T17:52:57.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -70,17 +70,6 @@ MATLAB機械学習入門セミナー開催のお知らせ（3/6開催） first a
 【復旧】ネットワークの障害について（1/27～） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24057</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2025/12/26/2025_2026_service/"/>
-        <updated>2025-12-26T04:14:01.000Z</updated>
-        <summary type="html"><![CDATA[冬季休業期間中、以下の日程で窓口業務を停止いたします。また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、１月７日（水）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申 […]
-冬季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
