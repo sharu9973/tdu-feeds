@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-03-27T07:56:46.999Z</updated>
+    <updated>2026-03-27T08:44:15.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -59,6 +59,17 @@ MATLAB機械学習入門セミナー開催のお知らせ（3/6開催） first a
 無線LANシステムメンテナンス作業のお知らせ（3/4,10） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>m_hasebe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報セキュリティ10大脅威 ２０２６]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24539</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/02/13/ipa_10threats2026/"/>
+        <updated>2026-02-13T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[独立行政法人 情報処理推進機構（IPA）は、2025年に発生した社会的影響の大きい情報セキュリティ事故や攻撃事例をもとに、2026年版となる「情報セキュリティ10大脅威」を発表しました。 組織向けの脅威では、例年と同様に […]
+情報セキュリティ10大脅威 ２０２６ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
         </author>
     </entry>
     <entry>
