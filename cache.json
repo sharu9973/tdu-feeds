@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24642",
+          "author": "katsumi",
+          "description": "有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]\nプログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/01/paiza-rank-challenge2026/",
+          "publishedOn": "2026-04-01T05:04:15.000Z",
+          "wordCount": 1373,
+          "title": "プログラミング学習応援企画 paizaランクチャレンジ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24636",
           "author": "katsumi",
           "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python […]\npaizaラーニング「無料クーポン」プレゼントについて（2026） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/01/paiza-coupon-2026/",
           "publishedOn": "2026-04-01T02:10:54.000Z",
-          "wordCount": 1239,
+          "wordCount": 1241,
           "title": "paizaラーニング「無料クーポン」プレゼントについて（2026）",
           "imageUrl": null
         },
