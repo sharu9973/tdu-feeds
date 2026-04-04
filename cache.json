@@ -18,12 +18,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24600",
+          "author": "小此木俊宏",
+          "description": "総合メディアセンター 図書サービスでは、東京千住キャンパス・埼玉鳩山キャンパスにおいて図書館・図書閲覧室のガイダンスを開催いたします。 ガイダンスは以下について約３０分で説明いたします。 この機会に、学習や研究を進めてい […]\n図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/04/2026_library_guidance/",
+          "publishedOn": "2026-04-04T08:57:35.000Z",
+          "wordCount": 1257,
+          "title": "図書館・図書閲覧室ガイダンスのお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24372",
           "author": "yatsuko",
           "description": "新入生のアカウントにはあらかじめ初期パスワードが設定されています。 有効期限までにパスワードの変更が行われなかった場合、セキュリティ上の理由により、アカウントがロックされ、各サービスのご利用が停止されます。 なお、有効期 […]\n新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/03/2026_password/",
           "publishedOn": "2026-04-03T05:30:13.000Z",
-          "wordCount": 1234,
+          "wordCount": 1235,
           "title": "新入生 初期パスワードの有効期限について【4/20まで】",
           "imageUrl": null
         },
@@ -105,16 +115,6 @@
           "publishedOn": "2026-02-19T04:27:40.000Z",
           "wordCount": 1238,
           "title": "無線LANシステムメンテナンス作業のお知らせ（3/4,10）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24539",
-          "author": "katsumi",
-          "description": "独立行政法人 情報処理推進機構（IPA）は、2025年に発生した社会的影響の大きい情報セキュリティ事故や攻撃事例をもとに、2026年版となる「情報セキュリティ10大脅威」を発表しました。 組織向けの脅威では、例年と同様に […]\n情報セキュリティ10大脅威 ２０２６ first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/02/13/ipa_10threats2026/",
-          "publishedOn": "2026-02-13T08:01:00.000Z",
-          "wordCount": 1384,
-          "title": "情報セキュリティ10大脅威 ２０２６",
           "imageUrl": null
         }
       ]
