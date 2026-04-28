@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-04-28T08:11:36.463Z</updated>
+    <updated>2026-04-28T10:57:56.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【緊急】WebClassシステムメンテナンス（5/1）のお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26736</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/webclassmaintenance-2/"/>
+        <updated>2026-04-28T09:33:37.000Z</updated>
+        <summary type="html"><![CDATA[緊急メンテナンス作業のため、以下の期間WebClassのサービスを停止いたします。ご迷惑をお掛けいたしますが、ご理解ご協力のほどよろしくお願いいたします。 【日付】: ２０２６年５月１日（金）【時間】: 午前 ７:３０～ […]
+【緊急】WebClassシステムメンテナンス（5/1）のお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[paizaラーニングガイダンス（4/30開催）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26711</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/202604_paizaguidance/"/>
+        <updated>2026-04-28T09:26:02.000Z</updated>
+        <summary type="html"><![CDATA[paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python、Ruby、PHP […]
+paizaラーニングガイダンス（4/30開催） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe AcrobatおよびReaderの脆弱性（APSB26-44）に関する注意喚起]]></title>
         <id>https://www.csirt.dendai.ac.jp/csirt/?p=21347</id>
@@ -101,28 +123,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2026�
         <updated>2026-03-11T00:40:04.000Z</updated>
         <summary type="html"><![CDATA[マイクロソフト社の方針変更に伴い、2024年8月より本学全体で使用できるストレージの総容量に制限が課せられています。本学全体で使用できるストレージを確保するため、3月21日（土）Microsoftアカウントで利用できるO […]
 Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリントシステムメンテナンスについて（3/16、17）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24305</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/03/04/20250316_17_printsystem/"/>
-        <updated>2026-03-04T04:57:18.000Z</updated>
-        <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]
-プリントシステムメンテナンスについて（3/16、17） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLAB機械学習入門セミナー開催のお知らせ（3/6開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24217</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/02/24/20260306_matlab_seminar/"/>
-        <updated>2026-02-24T13:21:18.000Z</updated>
-        <summary type="html"><![CDATA[【機械学習入門セミナー】MATLABで手軽に機械学習 画像認識、自然言語処理、予測分析など、様々な分野で活用されている機械学習。 本セミナーでは、MATLABを使って機械学習の基礎を学びます。 機械学習の概要説明の後は、 […]
-MATLAB機械学習入門セミナー開催のお知らせ（3/6開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>

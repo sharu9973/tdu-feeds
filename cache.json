@@ -29,12 +29,32 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26736",
+          "author": "yatsuko",
+          "description": "緊急メンテナンス作業のため、以下の期間WebClassのサービスを停止いたします。ご迷惑をお掛けいたしますが、ご理解ご協力のほどよろしくお願いいたします。 【日付】: ２０２６年５月１日（金）【時間】: 午前 ７:３０～ […]\n【緊急】WebClassシステムメンテナンス（5/1）のお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/webclassmaintenance-2/",
+          "publishedOn": "2026-04-28T09:33:37.000Z",
+          "wordCount": 1225,
+          "title": "【緊急】WebClassシステムメンテナンス（5/1）のお知らせ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26711",
+          "author": "yatsuko",
+          "description": "paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python、Ruby、PHP […]\npaizaラーニングガイダンス（4/30開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/202604_paizaguidance/",
+          "publishedOn": "2026-04-28T09:26:02.000Z",
+          "wordCount": 1261,
+          "title": "paizaラーニングガイダンス（4/30開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=25829",
           "author": "katsumi",
           "description": "以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]\n利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/09/202604_soudan-service/",
           "publishedOn": "2026-04-09T06:40:32.000Z",
-          "wordCount": 1228,
+          "wordCount": 1229,
           "title": "利用相談・プログラム相談のサービス開始について",
           "imageUrl": null
         },
@@ -106,26 +126,6 @@
           "publishedOn": "2026-03-11T00:40:04.000Z",
           "wordCount": 1279,
           "title": "Microsoft 365 – OneDrive上限容量変更について",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24305",
-          "author": "yatsuko",
-          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（3/16、17） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/03/04/20250316_17_printsystem/",
-          "publishedOn": "2026-03-04T04:57:18.000Z",
-          "wordCount": 1278,
-          "title": "プリントシステムメンテナンスについて（3/16、17）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24217",
-          "author": "yatsuko",
-          "description": "【機械学習入門セミナー】MATLABで手軽に機械学習 画像認識、自然言語処理、予測分析など、様々な分野で活用されている機械学習。 本セミナーでは、MATLABを使って機械学習の基礎を学びます。 機械学習の概要説明の後は、 […]\nMATLAB機械学習入門セミナー開催のお知らせ（3/6開催） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/02/24/20260306_matlab_seminar/",
-          "publishedOn": "2026-02-24T13:21:18.000Z",
-          "wordCount": 1577,
-          "title": "MATLAB機械学習入門セミナー開催のお知らせ（3/6開催）",
           "imageUrl": null
         }
       ]
