@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-05-07T02:11:35.828Z</updated>
+    <updated>2026-05-07T05:54:30.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【復旧】Boxの障害について（5/7）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26814</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/07/network-260507/"/>
+        <updated>2026-05-07T02:19:55.000Z</updated>
+        <summary type="html"><![CDATA[5/7（木） 9時半頃よりBoxで障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：Boxへのログインは可能だが、ファイルやフォルダへのアクセスが不安定になる。 発生日時：2026年5月7日（木）　9 […]
+【復旧】Boxの障害について（5/7） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【緊急】WebClassシステムメンテナンス（5/1）のお知らせ]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26736</id>
@@ -114,17 +125,6 @@ paizaラーニング「無料クーポン」プレゼントについて（2026�
 ソフトウェアライセンスサーバ停止のお知らせ（2026/3/30） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 – OneDrive上限容量変更について]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24293</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/03/11/202603microsoft365_onedrive/"/>
-        <updated>2026-03-11T00:40:04.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフト社の方針変更に伴い、2024年8月より本学全体で使用できるストレージの総容量に制限が課せられています。本学全体で使用できるストレージを確保するため、3月21日（土）Microsoftアカウントで利用できるO […]
-Microsoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>

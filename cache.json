@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26814",
+          "author": "yatsuko",
+          "description": "5/7（木） 9時半頃よりBoxで障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：Boxへのログインは可能だが、ファイルやフォルダへのアクセスが不安定になる。 発生日時：2026年5月7日（木）　9 […]\n【復旧】Boxの障害について（5/7） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/07/network-260507/",
+          "publishedOn": "2026-05-07T02:19:55.000Z",
+          "wordCount": 1227,
+          "title": "【復旧】Boxの障害について（5/7）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26736",
           "author": "yatsuko",
           "description": "緊急メンテナンス作業のため、以下の期間WebClassのサービスを停止いたします。ご迷惑をお掛けいたしますが、ご理解ご協力のほどよろしくお願いいたします。 【日付】: ２０２６年５月１日（金）【時間】: 午前 ７:３０～ […]\n【緊急】WebClassシステムメンテナンス（5/1）のお知らせ first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/webclassmaintenance-2/",
           "publishedOn": "2026-04-28T09:33:37.000Z",
-          "wordCount": 1225,
+          "wordCount": 1226,
           "title": "【緊急】WebClassシステムメンテナンス（5/1）のお知らせ",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2026-03-26T06:35:51.000Z",
           "wordCount": 1306,
           "title": "ソフトウェアライセンスサーバ停止のお知らせ（2026/3/30）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24293",
-          "author": "yatsuko",
-          "description": "マイクロソフト社の方針変更に伴い、2024年8月より本学全体で使用できるストレージの総容量に制限が課せられています。本学全体で使用できるストレージを確保するため、3月21日（土）Microsoftアカウントで利用できるO […]\nMicrosoft 365 – OneDrive上限容量変更について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/03/11/202603microsoft365_onedrive/",
-          "publishedOn": "2026-03-11T00:40:04.000Z",
-          "wordCount": 1279,
-          "title": "Microsoft 365 – OneDrive上限容量変更について",
           "imageUrl": null
         }
       ]
