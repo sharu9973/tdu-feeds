@@ -29,12 +29,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26839",
+          "author": "yatsuko",
+          "description": "4/28（火）から4/30（木） にかけて、Webclass、UNIPA等にアクセス障害が発生いたしました。ご迷惑をおかけして大変申し訳ありませんでした。 障害内容：ロードバランサにおけるサーバ証明書関連の不具合により、 […]\nWebclass、UNIPA等アクセス障害について（復旧済） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/webclass_260430/",
+          "publishedOn": "2026-05-11T11:17:52.000Z",
+          "wordCount": 1235,
+          "title": "Webclass、UNIPA等アクセス障害について（復旧済）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26850",
           "author": "小此木俊宏",
           "description": "以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日時：2026年5 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/opacmaintenance-20260512/",
           "publishedOn": "2026-05-11T07:25:44.000Z",
-          "wordCount": 1222,
+          "wordCount": 1223,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12）",
           "imageUrl": null
         },
@@ -116,16 +126,6 @@
           "publishedOn": "2026-04-01T05:04:15.000Z",
           "wordCount": 1372,
           "title": "プログラミング学習応援企画 paizaランクチャレンジ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24636",
-          "author": "katsumi",
-          "description": "学生・教職員各位 　paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python […]\npaizaラーニング「無料クーポン」プレゼントについて（2026） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/01/paiza-coupon-2026/",
-          "publishedOn": "2026-04-01T02:10:54.000Z",
-          "wordCount": 1239,
-          "title": "paizaラーニング「無料クーポン」プレゼントについて（2026）",
           "imageUrl": null
         }
       ]
