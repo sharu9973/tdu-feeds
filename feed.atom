@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-05-12T00:00:23.323Z</updated>
+    <updated>2026-05-12T03:51:41.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -11,7 +11,7 @@
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26839</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/webclass_260430/"/>
         <updated>2026-05-11T11:17:52.000Z</updated>
-        <summary type="html"><![CDATA[4/28（火）から4/30（木） にかけて、Webclass、UNIPA等にアクセス障害が発生いたしました。ご迷惑をおかけして大変申し訳ありませんでした。 障害内容：ロードバランサにおけるサーバ証明書関連の不具合により、 […]
+        <summary type="html"><![CDATA[4/28（火）から4/30（木） にかけて、Webclass、UNIPA等にアクセス障害が発生いたしました。 障害内容：ロードバランサにおけるサーバ証明書関連の不具合により、　　　　　一部の端末・ブラウザからWebCla […]
 Webclass、UNIPA等アクセス障害について（復旧済） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
