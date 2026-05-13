@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-05-13T09:37:49.515Z</updated>
+    <updated>2026-05-13T11:57:31.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26901</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/13/opacmaintenance-20260514/"/>
+        <updated>2026-05-13T09:59:35.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。 短期間に度重なるメンテナンスとなりご迷惑をおかけしますが、　　　　　　　　　 […]
+図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webclass、UNIPA等アクセス障害について（復旧済）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26839</id>
@@ -112,17 +123,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB26-44）に関する注意喚起 
         <updated>2026-04-01T07:03:43.000Z</updated>
         <summary type="html"><![CDATA[MATLABは、国内外の企業や研究機関で幅広く活用されているプログラミング言語です。 　学科によっては、授業で扱う機会が少なく、研究室に配属されてから使い始める学生も少なくありません。実験や実習のデータ整理やグラフ作成 […]
 【MATLAB入門セミナー】MATLABの基本操作を学ぼう（4/16開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プログラミング学習応援企画 paizaランクチャレンジ]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24642</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/01/paiza-rank-challenge2026/"/>
-        <updated>2026-04-01T05:04:15.000Z</updated>
-        <summary type="html"><![CDATA[有料の講座であるpaiza（パイザ）ラーニング（ https://paiza.jp/works ）の受講に「無料クーポン」をご用意しました。本来有料の多彩なコンテンツが、今年度末まで無料で受講可能になります。 　このた […]
-プログラミング学習応援企画 paizaランクチャレンジ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
         </author>
