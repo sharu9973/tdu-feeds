@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-05-21T02:41:40.028Z</updated>
+    <updated>2026-05-21T06:47:24.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26971</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/21/opacmaintenance-20260521/"/>
+        <updated>2026-05-21T04:42:20.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]
+図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26901</id>
@@ -114,17 +125,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB26-44）に関する注意喚起 
 新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MATLAB入門セミナー】MATLABの基本操作を学ぼう（4/16開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24660</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/01/202604_matlab/"/>
-        <updated>2026-04-01T07:03:43.000Z</updated>
-        <summary type="html"><![CDATA[MATLABは、国内外の企業や研究機関で幅広く活用されているプログラミング言語です。 　学科によっては、授業で扱う機会が少なく、研究室に配属されてから使い始める学生も少なくありません。実験や実習のデータ整理やグラフ作成 […]
-【MATLAB入門セミナー】MATLABの基本操作を学ぼう（4/16開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
