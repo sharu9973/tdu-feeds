@@ -29,6 +29,16 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27055",
+          "author": "小此木俊宏",
+          "description": "この度、「ProQuest Ebook Central」にてO’Reilly（オライリー）社の刊行する書籍を電子ブックで閲覧できるようになりました。 「ProQuest Ebook Central」は、Cla […]\nO’Reilly出版の電子ブック（洋書）が閲覧できるようになりました first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/02/proquest-_ebook_central_20260602/",
+          "publishedOn": "2026-06-02T11:58:26.000Z",
+          "wordCount": 1228,
+          "title": "O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26971",
           "author": "小此木俊宏",
           "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21） first appeared on 総合メディアセンター.",
@@ -116,16 +126,6 @@
           "publishedOn": "2026-04-04T08:57:35.000Z",
           "wordCount": 1257,
           "title": "図書館・図書閲覧室ガイダンスのお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=24372",
-          "author": "yatsuko",
-          "description": "新入生のアカウントにはあらかじめ初期パスワードが設定されています。 有効期限までにパスワードの変更が行われなかった場合、セキュリティ上の理由により、アカウントがロックされ、各サービスのご利用が停止されます。 なお、有効期 […]\n新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/03/2026_password/",
-          "publishedOn": "2026-04-03T05:30:13.000Z",
-          "wordCount": 1233,
-          "title": "新入生 初期パスワードの有効期限について【4/20まで】",
           "imageUrl": null
         }
       ]

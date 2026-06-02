@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-06-02T11:58:31.152Z</updated>
+    <updated>2026-06-02T16:27:43.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27055</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/06/02/proquest-_ebook_central_20260602/"/>
+        <updated>2026-06-02T11:58:26.000Z</updated>
+        <summary type="html"><![CDATA[この度、「ProQuest Ebook Central」にてO’Reilly（オライリー）社の刊行する書籍を電子ブックで閲覧できるようになりました。 「ProQuest Ebook Central」は、Cla […]
+O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26971</id>
@@ -114,17 +125,6 @@ Adobe AcrobatおよびReaderの脆弱性（APSB26-44）に関する注意喚起 
 図書館・図書閲覧室ガイダンスのお知らせ first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新入生 初期パスワードの有効期限について【4/20まで】]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=24372</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/03/2026_password/"/>
-        <updated>2026-04-03T05:30:13.000Z</updated>
-        <summary type="html"><![CDATA[新入生のアカウントにはあらかじめ初期パスワードが設定されています。 有効期限までにパスワードの変更が行われなかった場合、セキュリティ上の理由により、アカウントがロックされ、各サービスのご利用が停止されます。 なお、有効期 […]
-新入生 初期パスワードの有効期限について【4/20まで】 first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
         </author>
     </entry>
 </feed>
