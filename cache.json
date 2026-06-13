@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27243",
+          "author": "小此木俊宏",
+          "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/13/opacmaintenance-20260618/",
+          "publishedOn": "2026-06-13T10:25:55.000Z",
+          "wordCount": 1224,
+          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27175",
           "author": "katsumi",
           "description": "コンピュータービジョン入門セミナー 　自動運転、医療画像解析、顔認識、外観検査など、様々な分野で活用されているコンピュータービジョン。画像や動画から情報を抽出するこの技術を、本セミナーではMATLABを使って基礎から学び […]\nMATLABコンピュータービジョン入門セミナー（6/26開催） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/10/202606_matlab/",
           "publishedOn": "2026-06-10T04:21:41.000Z",
-          "wordCount": 1436,
+          "wordCount": 1437,
           "title": "MATLABコンピュータービジョン入門セミナー（6/26開催）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-04-28T09:26:02.000Z",
           "wordCount": 1261,
           "title": "paizaラーニングガイダンス（4/30開催）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=25829",
-          "author": "katsumi",
-          "description": "以下の日程より前期の利用相談・プログラム相談のサービスを開始いたします。 　本サービスは対面による相談窓口です。本学の大学院生が相談にのり、一緒に解決方法を考えます。パソコンの操作やプログラム作成時のエラー、授業の課題 […]\n利用相談・プログラム相談のサービス開始について first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/09/202604_soudan-service/",
-          "publishedOn": "2026-04-09T06:40:32.000Z",
-          "wordCount": 1229,
-          "title": "利用相談・プログラム相談のサービス開始について",
           "imageUrl": null
         }
       ]
