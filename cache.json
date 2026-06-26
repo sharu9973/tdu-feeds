@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27325",
+          "author": "小此木俊宏",
+          "description": "ScienceDirectを提供するELSEVIER（エルゼビア）主催の英語論文投稿セミナーが以下のとおり開催されます。本セミナーでは「アクセプトされやすい論文とは？ ～出版社の立場から～」と題して、論文投稿に際して押 […]\n英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/26/elsevier_seminar_20260715/",
+          "publishedOn": "2026-06-26T02:58:19.000Z",
+          "wordCount": 1294,
+          "title": "英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27243",
           "author": "小此木俊宏",
           "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/13/opacmaintenance-20260618/",
           "publishedOn": "2026-06-13T10:25:55.000Z",
-          "wordCount": 1258,
+          "wordCount": 1260,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-04-28T09:33:37.000Z",
           "wordCount": 1260,
           "title": "【緊急】WebClassシステムメンテナンス（5/1）のお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26711",
-          "author": "yatsuko",
-          "description": "paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python、Ruby、PHP […]\npaizaラーニングガイダンス（4/30開催） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/202604_paizaguidance/",
-          "publishedOn": "2026-04-28T09:26:02.000Z",
-          "wordCount": 1295,
-          "title": "paizaラーニングガイダンス（4/30開催）",
           "imageUrl": null
         }
       ]

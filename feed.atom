@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-06-26T02:42:16.394Z</updated>
+    <updated>2026-06-26T06:48:08.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27325</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/06/26/elsevier_seminar_20260715/"/>
+        <updated>2026-06-26T02:58:19.000Z</updated>
+        <summary type="html"><![CDATA[ScienceDirectを提供するELSEVIER（エルゼビア）主催の英語論文投稿セミナーが以下のとおり開催されます。本セミナーでは「アクセプトされやすい論文とは？ ～出版社の立場から～」と題して、論文投稿に際して押 […]
+英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27243</id>
@@ -101,17 +112,6 @@ Webclass、UNIPA等アクセス障害について（復旧済） first appeared 
         <updated>2026-04-28T09:33:37.000Z</updated>
         <summary type="html"><![CDATA[緊急メンテナンス作業のため、以下の期間WebClassのサービスを停止いたします。ご迷惑をお掛けいたしますが、ご理解ご協力のほどよろしくお願いいたします。 【日付】: ２０２６年５月１日（金）【時間】: 午前 ７:３０～ […]
 【緊急】WebClassシステムメンテナンス（5/1）のお知らせ first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[paizaラーニングガイダンス（4/30開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26711</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/04/28/202604_paizaguidance/"/>
-        <updated>2026-04-28T09:26:02.000Z</updated>
-        <summary type="html"><![CDATA[paiza（パイザ）ラーニング （ https://paiza.jp/works ）は、動画を使ったオンラインのプログラミング入門学習コンテンツです。　プログラミング講座では、 Java、Python、Ruby、PHP […]
-paizaラーニングガイダンス（4/30開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
