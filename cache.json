@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27644",
+          "author": "yatsuko",
+          "description": "7/15（水） 16時半頃より教育・研究用プリントシステムにて、印刷障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：通常印刷、webプリント、モビリティプリントから出力した印刷ジョブが、印刷されない […]\n【復旧】教育・研究用プリントシステム印刷障害ついて（7/15） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/15/printsystem20260715/",
+          "publishedOn": "2026-07-15T11:33:54.000Z",
+          "wordCount": 1288,
+          "title": "【復旧】教育・研究用プリントシステム印刷障害ついて（7/15）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27624",
           "author": "小此木俊宏",
           "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/11/opacmaintenance-20260716/",
           "publishedOn": "2026-07-11T06:49:51.000Z",
-          "wordCount": 1259,
+          "wordCount": 1260,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-05-11T07:25:44.000Z",
           "wordCount": 1257,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26814",
-          "author": "yatsuko",
-          "description": "5/7（木） 9時半頃よりBoxで障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：Boxへのログインは可能だが、ファイルやフォルダへのアクセスが不安定になる。 発生日時：2026年5月7日（木）　9 […]\n【復旧】Boxの障害について（5/7） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/07/network-260507/",
-          "publishedOn": "2026-05-07T02:19:55.000Z",
-          "wordCount": 1262,
-          "title": "【復旧】Boxの障害について（5/7）",
           "imageUrl": null
         }
       ]
