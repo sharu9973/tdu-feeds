@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-07-31T05:58:29.537Z</updated>
+    <updated>2026-07-31T08:50:58.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27790</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/maintenance-20260825/"/>
+        <updated>2026-07-31T07:48:15.000Z</updated>
+        <summary type="html"><![CDATA[最新版ソフトウェアを利用できるようにするため、ソフトウェアライセンスサーバ、ライセンスマネージャの更新作業を実施いたします。作業中はサーバの変更を伴うためライセンスサーバを利用するソフトウェアが利用できなくなります。 作 […]
+ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>katsumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プリントシステム停止のお知らせ（8/6～18）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27822</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/202607_printsystem/"/>
+        <updated>2026-07-31T06:30:41.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・カラー大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。  […]
+プリントシステム停止のお知らせ（8/6～18） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【復旧】教育・研究用プリントシステム印刷障害ついて（7/15）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27644</id>
@@ -90,28 +112,6 @@ O’Reilly出版の電子ブック（洋書）が閲覧できるようになり�
         <updated>2026-05-13T09:59:35.000Z</updated>
         <summary type="html"><![CDATA[以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。 短期間に度重なるメンテナンスとなりご迷惑をおかけしますが、　　　　　　　　　 […]
 図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webclass、UNIPA等アクセス障害について（復旧済）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26839</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/webclass_260430/"/>
-        <updated>2026-05-11T11:17:52.000Z</updated>
-        <summary type="html"><![CDATA[4/28（火）から4/30（木） にかけて、Webclass、UNIPA等にアクセス障害が発生いたしました。 障害内容：ロードバランサにおけるサーバ証明書関連の不具合により、　　　　　一部の端末・ブラウザからWebCla […]
-Webclass、UNIPA等アクセス障害について（復旧済） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26850</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/opacmaintenance-20260512/"/>
-        <updated>2026-05-11T07:25:44.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日時：2026年5 […]
-図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
         </author>

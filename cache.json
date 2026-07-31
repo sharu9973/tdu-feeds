@@ -6,12 +6,32 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27790",
+          "author": "katsumi",
+          "description": "最新版ソフトウェアを利用できるようにするため、ソフトウェアライセンスサーバ、ライセンスマネージャの更新作業を実施いたします。作業中はサーバの変更を伴うためライセンスサーバを利用するソフトウェアが利用できなくなります。 作 […]\nソフトウェアライセンスサーバ停止のお知らせ（2026/8/25） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/maintenance-20260825/",
+          "publishedOn": "2026-07-31T07:48:15.000Z",
+          "wordCount": 1338,
+          "title": "ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27822",
+          "author": "yatsuko",
+          "description": "以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・カラー大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。  […]\nプリントシステム停止のお知らせ（8/6～18） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/202607_printsystem/",
+          "publishedOn": "2026-07-31T06:30:41.000Z",
+          "wordCount": 1298,
+          "title": "プリントシステム停止のお知らせ（8/6～18）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27644",
           "author": "yatsuko",
           "description": "7/15（水） 16時半頃より教育・研究用プリントシステムにて、印刷障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：通常印刷、webプリント、モビリティプリントから出力した印刷ジョブが、印刷されない […]\n【復旧】教育・研究用プリントシステム印刷障害ついて（7/15） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/15/printsystem20260715/",
           "publishedOn": "2026-07-15T11:33:54.000Z",
-          "wordCount": 1288,
+          "wordCount": 1289,
           "title": "【復旧】教育・研究用プリントシステム印刷障害ついて（7/15）",
           "imageUrl": null
         },
@@ -83,26 +103,6 @@
           "publishedOn": "2026-05-13T09:59:35.000Z",
           "wordCount": 1259,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26839",
-          "author": "yatsuko",
-          "description": "4/28（火）から4/30（木） にかけて、Webclass、UNIPA等にアクセス障害が発生いたしました。 障害内容：ロードバランサにおけるサーバ証明書関連の不具合により、　　　　　一部の端末・ブラウザからWebCla […]\nWebclass、UNIPA等アクセス障害について（復旧済） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/webclass_260430/",
-          "publishedOn": "2026-05-11T11:17:52.000Z",
-          "wordCount": 1271,
-          "title": "Webclass、UNIPA等アクセス障害について（復旧済）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26850",
-          "author": "小此木俊宏",
-          "description": "以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日時：2026年5 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/11/opacmaintenance-20260512/",
-          "publishedOn": "2026-05-11T07:25:44.000Z",
-          "wordCount": 1257,
-          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/12）",
           "imageUrl": null
         }
       ]
