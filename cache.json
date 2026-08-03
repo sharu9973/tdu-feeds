@@ -6,12 +6,32 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27877",
+          "author": "小此木俊宏",
+          "description": "夏季休業期間中の図書の返却については、風除室に設置してあるブックポストで受付けます。東京千住キャンパスの場合、風除室へは身分証をリーダーにかざして入室してください。ただし、以下の日程は電気設備年次点検等による停電作業の影 […]\n夏季休業期間中の図書の返却について first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/bookpost_20260807-0818/",
+          "publishedOn": "2026-08-03T10:24:37.000Z",
+          "wordCount": 1259,
+          "title": "夏季休業期間中の図書の返却について",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27867",
+          "author": "小此木俊宏",
+          "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス中は蔵書検索（WebOPAC）の利用が停止する時間帯が発生します。以下の時間帯に接続エラーとなった場合は、時間を置いて再度お試しく […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/opacmaintenance-20260804/",
+          "publishedOn": "2026-08-03T09:20:37.000Z",
+          "wordCount": 1258,
+          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27790",
           "author": "katsumi",
           "description": "最新版ソフトウェアを利用できるようにするため、ソフトウェアライセンスサーバ、ライセンスマネージャの更新作業を実施いたします。作業中はサーバの変更を伴うためライセンスサーバを利用するソフトウェアが利用できなくなります。 作 […]\nソフトウェアライセンスサーバ停止のお知らせ（2026/8/25） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/maintenance-20260825/",
           "publishedOn": "2026-07-31T07:48:15.000Z",
-          "wordCount": 1338,
+          "wordCount": 1339,
           "title": "ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）",
           "imageUrl": null
         },
@@ -83,26 +103,6 @@
           "publishedOn": "2026-06-02T11:58:26.000Z",
           "wordCount": 1263,
           "title": "O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26971",
-          "author": "小此木俊宏",
-          "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/21/opacmaintenance-20260521/",
-          "publishedOn": "2026-05-21T04:42:20.000Z",
-          "wordCount": 1259,
-          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=26901",
-          "author": "小此木俊宏",
-          "description": "以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。 短期間に度重なるメンテナンスとなりご迷惑をおかけしますが、　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/05/13/opacmaintenance-20260514/",
-          "publishedOn": "2026-05-13T09:59:35.000Z",
-          "wordCount": 1259,
-          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14）",
           "imageUrl": null
         }
       ]

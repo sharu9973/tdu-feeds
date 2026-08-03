@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-03T06:13:17.298Z</updated>
+    <updated>2026-08-03T10:34:44.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏季休業期間中の図書の返却について]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27877</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/bookpost_20260807-0818/"/>
+        <updated>2026-08-03T10:24:37.000Z</updated>
+        <summary type="html"><![CDATA[夏季休業期間中の図書の返却については、風除室に設置してあるブックポストで受付けます。東京千住キャンパスの場合、風除室へは身分証をリーダーにかざして入室してください。ただし、以下の日程は電気設備年次点検等による停電作業の影 […]
+夏季休業期間中の図書の返却について first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27867</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/opacmaintenance-20260804/"/>
+        <updated>2026-08-03T09:20:37.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス中は蔵書検索（WebOPAC）の利用が停止する時間帯が発生します。以下の時間帯に接続エラーとなった場合は、時間を置いて再度お試しく […]
+図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27790</id>
@@ -90,28 +112,6 @@ MATLABコンピュータービジョン入門セミナー（6/26開催） first 
         <updated>2026-06-02T11:58:26.000Z</updated>
         <summary type="html"><![CDATA[この度、「ProQuest Ebook Central」にてO’Reilly（オライリー）社の刊行する書籍を電子ブックで閲覧できるようになりました。 「ProQuest Ebook Central」は、Cla […]
 O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26971</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/21/opacmaintenance-20260521/"/>
-        <updated>2026-05-21T04:42:20.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]
-図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/21） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=26901</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/05/13/opacmaintenance-20260514/"/>
-        <updated>2026-05-13T09:59:35.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程で図書館システムのメンテナンス作業を行います。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。 短期間に度重なるメンテナンスとなりご迷惑をおかけしますが、　　　　　　　　　 […]
-図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（5/14） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
         </author>
