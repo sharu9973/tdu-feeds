@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-05T05:39:16.407Z</updated>
+    <updated>2026-08-05T08:23:58.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[夏季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27901</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/05/2026_summer/"/>
+        <updated>2026-08-05T07:52:31.000Z</updated>
+        <summary type="html"><![CDATA[夏季休業期間中、以下の日程で窓口業務を停止いたします。 また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、８月１８日（火）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願 […]
+夏季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏季休業期間中の図書の返却について]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27877</id>
@@ -103,17 +114,6 @@
 MATLABコンピュータービジョン入門セミナー（6/26開催） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>katsumi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27055</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/06/02/proquest-_ebook_central_20260602/"/>
-        <updated>2026-06-02T11:58:26.000Z</updated>
-        <summary type="html"><![CDATA[この度、「ProQuest Ebook Central」にてO’Reilly（オライリー）社の刊行する書籍を電子ブックで閲覧できるようになりました。 「ProQuest Ebook Central」は、Cla […]
-O’Reilly出版の電子ブック（洋書）が閲覧できるようになりました first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
         </author>
     </entry>
 </feed>
