@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27913",
+          "author": "小此木俊宏",
+          "description": "総合メディアセンターでは、以下の通りIEEE講習会「IEEEでの論文発表：選択と手順」を対面とZoomのハイブリッドで開催いたします。 本講習会では、講師としてIEEEのクライアントサービスマネージャーであるAlex L […]\nIEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/ieee-trainingsession_20260914/",
+          "publishedOn": "2026-08-06T10:13:29.000Z",
+          "wordCount": 1309,
+          "title": "IEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27948",
           "author": "yatsuko",
           "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（8/18、19） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/202608_printsystem/",
           "publishedOn": "2026-08-06T03:37:43.000Z",
-          "wordCount": 1304,
+          "wordCount": 1305,
           "title": "プリントシステムメンテナンスについて（8/18、19）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-06-26T02:58:19.000Z",
           "wordCount": 1295,
           "title": "英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27243",
-          "author": "小此木俊宏",
-          "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/13/opacmaintenance-20260618/",
-          "publishedOn": "2026-06-13T10:25:55.000Z",
-          "wordCount": 1260,
-          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18）",
           "imageUrl": null
         }
       ]
