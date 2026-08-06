@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-06T01:54:53.465Z</updated>
+    <updated>2026-08-06T05:10:27.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プリントシステムメンテナンスについて（8/18、19）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27948</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/202608_printsystem/"/>
+        <updated>2026-08-06T03:37:43.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]
+プリントシステムメンテナンスについて（8/18、19） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夏季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27901</id>
@@ -103,17 +114,6 @@
 図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATLABコンピュータービジョン入門セミナー（6/26開催）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27175</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/06/10/202606_matlab/"/>
-        <updated>2026-06-10T04:21:41.000Z</updated>
-        <summary type="html"><![CDATA[コンピュータービジョン入門セミナー 　自動運転、医療画像解析、顔認識、外観検査など、様々な分野で活用されているコンピュータービジョン。画像や動画から情報を抽出するこの技術を、本セミナーではMATLABを使って基礎から学び […]
-MATLABコンピュータービジョン入門セミナー（6/26開催） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>

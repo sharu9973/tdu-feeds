@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27948",
+          "author": "yatsuko",
+          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（8/18、19） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/202608_printsystem/",
+          "publishedOn": "2026-08-06T03:37:43.000Z",
+          "wordCount": 1304,
+          "title": "プリントシステムメンテナンスについて（8/18、19）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27901",
           "author": "yatsuko",
           "description": "夏季休業期間中、以下の日程で窓口業務を停止いたします。 また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、８月１８日（火）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願 […]\n夏季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/05/2026_summer/",
           "publishedOn": "2026-08-05T07:52:31.000Z",
-          "wordCount": 1291,
+          "wordCount": 1292,
           "title": "夏季休業期間中の窓口停止・各種申請の取扱いについて",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-06-13T10:25:55.000Z",
           "wordCount": 1260,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（6/18）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27175",
-          "author": "katsumi",
-          "description": "コンピュータービジョン入門セミナー 　自動運転、医療画像解析、顔認識、外観検査など、様々な分野で活用されているコンピュータービジョン。画像や動画から情報を抽出するこの技術を、本セミナーではMATLABを使って基礎から学び […]\nMATLABコンピュータービジョン入門セミナー（6/26開催） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/10/202606_matlab/",
-          "publishedOn": "2026-06-10T04:21:41.000Z",
-          "wordCount": 1506,
-          "title": "MATLABコンピュータービジョン入門セミナー（6/26開催）",
           "imageUrl": null
         }
       ]
