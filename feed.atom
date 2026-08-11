@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-11T01:09:39.513Z</updated>
+    <updated>2026-08-11T03:28:29.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[埼玉鳩山キャンパスネットワークメンテナンス作業のお知らせ（8/11）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27970</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/11/networkmaintenance-20260811/"/>
+        <updated>2026-08-11T02:35:39.000Z</updated>
+        <summary type="html"><![CDATA[ネットワーク機器のメンテナンス作業を行います。 作業中は埼玉鳩山キャンパス全域および建屋ごとにネットワーク停止が発生します。 ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　＜埼玉鳩山キャンパス＞  […]
+埼玉鳩山キャンパスネットワークメンテナンス作業のお知らせ（8/11） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27913</id>
@@ -101,17 +112,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
         <updated>2026-07-11T06:49:51.000Z</updated>
         <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]
 図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27325</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/06/26/elsevier_seminar_20260715/"/>
-        <updated>2026-06-26T02:58:19.000Z</updated>
-        <summary type="html"><![CDATA[ScienceDirectを提供するELSEVIER（エルゼビア）主催の英語論文投稿セミナーが以下のとおり開催されます。本セミナーでは「アクセプトされやすい論文とは？ ～出版社の立場から～」と題して、論文投稿に際して押 […]
-英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
         </author>

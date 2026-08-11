@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27970",
+          "author": "yone",
+          "description": "ネットワーク機器のメンテナンス作業を行います。 作業中は埼玉鳩山キャンパス全域および建屋ごとにネットワーク停止が発生します。 ご迷惑をおかけしますが、ご理解・ご協力をお願いいたします。 日　時：　＜埼玉鳩山キャンパス＞  […]\n埼玉鳩山キャンパスネットワークメンテナンス作業のお知らせ（8/11） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/11/networkmaintenance-20260811/",
+          "publishedOn": "2026-08-11T02:35:39.000Z",
+          "wordCount": 1256,
+          "title": "埼玉鳩山キャンパスネットワークメンテナンス作業のお知らせ（8/11）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27913",
           "author": "小此木俊宏",
           "description": "総合メディアセンターでは、以下の通りIEEE講習会「IEEEでの論文発表：選択と手順」を対面とZoomのハイブリッドで開催いたします。 本講習会では、講師としてIEEEのクライアントサービスマネージャーであるAlex L […]\nIEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/ieee-trainingsession_20260914/",
           "publishedOn": "2026-08-06T10:13:29.000Z",
-          "wordCount": 1309,
+          "wordCount": 1310,
           "title": "IEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-07-11T06:49:51.000Z",
           "wordCount": 1260,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27325",
-          "author": "小此木俊宏",
-          "description": "ScienceDirectを提供するELSEVIER（エルゼビア）主催の英語論文投稿セミナーが以下のとおり開催されます。本セミナーでは「アクセプトされやすい論文とは？ ～出版社の立場から～」と題して、論文投稿に際して押 […]\n英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/06/26/elsevier_seminar_20260715/",
-          "publishedOn": "2026-06-26T02:58:19.000Z",
-          "wordCount": 1295,
-          "title": "英語論文投稿セミナー「アクセプトされやすい論文とは？ ～出版社の立場から～」の開催について（7/15）",
           "imageUrl": null
         }
       ]
