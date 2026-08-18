@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-18T13:36:05.755Z</updated>
+    <updated>2026-08-18T14:24:55.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【不具合】Webプリント一時停止のお知らせ（8/18～）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27993</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/18/printsystem20260818/"/>
+        <updated>2026-08-18T14:04:58.000Z</updated>
+        <summary type="html"><![CDATA[教研プリントシステムのメンテナンス後、一部機能に不具合が発生しているため、現在 Webプリントの利用を一時停止しています。 障害内容：Webプリントで、ジョブをアップロードする際にエラーになり、印刷ができない。 発生日時 […]
+【不具合】Webプリント一時停止のお知らせ（8/18～） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埼玉鳩山キャンパスネットワークメンテナンス作業のお知らせ（8/11）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27970</id>
@@ -103,17 +114,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
 【復旧】教育・研究用プリントシステム印刷障害ついて（7/15） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27624</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/07/11/opacmaintenance-20260716/"/>
-        <updated>2026-07-11T06:49:51.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス時間中の30分～60分程度、蔵書検索（WebOPAC）の利用が停止します。　　　　　　　　　　　　　　　　　　　　　　　　　　　　 […]
-図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（7/16） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
         </author>
     </entry>
 </feed>
