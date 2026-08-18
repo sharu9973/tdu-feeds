@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-18T17:19:38.349Z</updated>
+    <updated>2026-08-18T18:26:30.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -11,7 +11,7 @@
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27993</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/18/printsystem20260818/"/>
         <updated>2026-08-18T14:04:58.000Z</updated>
-        <summary type="html"><![CDATA[教研プリントシステムのメンテナンス後、一部機能に不具合が発生しているため、現在 Webプリントの利用を一時停止しています。 障害内容：Webプリントで、ジョブをアップロードする際にエラーになり、印刷ができない。 発生日時 […]
+        <summary type="html"><![CDATA[教研プリントシステムのメンテナンス後、一部機能に不具合が発生しているため、Webプリントの利用を一時停止しています。 障害内容：Webプリントで、ジョブをアップロードする際にエラーになり、印刷ができない。 発生日時：20 […]
 【不具合】Webプリント一時停止のお知らせ（8/18～） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
