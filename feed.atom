@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-08-19T12:30:59.331Z</updated>
+    <updated>2026-08-19T13:37:30.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[【不具合】Webプリント一時停止のお知らせ（8/18～）]]></title>
+        <title type="html"><![CDATA[【復旧】Webプリント一時停止のお知らせ（8/18～19）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27993</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/18/printsystem20260818/"/>
         <updated>2026-08-18T14:04:58.000Z</updated>
-        <summary type="html"><![CDATA[教研プリントシステムのメンテナンス後、一部機能に不具合が発生しているため、Webプリントの利用を一時停止しています。 障害内容：Webプリントで、ジョブをアップロードする際にエラーになり、印刷ができない。 発生日時：20 […]
-【不具合】Webプリント一時停止のお知らせ（8/18～） first appeared on 総合メディアセンター.]]></summary>
+        <summary type="html"><![CDATA[教研プリントシステムのメンテナンス後、Webプリントのサービスに不具合が発生し、利用ができませんでした。 障害内容：Webプリントで、ジョブをアップロードする際にエラーになり、印刷ができない。 発生日時：2026年8月1 […]
+【復旧】Webプリント一時停止のお知らせ（8/18～19） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
