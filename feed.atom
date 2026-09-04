@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-09-04T10:21:07.512Z</updated>
+    <updated>2026-09-04T14:40:24.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（9/10）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28110</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/09/04/opacmaintenance-20260910/"/>
+        <updated>2026-09-04T10:33:33.000Z</updated>
+        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　メンテナンス中は蔵書検索（WebOPAC）の利用が停止す […]
+図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（9/10） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【復旧】Webプリント一時停止のお知らせ（8/18～19）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27993</id>
@@ -101,17 +112,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
         <updated>2026-07-31T06:30:41.000Z</updated>
         <summary type="html"><![CDATA[以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・カラー大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。  […]
 プリントシステム停止のお知らせ（8/6～18） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復旧】教育・研究用プリントシステム印刷障害ついて（7/15）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27644</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/07/15/printsystem20260715/"/>
-        <updated>2026-07-15T11:33:54.000Z</updated>
-        <summary type="html"><![CDATA[7/15（水） 16時半頃より教育・研究用プリントシステムにて、印刷障害が発生し、サービスが不安定な状態が発生しておりました。 障害内容：通常印刷、webプリント、モビリティプリントから出力した印刷ジョブが、印刷されない […]
-【復旧】教育・研究用プリントシステム印刷障害ついて（7/15） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
