@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28256",
+          "author": "KanekoManami",
+          "description": "Apple社よりmacOS 27(Golden Gate)のリリースが発表されましたが、リリース直後は以下のセキュリティ製品が正常に動作しない場合がございます。各セキュリティ製品の対応が完了するまで、バージョンアップの延 […]\nmacOS 27(Golden Gate)へのバージョンアップに関する注意事項 first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/15/macos-27golden-gate%e3%81%b8%e3%81%ae%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a2%e3%83%83%e3%83%97%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/",
+          "publishedOn": "2026-09-15T08:36:18.000Z",
+          "wordCount": 1292,
+          "title": "macOS 27(Golden Gate)へのバージョンアップに関する注意事項",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28110",
           "author": "小此木俊宏",
           "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　メンテナンス中は蔵書検索（WebOPAC）の利用が停止す […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（9/10） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/04/opacmaintenance-20260910/",
           "publishedOn": "2026-09-04T10:33:33.000Z",
-          "wordCount": 1274,
+          "wordCount": 1277,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（9/10）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-07-31T07:48:15.000Z",
           "wordCount": 1381,
           "title": "ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27822",
-          "author": "yatsuko",
-          "description": "以下の日程において、プリントシステムを停止いたします。そのため、学内に設置されたプリントシステムの複合機・カラー大判プリンタのご利用ができなくなります。 ご迷惑をおかけいたしますが、ご理解・ご協力をお願い申し上げます。  […]\nプリントシステム停止のお知らせ（8/6～18） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/202607_printsystem/",
-          "publishedOn": "2026-07-31T06:30:41.000Z",
-          "wordCount": 1313,
-          "title": "プリントシステム停止のお知らせ（8/6～18）",
           "imageUrl": null
         }
       ]
