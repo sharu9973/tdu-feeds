@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28103",
+          "author": "yatsuko",
+          "description": "修了・卒業予定者 各位 　総合メディアセンターが提供する各種サービスに関して、修了・卒業後の扱い等をお知らせします。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。 詳細はこちら ⇒修了・卒業 […]\n修了生・卒業生の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/16/202609_graduation/",
+          "publishedOn": "2026-09-16T02:48:08.000Z",
+          "wordCount": 1352,
+          "title": "修了生・卒業生の総合メディアセンター各種サービスの扱いについて",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28256",
           "author": "KanekoManami",
           "description": "Apple社よりmacOS 27(Golden Gate)のリリースが発表されましたが、リリース直後は以下のセキュリティ製品が正常に動作しない場合がございます。各セキュリティ製品の対応が完了するまで、バージョンアップの延 […]\nmacOS 27(Golden Gate)へのバージョンアップに関する注意事項 first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/15/macos-27golden-gate%e3%81%b8%e3%81%ae%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%a2%e3%83%83%e3%83%97%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/",
           "publishedOn": "2026-09-15T08:36:18.000Z",
-          "wordCount": 1292,
+          "wordCount": 1293,
           "title": "macOS 27(Golden Gate)へのバージョンアップに関する注意事項",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-08-03T09:20:37.000Z",
           "wordCount": 1273,
           "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27790",
-          "author": "katsumi",
-          "description": "最新版ソフトウェアへの対応およびライセンス更新のため、ソフトウェアライセンスサーバ、ライセンスマネージャの更新作業を実施します。作業中はサーバ変更を行うため、ライセンスサーバを利用する対象ソフトウェアを利用できない場合が […]\nソフトウェアライセンスサーバ停止のお知らせ（2026/8/25） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/maintenance-20260825/",
-          "publishedOn": "2026-07-31T07:48:15.000Z",
-          "wordCount": 1381,
-          "title": "ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）",
           "imageUrl": null
         }
       ]

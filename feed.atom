@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-09-16T00:56:34.880Z</updated>
+    <updated>2026-09-16T05:36:11.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[修了生・卒業生の総合メディアセンター各種サービスの扱いについて]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28103</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/09/16/202609_graduation/"/>
+        <updated>2026-09-16T02:48:08.000Z</updated>
+        <summary type="html"><![CDATA[修了・卒業予定者 各位 　総合メディアセンターが提供する各種サービスに関して、修了・卒業後の扱い等をお知らせします。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。 詳細はこちら ⇒修了・卒業 […]
+修了生・卒業生の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS 27(Golden Gate)へのバージョンアップに関する注意事項]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28256</id>
@@ -103,17 +114,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
 図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27790</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/07/31/maintenance-20260825/"/>
-        <updated>2026-07-31T07:48:15.000Z</updated>
-        <summary type="html"><![CDATA[最新版ソフトウェアへの対応およびライセンス更新のため、ソフトウェアライセンスサーバ、ライセンスマネージャの更新作業を実施します。作業中はサーバ変更を行うため、ライセンスサーバを利用する対象ソフトウェアを利用できない場合が […]
-ソフトウェアライセンスサーバ停止のお知らせ（2026/8/25） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>katsumi</name>
         </author>
     </entry>
 </feed>
