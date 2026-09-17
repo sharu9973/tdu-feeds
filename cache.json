@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28210",
+          "author": "小此木俊宏",
+          "description": "図書館システムの安定した運用およびサービス品質の維持を目的として、クラウド事業者による定期的なメンテナンス作業が実施されます。このため、月1回程度、蔵書検索（WebOPAC）が一時的に利用できない時間帯が発生します。あら […]\n図書館システムメンテナンス作業についてのお知らせ first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/17/opacmaintenance-20260912/",
+          "publishedOn": "2026-09-17T10:39:47.000Z",
+          "wordCount": 1271,
+          "title": "図書館システムメンテナンス作業についてのお知らせ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28103",
           "author": "yatsuko",
           "description": "修了・卒業予定者 各位 　総合メディアセンターが提供する各種サービスに関して、修了・卒業後の扱い等をお知らせします。利用方法、注意事項等がありますので、必ず詳細を確認するようお願いいたします。 詳細はこちら ⇒修了・卒業 […]\n修了生・卒業生の総合メディアセンター各種サービスの扱いについて first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/16/202609_graduation/",
           "publishedOn": "2026-09-16T02:48:08.000Z",
-          "wordCount": 1352,
+          "wordCount": 1353,
           "title": "修了生・卒業生の総合メディアセンター各種サービスの扱いについて",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-08-03T10:24:37.000Z",
           "wordCount": 1275,
           "title": "夏季休業期間中の図書の返却について",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27867",
-          "author": "小此木俊宏",
-          "description": "以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス中は蔵書検索（WebOPAC）の利用が停止する時間帯が発生します。以下の時間帯に接続エラーとなった場合は、時間を置いて再度お試しく […]\n図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/opacmaintenance-20260804/",
-          "publishedOn": "2026-08-03T09:20:37.000Z",
-          "wordCount": 1273,
-          "title": "図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4）",
           "imageUrl": null
         }
       ]

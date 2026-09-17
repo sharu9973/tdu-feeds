@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-09-17T05:55:38.203Z</updated>
+    <updated>2026-09-17T10:48:02.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[図書館システムメンテナンス作業についてのお知らせ]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28210</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/09/17/opacmaintenance-20260912/"/>
+        <updated>2026-09-17T10:39:47.000Z</updated>
+        <summary type="html"><![CDATA[図書館システムの安定した運用およびサービス品質の維持を目的として、クラウド事業者による定期的なメンテナンス作業が実施されます。このため、月1回程度、蔵書検索（WebOPAC）が一時的に利用できない時間帯が発生します。あら […]
+図書館システムメンテナンス作業についてのお知らせ first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>小此木俊宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修了生・卒業生の総合メディアセンター各種サービスの扱いについて]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28103</id>
@@ -101,17 +112,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
         <updated>2026-08-03T10:24:37.000Z</updated>
         <summary type="html"><![CDATA[夏季休業期間中の図書の返却については、風除室に設置してあるブックポストで受付けます。東京千住キャンパスの場合、2号館1階の風除室へは身分証をリーダーにかざして入室してください。ただし、以下の日程は電気設備年次点検等による […]
 夏季休業期間中の図書の返却について first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>小此木俊宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4）]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27867</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/03/opacmaintenance-20260804/"/>
-        <updated>2026-08-03T09:20:37.000Z</updated>
-        <summary type="html"><![CDATA[以下の日程で、クラウド業者による図書館システムのメンテナンス作業が行われます。メンテナンス中は蔵書検索（WebOPAC）の利用が停止する時間帯が発生します。以下の時間帯に接続エラーとなった場合は、時間を置いて再度お試しく […]
-図書館システムメンテナンス作業による蔵書検索（WebOPAC）利用停止のお知らせ（8/4） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>小此木俊宏</name>
         </author>
