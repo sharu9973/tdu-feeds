@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-09-24T10:53:42.894Z</updated>
+    <updated>2026-09-24T15:38:53.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[教研プリントシステム臨時メンテナンスについて（10/2）]]></title>
+        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28403</id>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/09/24/202610_printsystem/"/>
+        <updated>2026-09-24T12:20:52.000Z</updated>
+        <summary type="html"><![CDATA[以下の日時において、セキュリティ対策に伴うプリントシステムの臨時メンテナンス作業を実施いたします。 今回は、授業への影響をできるだけ抑えるため、休校日に合わせて作業を実施します。 ご迷惑をおかけいたしますが、ご理解ご協力 […]
+教研プリントシステム臨時メンテナンスについて（10/2） first appeared on 総合メディアセンター.]]></summary>
+        <author>
+            <name>yatsuko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「IEEE 論文執筆・オープンアクセス シンポジウム」の開催について（10/8）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28384</id>
@@ -101,17 +112,6 @@ IEEE講習会「IEEEでの論文発表：選択と手順」の開催について
         <updated>2026-08-06T03:37:43.000Z</updated>
         <summary type="html"><![CDATA[以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]
 プリントシステムメンテナンスについて（8/18、19） first appeared on 総合メディアセンター.]]></summary>
-        <author>
-            <name>yatsuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏季休業期間中の窓口停止・各種申請の取扱いについて]]></title>
-        <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=27901</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/08/05/2026_summer/"/>
-        <updated>2026-08-05T07:52:31.000Z</updated>
-        <summary type="html"><![CDATA[夏季休業期間中、以下の日程で窓口業務を停止いたします。 また、各種申請の取扱いを停止いたします。期間中に申し込みされた申請については、８月１８日（火）以降に受付を行います。 ご迷惑をおかけいたしますが、ご理解ご協力をお願 […]
-夏季休業期間中の窓口停止・各種申請の取扱いについて first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
