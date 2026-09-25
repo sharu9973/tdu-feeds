@@ -6,12 +6,22 @@
       "siteUrl": "https://www.mrcl.dendai.ac.jp/mrcl",
       "articles": [
         {
+          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28423",
+          "author": "yatsuko",
+          "description": "MATLABは、国内外の企業や研究機関で幅広く活用されているプログラミング言語です。 　学科によっては、授業で扱う機会が少なく、研究室に配属されてから使い始める学生も少なくありません。実験や実習のデータ整理やグラフ作成 […]\n【MATLAB入門セミナー】MATLABの基本操作を学ぼう（10/5開催） first appeared on 総合メディアセンター.",
+          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/25/202610_matlab/",
+          "publishedOn": "2026-09-25T07:42:23.000Z",
+          "wordCount": 1514,
+          "title": "【MATLAB入門セミナー】MATLABの基本操作を学ぼう（10/5開催）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=28403",
           "author": "yatsuko",
           "description": "以下の日時において、セキュリティ対策に伴うプリントシステムの臨時メンテナンス作業を実施いたします。 今回は、授業への影響をできるだけ抑えるため、休校日に合わせて作業を実施します。 ご迷惑をおかけいたしますが、ご理解ご協力 […]\n教研プリントシステム臨時メンテナンスについて（10/2） first appeared on 総合メディアセンター.",
           "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/09/24/202610_printsystem/",
           "publishedOn": "2026-09-24T12:20:52.000Z",
-          "wordCount": 1316,
+          "wordCount": 1317,
           "title": "教研プリントシステム臨時メンテナンスについて（10/2）",
           "imageUrl": null
         },
@@ -93,16 +103,6 @@
           "publishedOn": "2026-08-06T10:13:29.000Z",
           "wordCount": 1325,
           "title": "IEEE講習会「IEEEでの論文発表：選択と手順」の開催について（9/14）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.mrcl.dendai.ac.jp/mrcl/?p=27948",
-          "author": "yatsuko",
-          "description": "以下の日時において、プリントシステムのメンテナンス作業を実施いたします。 ご迷惑をおかけいたしますが、ご理解ご協力をお願い申しあげます。 作業日時 　※作業時間中は、プリントシステムの利用ができません。　※作業時間は長引 […]\nプリントシステムメンテナンスについて（8/18、19） first appeared on 総合メディアセンター.",
-          "link": "https://www.mrcl.dendai.ac.jp/mrcl/2026/08/06/202608_printsystem-2/",
-          "publishedOn": "2026-08-06T03:37:43.000Z",
-          "wordCount": 1325,
-          "title": "プリントシステムメンテナンスについて（8/18、19）",
           "imageUrl": null
         }
       ]
