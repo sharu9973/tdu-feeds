@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-10-21T05:36:59.855Z</updated>
+    <updated>2026-10-21T10:57:42.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
@@ -11,7 +11,7 @@
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28612</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/10/21/unipa_261021/"/>
         <updated>2026-10-21T04:09:22.000Z</updated>
-        <summary type="html"><![CDATA[10月21日（水）、システムの不具合により、UNIPAにログインできない障害が発生しました。 障害内容：ステムの不具合により、UNIPAにログインできない状態となっていました。 発生日時：2026年10月21日（水）7: […]
+        <summary type="html"><![CDATA[10月21日（水）、システムの不具合により、UNIPAにログインできない障害が発生しました。 障害内容：システムの不具合により、UNIPAにログインできない状態となっていました。 発生日時：2026年10月21日（水）7 […]
 UNIPAアクセス障害について（復旧済） first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
