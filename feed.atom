@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-11-11T00:57:46.051Z</updated>
+    <updated>2026-11-11T07:30:16.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[共通パスワード変更のお願い（11月30日まで）]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28772</id>
-        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/11/10/%e5%85%b1%e9%80%9a%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e5%a4%89%e6%9b%b4%e3%81%ae%e3%81%8a%e9%a1%98%e3%81%84%ef%bc%8811%e6%9c%8830%e6%97%a5%e3%81%be%e3%81%a7%ef%bc%89/"/>
+        <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/11/10/passwordupdate2026/"/>
         <updated>2026-11-10T08:30:08.000Z</updated>
         <summary type="html"><![CDATA[昨今、サイバー攻撃による情報漏洩が相次いで発生しています。 学外サービス等で使用しているパスワードを本学の共通パスワードとして使い回している場合、当該サービスから流出した情報により、本学の共通パスワードが第三者に知られて […]
 共通パスワード変更のお願い（11月30日まで） first appeared on 総合メディアセンター.]]></summary>
