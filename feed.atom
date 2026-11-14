@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://s21rd.github.io/tdu-feeds/index.html</id>
     <title>TDU Feeds</title>
-    <updated>2026-11-14T02:50:36.589Z</updated>
+    <updated>2026-11-14T09:41:51.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://s21rd.github.io/tdu-feeds/index.html"/>
     <link rel="self" href="https://s21rd.github.io/tdu-feeds/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[【障害情報】Microsoft 365のサービス障害について(11/13)]]></title>
+        <title type="html"><![CDATA[【復旧】Microsoft 365のサービス障害について(11/13発生)]]></title>
         <id>https://www.mrcl.dendai.ac.jp/mrcl/?p=28938</id>
         <link href="https://www.mrcl.dendai.ac.jp/mrcl/2026/11/13/m365_261113/"/>
         <updated>2026-11-13T01:11:43.000Z</updated>
-        <summary type="html"><![CDATA[2026年11月13日（金）未明より、Microsoft 365の複数のサービスにおいて障害が発生しています。 本障害により、学生メールサービス（Outlook）、OneDrive、SharePoint等のサービスに接続 […]
-【障害情報】Microsoft 365のサービス障害について(11/13) first appeared on 総合メディアセンター.]]></summary>
+        <summary type="html"><![CDATA[【11月14日16時更新】 2026年11月13日（金）未明より発生していたMicrosoft 365のサービス障害について、Microsoft社よりサービスが復旧した旨の発表がありました。 本障害により、学生メールサー […]
+【復旧】Microsoft 365のサービス障害について(11/13発生) first appeared on 総合メディアセンター.]]></summary>
         <author>
             <name>yatsuko</name>
         </author>
